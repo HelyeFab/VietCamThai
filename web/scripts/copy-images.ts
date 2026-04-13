@@ -1,8 +1,14 @@
 import fs from "fs";
 import path from "path";
 
-const SRC = path.join(__dirname, "..", "..", "guida", "assets", "images");
-const DEST = path.join(__dirname, "..", "public", "images");
+// Find guida/ from either web/ or project root
+const cwd = process.cwd();
+const SRC = fs.existsSync(path.join(cwd, "guida"))
+  ? path.join(cwd, "guida", "assets", "images")
+  : path.join(cwd, "..", "guida", "assets", "images");
+const DEST = fs.existsSync(path.join(cwd, "public"))
+  ? path.join(cwd, "public", "images")
+  : path.join(cwd, "web", "public", "images");
 
 function copyRecursive(src: string, dest: string) {
   if (!fs.existsSync(src)) return;

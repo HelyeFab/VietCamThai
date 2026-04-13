@@ -1,8 +1,13 @@
 import fs from "fs";
 import path from "path";
 
-const GUIDA_DIR = path.join(__dirname, "..", "..", "guida");
-const OUT_DIR = path.join(__dirname, "..", "public");
+const cwd = process.cwd();
+const GUIDA_DIR = fs.existsSync(path.join(cwd, "guida"))
+  ? path.join(cwd, "guida")
+  : path.join(cwd, "..", "guida");
+const OUT_DIR = fs.existsSync(path.join(cwd, "public"))
+  ? path.join(cwd, "public")
+  : path.join(cwd, "web", "public");
 
 interface SearchDoc {
   id: number;

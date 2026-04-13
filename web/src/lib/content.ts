@@ -2,8 +2,19 @@ import fs from "fs";
 import path from "path";
 import { parseMarkdown, type ParsedMarkdown } from "./markdown";
 
-const GUIDA_DIR = path.join(process.cwd(), "..", "guida");
-const DATA_DIR = path.join(process.cwd(), "..", "data");
+// Resolve guida/ and data/ — works both locally (cwd=web/) and on Vercel (cwd=project root)
+function findDir(name: string): string {
+  // Try as sibling of cwd (Vercel: cwd is project root)
+  const asChild = path.join(process.cwd(), name);
+  if (fs.existsSync(asChild)) return asChild;
+  // Try as sibling of parent (local dev: cwd is web/)
+  const asParentChild = path.join(process.cwd(), "..", name);
+  if (fs.existsSync(asParentChild)) return asParentChild;
+  throw new Error(`Cannot find ${name}/ directory from ${process.cwd()}`);
+}
+
+const GUIDA_DIR = findDir("guida");
+const DATA_DIR = findDir("data");
 
 export interface StageData {
   id: string;
