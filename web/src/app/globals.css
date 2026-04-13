@@ -1,0 +1,200 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --color-primary: var(--c-primary);
+  --color-primary-light: var(--c-primary-light);
+  --color-primary-dark: var(--c-primary-dark);
+  --color-secondary: var(--c-secondary);
+  --color-secondary-light: var(--c-secondary-light);
+  --color-accent: var(--c-accent);
+  --color-bg: var(--c-bg);
+  --color-surface: var(--c-surface);
+  --color-text: var(--c-text);
+  --color-text-secondary: var(--c-text-secondary);
+  --color-border: var(--c-border);
+  --color-vietnam: #DA291C;
+  --color-cambodia: #032EA1;
+  --color-thailand: #311B92;
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+}
+
+/* ── Light mode (default) ─────────────────────────── */
+:root {
+  --c-primary: #C2703E;
+  --c-primary-light: #D4935F;
+  --c-primary-dark: #A55D2F;
+  --c-secondary: #1B6B6D;
+  --c-secondary-light: #238A8D;
+  --c-accent: #D4A843;
+  --c-bg: #FAF7F2;
+  --c-surface: #FFFFFF;
+  --c-text: #2D2A26;
+  --c-text-secondary: #6B6560;
+  --c-border: #E8E3DC;
+}
+
+/* ── Dark mode ────────────────────────────────────── */
+.dark {
+  --c-primary: #D4935F;
+  --c-primary-light: #E0A876;
+  --c-primary-dark: #C2703E;
+  --c-secondary: #2DA5A8;
+  --c-secondary-light: #3AC0C3;
+  --c-accent: #D4A843;
+  --c-bg: #1A1816;
+  --c-surface: #252220;
+  --c-text: #E8E3DC;
+  --c-text-secondary: #9B9590;
+  --c-border: #3A3530;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--c-bg);
+  color: var(--c-text);
+  font-family: var(--font-sans);
+  transition: background-color 0.3s, color 0.3s;
+}
+
+/* ── Markdown prose styles ────────────────────────── */
+.prose h2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+  color: var(--c-text);
+  border-bottom: 2px solid var(--c-border);
+  padding-bottom: 0.5rem;
+}
+
+.prose h3 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+  color: var(--c-primary-dark);
+}
+
+.prose h4 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-top: 1.25rem;
+  margin-bottom: 0.4rem;
+}
+
+.prose p {
+  margin-bottom: 1rem;
+  line-height: 1.75;
+}
+
+.prose ul, .prose ol {
+  margin-bottom: 1rem;
+  padding-left: 1.5rem;
+}
+
+.prose ul { list-style-type: disc; }
+.prose ol { list-style-type: decimal; }
+
+.prose li {
+  margin-bottom: 0.35rem;
+  line-height: 1.65;
+}
+
+.prose a {
+  color: var(--c-secondary);
+  text-decoration: underline;
+  text-decoration-color: var(--c-secondary);
+  text-underline-offset: 2px;
+  transition: color 0.2s;
+}
+
+.prose a:hover {
+  color: var(--c-primary);
+  text-decoration-color: var(--c-primary);
+}
+
+.prose strong {
+  font-weight: 600;
+}
+
+.prose img {
+  border-radius: 0.75rem;
+  margin: 1.5rem 0;
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  max-height: 400px;
+}
+
+.prose img[style*="display:none"],
+.prose img:not([src]),
+.prose img[src=""] {
+  display: none !important;
+}
+
+.prose table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-size: 0.9rem;
+}
+
+.prose th {
+  background: var(--c-primary);
+  color: white;
+  padding: 0.6rem 0.75rem;
+  text-align: left;
+  font-weight: 600;
+}
+
+.prose td {
+  padding: 0.5rem 0.75rem;
+  border-bottom: 1px solid var(--c-border);
+}
+
+.prose tr:hover td {
+  background: rgba(194, 112, 62, 0.05);
+}
+
+.dark .prose tr:hover td {
+  background: rgba(212, 147, 95, 0.08);
+}
+
+.prose blockquote {
+  border-left: 4px solid var(--c-accent);
+  padding: 0.75rem 1rem;
+  margin: 1.5rem 0;
+  background: rgba(212, 168, 67, 0.08);
+  border-radius: 0 0.5rem 0.5rem 0;
+  font-style: italic;
+}
+
+.dark .prose blockquote {
+  background: rgba(212, 168, 67, 0.05);
+}
+
+.prose hr {
+  border: none;
+  border-top: 2px solid var(--c-border);
+  margin: 2rem 0;
+}
+
+.prose code {
+  background: rgba(194, 112, 62, 0.1);
+  padding: 0.15rem 0.4rem;
+  border-radius: 0.25rem;
+  font-size: 0.875em;
+}
+
+.dark .prose code {
+  background: rgba(212, 147, 95, 0.15);
+}
+
+.dark .prose img {
+  opacity: 0.9;
+}

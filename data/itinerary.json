@@ -1,0 +1,1319 @@
+{
+  "trip": {
+    "title": "Vietnam · Cambogia · Thailandia",
+    "dates": "20 Settembre – 17 Ottobre 2026",
+    "duration_days": 28,
+    "travelers": 4
+  },
+  "stages": [
+    {
+      "id": "01-hanoi",
+      "name": "Hanoi",
+      "days": [
+        1,
+        2,
+        3
+      ],
+      "country": "Vietnam",
+      "stage_days": [
+        {
+          "day_number": 1,
+          "date": "20 Set",
+          "location": "HANOI",
+          "country_zone": "Vietnam — Nord",
+          "what_to_see": "Arrivo, check-in, Old Quarter serale, assaggio pho bò",
+          "alternative_extra": "Prenota il bus per Ha Long già al check-in (evita i tour organizzati cari)",
+          "transport": "Taxi dall'aero → hotel (Grab ~5€)",
+          "accommodation_cost": "25€",
+          "nights": "1"
+        },
+        {
+          "day_number": 2,
+          "date": "21 Set",
+          "location": "HANOI",
+          "country_zone": "Vietnam — Nord",
+          "what_to_see": "Lago Hoan Kiem, Tempio della Letteratura, Museo Etnologico",
+          "alternative_extra": "Train Street la sera (attenzione: alcune zone ora chiuse ai turisti, verifica sul posto)",
+          "transport": "A piedi / Grab",
+          "accommodation_cost": "25€",
+          "nights": "1"
+        },
+        {
+          "day_number": 3,
+          "date": "22 Set",
+          "location": "HANOI",
+          "country_zone": "Vietnam — Nord",
+          "what_to_see": "Quartiere Francese, Mausoleo Ho Chi Minh, Tempio Quan Thanh",
+          "alternative_extra": "Tour Street Food serale (3–5€ fai-da-te: bun cha, banh mi, bia hoi)",
+          "transport": "A piedi",
+          "accommodation_cost": "25€",
+          "nights": "1"
+        }
+      ]
+    },
+    {
+      "id": "02-baia-lan-ha",
+      "name": "Baia di Lan Ha",
+      "days": [
+        4
+      ],
+      "country": "Vietnam",
+      "stage_days": [
+        {
+          "day_number": 4,
+          "date": "23 Set",
+          "location": "BAIA LAN HA",
+          "country_zone": "Vietnam — Nord",
+          "what_to_see": "Crociera Baia di Lan Ha (preferibile ad Ha Long: meno affollata). Kayak tra i faraglioni e villaggi galleggianti. 1 notte a bordo",
+          "alternative_extra": "⭐ CONSIGLIO: prenota barca 2 giorni/1 notte — vale di più che il tour 1 giorno",
+          "transport": "Bus Hanoi→Cat Ba + barca (tour ~45€/pp)",
+          "accommodation_cost": "50€",
+          "nights": "1"
+        }
+      ]
+    },
+    {
+      "id": "03-ninh-binh",
+      "name": "Ninh Binh",
+      "days": [
+        5,
+        6
+      ],
+      "country": "Vietnam",
+      "stage_days": [
+        {
+          "day_number": 5,
+          "date": "24 Set",
+          "location": "NINH BINH",
+          "country_zone": "Vietnam — Nord",
+          "what_to_see": "Trang An in barca (UNESCO), Hoa Lu (antiche capitali), Mua Cave al tramonto",
+          "alternative_extra": "Pagoda Bai Dinh (più grande del SE Asia). Noleggia bici per raggiungerla (3€)",
+          "transport": "Bus Hanoi→Ninh Binh (2.5h, ~5€)",
+          "accommodation_cost": "22€",
+          "nights": "1"
+        },
+        {
+          "day_number": 6,
+          "date": "25 Set",
+          "location": "NINH BINH",
+          "country_zone": "Vietnam — Nord",
+          "what_to_see": "Alba alle grotte di Tam Coc in barca, giro in bici nei risaie, relax",
+          "alternative_extra": "Van Long Nature Reserve: scena identica a Trang An ma senza turisti",
+          "transport": "Bici a noleggio (3€/giorno)",
+          "accommodation_cost": "22€",
+          "nights": "1"
+        }
+      ]
+    },
+    {
+      "id": "04-phong-nha",
+      "name": "Phong Nha",
+      "days": [
+        7,
+        8
+      ],
+      "country": "Vietnam",
+      "stage_days": [
+        {
+          "day_number": 7,
+          "date": "26 Set",
+          "location": "PHONG NHA",
+          "country_zone": "Vietnam — Centro",
+          "what_to_see": "Arrivo. Grotta di Phong Nha in barca (mattino). Pomeriggio libero al fiume",
+          "alternative_extra": "Duck Stop: birre e tramonto nella valle di Bong Lai (bici o moto)",
+          "transport": "Bus notturno Ninh Binh→Phong Nha (9h, ~12€) — arrivo mattina",
+          "accommodation_cost": "20€",
+          "nights": "1"
+        },
+        {
+          "day_number": 8,
+          "date": "27 Set",
+          "location": "PHONG NHA",
+          "country_zone": "Vietnam — Centro",
+          "what_to_see": "Paradise Cave (tour mattino, ~25€/pp): la grotta più grande visitabile del mondo",
+          "alternative_extra": "Dark Cave per zipline e nuoto nel fango (avventuroso, ~30€/pp)",
+          "transport": "Tour organizzato dalla guest house",
+          "accommodation_cost": "20€",
+          "nights": "1"
+        }
+      ]
+    },
+    {
+      "id": "05-hue",
+      "name": "Hué",
+      "days": [
+        9,
+        10,
+        11
+      ],
+      "country": "Vietnam",
+      "stage_days": [
+        {
+          "day_number": 9,
+          "date": "28 Set",
+          "location": "HUÉ",
+          "country_zone": "Vietnam — Centro",
+          "what_to_see": "Città Imperiale (mezza giornata), Pagoda Thien Mu al tramonto",
+          "alternative_extra": "Parco acquatico abbandonato Ho Thuy Tien (entrata non ufficiale, a tuo rischio)",
+          "transport": "Bus Phong Nha→Hué (4h, ~7€)",
+          "accommodation_cost": "22€",
+          "nights": "1"
+        },
+        {
+          "day_number": 10,
+          "date": "29 Set",
+          "location": "HUÉ",
+          "country_zone": "Vietnam — Centro",
+          "what_to_see": "Tombe Imperiali di Minh Mang e Tu Duc (le più belle). Giro in moto sulle colline",
+          "alternative_extra": "Villaggio dell'incenso di Thuy Xuan: i migliori souvenir di tutto il viaggio",
+          "transport": "Moto a noleggio (5€/giorno) o xe om (mototaxi)",
+          "accommodation_cost": "22€",
+          "nights": "1"
+        },
+        {
+          "day_number": 11,
+          "date": "30 Set",
+          "location": "HUÉ",
+          "country_zone": "Vietnam — Centro",
+          "what_to_see": "Mercato Dong Ba, ultimo giro nella Cittadella, cena con bun bo Hue (la specialità locale)",
+          "alternative_extra": "Thuan An Beach (20 min): ultima spiaggia prima di spostarsi verso il centro",
+          "transport": "A piedi / Grab",
+          "accommodation_cost": "22€",
+          "nights": "1"
+        }
+      ]
+    },
+    {
+      "id": "06-hoi-an",
+      "name": "Hoi An",
+      "days": [
+        12,
+        13,
+        14
+      ],
+      "country": "Vietnam",
+      "stage_days": [
+        {
+          "day_number": 12,
+          "date": "01 Ott",
+          "location": "HOI AN",
+          "country_zone": "Vietnam — Centro",
+          "what_to_see": "Trasferimento via Hai Van Pass (panoramico). Arrivo + giro serale Città Vecchia illuminata",
+          "alternative_extra": "⭐ Il trasferimento via Passo delle Nubi è uno dei più belli del viaggio. Noleggia moto o auto privata",
+          "transport": "Auto privata via Hai Van Pass (~25€/pp), non bus",
+          "accommodation_cost": "28€",
+          "nights": "1"
+        },
+        {
+          "day_number": 13,
+          "date": "02 Ott",
+          "location": "HOI AN",
+          "country_zone": "Vietnam — Centro",
+          "what_to_see": "Santuario di My Son (mattino presto: meno caldo e meno turisti). Città Vecchia nel pomeriggio",
+          "alternative_extra": "Tour Basket Boat a Cam Thanh (1.5h, 10€/pp): unico e divertente",
+          "transport": "Tour organizzato dalla guest house",
+          "accommodation_cost": "28€",
+          "nights": "1"
+        },
+        {
+          "day_number": 14,
+          "date": "03 Ott",
+          "location": "HOI AN",
+          "country_zone": "Vietnam — Centro",
+          "what_to_see": "Spiaggia An Bang (la migliore della zona). Shopping sarto Hoi An (abiti su misura in 24h)",
+          "alternative_extra": "An Hoi Islet di sera: pontile illuminato con cena sul fiume",
+          "transport": "Bici (gratuita con molti hotel)",
+          "accommodation_cost": "28€",
+          "nights": "1"
+        }
+      ]
+    },
+    {
+      "id": "07-ho-chi-minh-city",
+      "name": "Ho Chi Minh City",
+      "days": [
+        15,
+        16,
+        17
+      ],
+      "country": "Vietnam",
+      "stage_days": [
+        {
+          "day_number": 15,
+          "date": "04 Ott",
+          "location": "HO CHI MINH C.",
+          "country_zone": "Vietnam — Sud",
+          "what_to_see": "Arrivo. Distretto 1: Ufficio Postale, Notre-Dame, Palazzo Reunification",
+          "alternative_extra": "Distretto 3 e Distretto 4 per cena locale (evita i ristoranti turistici del D1)",
+          "transport": "Volo Da Nang→HCMC (~40€, prenota in anticipo)",
+          "accommodation_cost": "30€",
+          "nights": "1"
+        },
+        {
+          "day_number": 16,
+          "date": "05 Ott",
+          "location": "HO CHI MINH C.",
+          "country_zone": "Vietnam — Sud",
+          "what_to_see": "Museo della Guerra (doveroso). Tunnel di Cu Chi (mezza giornata)",
+          "alternative_extra": "Cu Chi: scegli Ben Duoc (più autentico) invece di Ben Dinh (più turistico)",
+          "transport": "Tour half-day Cu Chi (~15€/pp)",
+          "accommodation_cost": "30€",
+          "nights": "1"
+        },
+        {
+          "day_number": 17,
+          "date": "06 Ott",
+          "location": "HO CHI MINH C.",
+          "country_zone": "Vietnam — Sud",
+          "what_to_see": "Cho Lon (Chinatown): Pagoda Thien Hau, mercato Binh Tay. Sera: rooftop bar",
+          "alternative_extra": "Bui Vien Street la sera (la \"via dei backpacker\"): caotica ma caratteristica",
+          "transport": "Grab / metro",
+          "accommodation_cost": "30€",
+          "nights": "1"
+        }
+      ]
+    },
+    {
+      "id": "08-chau-doc-mekong",
+      "name": "Chau Doc & Mekong",
+      "days": [
+        18
+      ],
+      "country": "Vietnam",
+      "stage_days": [
+        {
+          "day_number": 18,
+          "date": "07 Ott",
+          "location": "CHAU DOC",
+          "country_zone": "Vietnam — Delta Mekong",
+          "what_to_see": "Bus per Chau Doc. Foresta di Tra Su in barca tra i fiori di loto (mattino)",
+          "alternative_extra": "Tramonto sul Monte Sam: vista sul delta e sul confine cambogiano",
+          "transport": "Bus HCMC→Chau Doc (5h, ~10€)",
+          "accommodation_cost": "20€",
+          "nights": "1"
+        }
+      ]
+    },
+    {
+      "id": "09-phnom-penh",
+      "name": "Phnom Penh",
+      "days": [
+        19,
+        20
+      ],
+      "country": "Cambogia",
+      "stage_days": [
+        {
+          "day_number": 19,
+          "date": "08 Ott",
+          "location": "PHNOM PENH",
+          "country_zone": "Cambogia",
+          "what_to_see": "Traversata in barca del Mekong. Arrivo e Palazzo Reale + Pagoda d'Argento",
+          "alternative_extra": "Crociera tramonto sulla confluenza Mekong–Tonle Sap (imperdibile, ~5€)",
+          "transport": "Barca veloce Chau Doc→Phnom Penh (5h, ~15€)",
+          "accommodation_cost": "25€",
+          "nights": "1"
+        },
+        {
+          "day_number": 20,
+          "date": "09 Ott",
+          "location": "PHNOM PENH",
+          "country_zone": "Cambogia",
+          "what_to_see": "Museo Tuol Sleng S-21 (Genocidio Khmer) e Killing Fields di Choeung Ek — visita pesante ma necessaria",
+          "alternative_extra": "Mercato centrale Art Deco (Phsar Thmei) e street food locale",
+          "transport": "Tuk-tuk (tutto il giorno, ~10€)",
+          "accommodation_cost": "25€",
+          "nights": "1"
+        }
+      ]
+    },
+    {
+      "id": "10-siem-reap-angkor",
+      "name": "Siem Reap & Angkor",
+      "days": [
+        21,
+        22,
+        23,
+        24
+      ],
+      "country": "Cambogia",
+      "stage_days": [
+        {
+          "day_number": 21,
+          "date": "10 Ott",
+          "location": "SIEM REAP",
+          "country_zone": "Cambogia",
+          "what_to_see": "Arrivo. Pub Street per cena. Giro del Night Market",
+          "alternative_extra": "Prenota già in hotel il tuk-tuk per l'alba di Angkor Wat (giorno seguente)",
+          "transport": "Minivan Phnom Penh→Siem Reap (6h, ~12€)",
+          "accommodation_cost": "22€",
+          "nights": "1"
+        },
+        {
+          "day_number": 22,
+          "date": "11 Ott",
+          "location": "ANGKOR WAT",
+          "country_zone": "Cambogia",
+          "what_to_see": "⭐ ALBA ad Angkor Wat (partenza ore 5:00). Angkor Thom e Bayon. Ta Prohm (Tomb Raider)",
+          "alternative_extra": "Temple Pass 3 giorni (~62$): ne vale la pena se visiti anche Beng Mealea",
+          "transport": "Tuk-tuk giornaliero (~15€)",
+          "accommodation_cost": "22€",
+          "nights": "1"
+        },
+        {
+          "day_number": 23,
+          "date": "12 Ott",
+          "location": "SIEM REAP",
+          "country_zone": "Cambogia",
+          "what_to_see": "Beng Mealea: tempio sommerso dalla giungla, quasi senza turisti (40 km da Siem Reap)",
+          "alternative_extra": "Villaggio galleggiante Kampong Phluk (meglio di Kampong Khleang per distanza)",
+          "transport": "Tuk-tuk o minivan (~20€)",
+          "accommodation_cost": "22€",
+          "nights": "1"
+        },
+        {
+          "day_number": 24,
+          "date": "13 Ott",
+          "location": "SIEM REAP",
+          "country_zone": "Cambogia",
+          "what_to_see": "Pre Rup e East Mebon al tramonto. Giorno più rilassato. Massaggio khmer tradizionale",
+          "alternative_extra": "Scuola di cucina cambodgiana mezza giornata (~20€/pp)",
+          "transport": "Tuk-tuk",
+          "accommodation_cost": "22€",
+          "nights": "1"
+        }
+      ]
+    },
+    {
+      "id": "11-bangkok",
+      "name": "Bangkok",
+      "days": [
+        25,
+        26,
+        27,
+        28
+      ],
+      "country": "Thailandia",
+      "stage_days": [
+        {
+          "day_number": 25,
+          "date": "14 Ott",
+          "location": "BANGKOK",
+          "country_zone": "Thailandia",
+          "what_to_see": "Arrivo. Check-in Khao San / Silom. Grand Palace + Wat Pho (mattino presto)",
+          "alternative_extra": "Evita il Grand Palace nel pomeriggio: folla e caldo. Vai all'alba (apertura 8:30)",
+          "transport": "Volo Siem Reap→Bangkok (~50€, prenota in anticipo)",
+          "accommodation_cost": "35€",
+          "nights": "1"
+        },
+        {
+          "day_number": 26,
+          "date": "15 Ott",
+          "location": "BANGKOK",
+          "country_zone": "Thailandia",
+          "what_to_see": "Wat Arun in barca (traghetto 4 Baht). Chinatown di Yaowarat per cena",
+          "alternative_extra": "Mercato notturno Rot Fai Ratchada (giovedì-domenica): vintage e street food",
+          "transport": "BTS Skytrain + traghetti sul fiume",
+          "accommodation_cost": "35€",
+          "nights": "1"
+        },
+        {
+          "day_number": 27,
+          "date": "16 Ott",
+          "location": "BANGKOK",
+          "country_zone": "Thailandia",
+          "what_to_see": "Mercato di Maeklong (sui binari del treno). Amphawa Floating Market",
+          "alternative_extra": "Partenza mattina presto: Maeklong + Amphawa si combinano bene in mezza giornata",
+          "transport": "Minivan da Mo Chit (~3€/pp ciascuno, 1.5h)",
+          "accommodation_cost": "35€",
+          "nights": "1"
+        },
+        {
+          "day_number": 28,
+          "date": "17 Ott",
+          "location": "BANGKOK",
+          "country_zone": "Thailandia — Partenza",
+          "what_to_see": "Mercato dei Fiori Pak Khlong Talat (alba, ore 4–6: più bello al mattino). Ultimo giro",
+          "alternative_extra": "Jim Thompson House se hai tempo prima del volo",
+          "transport": "Grab all'aeroporto (~15€)",
+          "accommodation_cost": "—",
+          "nights": "—"
+        }
+      ]
+    }
+  ],
+  "budget": [
+    {
+      "category": "DOCUMENTI",
+      "item": "E-Visa Vietnam",
+      "min_eur": "20",
+      "estimate_eur": "25",
+      "max_eur": "30",
+      "notes": "Sul sito governativo ufficiale evisa.xuatnhapcanh.gov.vn"
+    },
+    {
+      "category": "DOCUMENTI",
+      "item": "Visto Cambogia arrivo",
+      "min_eur": "30",
+      "estimate_eur": "32",
+      "max_eur": "35",
+      "notes": "All'arrivo — portare foto tessera + USD cash"
+    },
+    {
+      "category": "DOCUMENTI",
+      "item": "Totale Documenti",
+      "min_eur": "50",
+      "estimate_eur": "57",
+      "max_eur": "65",
+      "notes": ""
+    },
+    {
+      "category": "ASSICURAZIONE",
+      "item": "Assicurazione 28gg",
+      "min_eur": "90",
+      "estimate_eur": "130",
+      "max_eur": "160",
+      "notes": "Copertura medica illimitata + rimpatrio — consigliata WorldNomads o AXA"
+    },
+    {
+      "category": "ALLOGGI",
+      "item": "Vietnam — 14 notti",
+      "min_eur": "168",
+      "estimate_eur": "224",
+      "max_eur": "280",
+      "notes": "Media 12–20€/notte in guest house o ostello con camera privata"
+    },
+    {
+      "category": "ALLOGGI",
+      "item": "Cambogia — 6 notti",
+      "min_eur": "96",
+      "estimate_eur": "132",
+      "max_eur": "168",
+      "notes": "Media 16–22€/notte — Siem Reap più caro di Phnom Penh"
+    },
+    {
+      "category": "ALLOGGI",
+      "item": "Thailandia — 4 notti",
+      "min_eur": "100",
+      "estimate_eur": "140",
+      "max_eur": "200",
+      "notes": "Bangkok: media 25–35€/notte per buona posizione"
+    },
+    {
+      "category": "ALLOGGI",
+      "item": "Totale Alloggi",
+      "min_eur": "364",
+      "estimate_eur": "496",
+      "max_eur": "648",
+      "notes": ""
+    },
+    {
+      "category": "TRASPORTI",
+      "item": "Volo Da Nang→HCMC",
+      "min_eur": "30",
+      "estimate_eur": "45",
+      "max_eur": "60",
+      "notes": "Prenota 30+ giorni prima — VietJet o Bamboo Airways"
+    },
+    {
+      "category": "TRASPORTI",
+      "item": "Bus notturni Vietnam",
+      "min_eur": "30",
+      "estimate_eur": "45",
+      "max_eur": "55",
+      "notes": "Ninh Binh→Phong Nha (12€), altri tratti"
+    },
+    {
+      "category": "TRASPORTI",
+      "item": "Auto Hoi An via Hai Van",
+      "min_eur": "20",
+      "estimate_eur": "25",
+      "max_eur": "35",
+      "notes": "Privata con autista — molto più panoramica del bus"
+    },
+    {
+      "category": "TRASPORTI",
+      "item": "Bus HCMC→Chau Doc",
+      "min_eur": "8",
+      "estimate_eur": "10",
+      "max_eur": "12",
+      "notes": "Compagnia Phuong Trang (FUTA)"
+    },
+    {
+      "category": "TRASPORTI",
+      "item": "Barca Chau Doc→Phnom P.",
+      "min_eur": "12",
+      "estimate_eur": "15",
+      "max_eur": "18",
+      "notes": "Barca veloce, 5h, colazione inclusa in alcuni tour"
+    },
+    {
+      "category": "TRASPORTI",
+      "item": "Minivan Phnom P.→Siem R.",
+      "min_eur": "10",
+      "estimate_eur": "12",
+      "max_eur": "15",
+      "notes": "6h, prenotabile in qualsiasi guesthouse"
+    },
+    {
+      "category": "TRASPORTI",
+      "item": "Volo Siem Reap→Bangkok",
+      "min_eur": "40",
+      "estimate_eur": "55",
+      "max_eur": "80",
+      "notes": "AirAsia o Bangkok Airways — prenota in anticipo"
+    },
+    {
+      "category": "TRASPORTI",
+      "item": "Grab/tuk-tuk/traghetti",
+      "min_eur": "40",
+      "estimate_eur": "60",
+      "max_eur": "80",
+      "notes": "Uso quotidiano nelle città"
+    },
+    {
+      "category": "TRASPORTI",
+      "item": "Crociera Lan Ha (1 notte)",
+      "min_eur": "40",
+      "estimate_eur": "50",
+      "max_eur": "70",
+      "notes": "Include pasti e kayak — Lan Ha > Ha Long per qualità"
+    },
+    {
+      "category": "TRASPORTI",
+      "item": "Totale Trasporti",
+      "min_eur": "230",
+      "estimate_eur": "317",
+      "max_eur": "425",
+      "notes": ""
+    },
+    {
+      "category": "INGRESSI",
+      "item": "Temple Pass Angkor (3gg)",
+      "min_eur": "58",
+      "estimate_eur": "62",
+      "max_eur": "62",
+      "notes": "Prezzo fisso UNESCO — biglietteria ufficiale"
+    },
+    {
+      "category": "INGRESSI",
+      "item": "Paradise Cave Phong Nha",
+      "min_eur": "22",
+      "estimate_eur": "25",
+      "max_eur": "25",
+      "notes": "Tour dalla guesthouse"
+    },
+    {
+      "category": "INGRESSI",
+      "item": "Tunnel Cu Chi",
+      "min_eur": "12",
+      "estimate_eur": "15",
+      "max_eur": "15",
+      "notes": "Con minibus da HCMC"
+    },
+    {
+      "category": "INGRESSI",
+      "item": "Trang An Ninh Binh",
+      "min_eur": "4",
+      "estimate_eur": "5",
+      "max_eur": "5",
+      "notes": "In barca (remi), 3h"
+    },
+    {
+      "category": "INGRESSI",
+      "item": "Museo S-21 + Killing F.",
+      "min_eur": "10",
+      "estimate_eur": "12",
+      "max_eur": "12",
+      "notes": "Audio guida consigliata (+3€)"
+    },
+    {
+      "category": "INGRESSI",
+      "item": "Wat Pho + Wat Arun",
+      "min_eur": "5",
+      "estimate_eur": "6",
+      "max_eur": "6",
+      "notes": "Bangkok"
+    },
+    {
+      "category": "INGRESSI",
+      "item": "Grand Palace Bangkok",
+      "min_eur": "14",
+      "estimate_eur": "15",
+      "max_eur": "15",
+      "notes": "Dress code obbligatorio"
+    },
+    {
+      "category": "INGRESSI",
+      "item": "Altri ingressi (varie)",
+      "min_eur": "20",
+      "estimate_eur": "30",
+      "max_eur": "50",
+      "notes": "Tombe Hue, Beng Mealea, Bai Dinh ecc."
+    },
+    {
+      "category": "INGRESSI",
+      "item": "Totale Ingressi",
+      "min_eur": "145",
+      "estimate_eur": "170",
+      "max_eur": "190",
+      "notes": ""
+    },
+    {
+      "category": "PASTI",
+      "item": "Vietnam — 18 giorni",
+      "min_eur": "120",
+      "estimate_eur": "180",
+      "max_eur": "250",
+      "notes": "Street food e ristoranti locali: 5–10€/giorno"
+    },
+    {
+      "category": "PASTI",
+      "item": "Cambogia — 6 giorni",
+      "min_eur": "60",
+      "estimate_eur": "90",
+      "max_eur": "130",
+      "notes": "Leggermente più caro del Vietnam: 10–15€/giorno"
+    },
+    {
+      "category": "PASTI",
+      "item": "Thailandia — 4 giorni",
+      "min_eur": "40",
+      "estimate_eur": "60",
+      "max_eur": "90",
+      "notes": "Bangkok street food eccellente: 10–15€/giorno"
+    },
+    {
+      "category": "PASTI",
+      "item": "Totale Pasti",
+      "min_eur": "220",
+      "estimate_eur": "330",
+      "max_eur": "470",
+      "notes": ""
+    },
+    {
+      "category": "EXTRA",
+      "item": "Scuola cucina / attività",
+      "min_eur": "30",
+      "estimate_eur": "50",
+      "max_eur": "80",
+      "notes": "Cucina khmer, basket boat, bici, massaggi"
+    },
+    {
+      "category": "EXTRA",
+      "item": "Souvenir e shopping",
+      "min_eur": "30",
+      "estimate_eur": "60",
+      "max_eur": "150",
+      "notes": "Sarto Hoi An (abiti su misura), artigianato"
+    },
+    {
+      "category": "EXTRA",
+      "item": "SIM locale (Vietnam)",
+      "min_eur": "5",
+      "estimate_eur": "8",
+      "max_eur": "10",
+      "notes": "Viettel o Vinaphone — 20–30GB per ~5€"
+    },
+    {
+      "category": "EXTRA",
+      "item": "Totale Extra",
+      "min_eur": "65",
+      "estimate_eur": "118",
+      "max_eur": "240",
+      "notes": ""
+    },
+    {
+      "category": "🏆  TOTALE STIMATO PER PERSONA (escluso volo intercontinentale)",
+      "item": "",
+      "min_eur": "1074",
+      "estimate_eur": "1488",
+      "max_eur": "2038",
+      "notes": ""
+    }
+  ],
+  "practical_notes": [
+    {
+      "topic": "DOCUMENTI",
+      "info": "E-Visa Vietnam (obbligatorio)",
+      "action": "⚡ Richiedi su evisa.xuatnhapcanh.gov.vn almeno 3gg prima — 25$"
+    },
+    {
+      "topic": "DOCUMENTI",
+      "info": "Visto Cambogia: all'arrivo barca/aeroporto — 30$ USD",
+      "action": "⚡ Porta 2 foto tessera + USD in contanti (banconote nuove)"
+    },
+    {
+      "topic": "DOCUMENTI",
+      "info": "Thailandia: nessun visto (30gg automatici)",
+      "action": "Nessuna azione richiesta"
+    },
+    {
+      "topic": "DOCUMENTI",
+      "info": "Passaporto: validità min. 6 mesi oltre la data di rientro",
+      "action": "⚡ Verifica la scadenza del passaporto"
+    },
+    {
+      "topic": "ASSICURAZIONE",
+      "info": "WorldNomads o AXA Assistance — 28 giorni",
+      "action": "⚡ Acquista prima della partenza. Copertura medica illimitata + evacuazione"
+    },
+    {
+      "topic": "ASSICURAZIONE",
+      "info": "Conserva i numeri di emergenza offline",
+      "action": "Salva il numero della tua assicurazione su telefono e carta"
+    },
+    {
+      "topic": "SALUTE",
+      "info": "Vaccini consigliati: Epatite A/B, Tifo, Tetano",
+      "action": "⚡ Consulta il medico del viaggiatore almeno 4 settimane prima"
+    },
+    {
+      "topic": "SALUTE",
+      "info": "Malaria: rischio basso nelle zone turistiche principali",
+      "action": "Porta repellente DEET 50% — usa zanzariera nelle guesthouse rurali"
+    },
+    {
+      "topic": "SALUTE",
+      "info": "Acqua: non potabile in tutto il SE Asia",
+      "action": "Porta una borraccia filtrante (es. LifeStraw) — risparmia plastica e soldi"
+    },
+    {
+      "topic": "SALUTE",
+      "info": "Farmaci di base",
+      "action": "⚡ Porta: Imodium, antibiotico per diarrea (Ciprofloxacina), antidolorifico, cerotti"
+    },
+    {
+      "topic": "DENARO",
+      "info": "Vietnam: Dong (VND) — 1€ ≈ 27.000 VND",
+      "action": "Preleva agli ATM locali (preferisci Vietcombank). Avvisa la banca prima di partire"
+    },
+    {
+      "topic": "DENARO",
+      "info": "Cambogia: USD accettati ovunque",
+      "action": "Porta 150–200$ USD cash in banconote da 20$ e 50$ nuove"
+    },
+    {
+      "topic": "DENARO",
+      "info": "Thailandia: Baht (THB) — 1€ ≈ 38 THB",
+      "action": "Preleva all'arrivo (ATM Bangkok: commissione ~6 Baht)"
+    },
+    {
+      "topic": "DENARO",
+      "info": "Carta di credito: usata nelle città grandi",
+      "action": "Mastercard/Visa accettata in hotel e ristoranti. Grab accetta carte"
+    },
+    {
+      "topic": "APP UTILI",
+      "info": "Grab — taxi e cibo (Vietnam, Cambogia, Thailandia)",
+      "action": "⚡ Installa prima di partire. Collega carta di credito o usa cash"
+    },
+    {
+      "topic": "APP UTILI",
+      "info": "PassApp — tuk-tuk in Cambogia",
+      "action": "Alternativa a Grab per i tuk-tuk a Phnom Penh e Siem Reap"
+    },
+    {
+      "topic": "APP UTILI",
+      "info": "Google Maps — scarica mappe offline",
+      "action": "⚡ Scarica offline: Vietnam, Cambogia, Thailandia prima del volo"
+    },
+    {
+      "topic": "APP UTILI",
+      "info": "XE Currency — conversione valute",
+      "action": "Usa sempre per verificare il tasso prima di cambiare contanti"
+    },
+    {
+      "topic": "APP UTILI",
+      "info": "iOverlander / Maps.me — punti di interesse",
+      "action": "Utile per zone rurali (Ninh Binh, Phong Nha, Mekong)"
+    },
+    {
+      "topic": "METEO",
+      "info": "Fine stagione monsoni (set-ott)",
+      "action": "Porta k-way leggero + scarpe da trekking impermeabili"
+    },
+    {
+      "topic": "METEO",
+      "info": "Temperature: 28–35°C con umidità alta",
+      "action": "Abbigliamento leggero, traspirante, colori chiari. Cappello obbligatorio"
+    },
+    {
+      "topic": "METEO",
+      "info": "Bangkok: ottobre = stagione piogge",
+      "action": "Possibili acquazzoni nel tardo pomeriggio — programma le visite al mattino"
+    },
+    {
+      "topic": "CONSIGLI",
+      "info": "Prenota alloggi su Booking.com / Hostelworld con cancellazione gratuita",
+      "action": "Tieni flessibilità — solo gli ultimi 5gg blinda la prenotazione"
+    },
+    {
+      "topic": "CONSIGLI",
+      "info": "Angkor Wat: alba = esperienza imperdibile",
+      "action": "⚡ Parti alle 5:00 dal tuo hotel a Siem Reap — porta torcia"
+    },
+    {
+      "topic": "CONSIGLI",
+      "info": "Hoi An sarto: consegna in 24–48h",
+      "action": "Porta modelli/foto di quello che vuoi. Prezzi: 30–80€ per abito"
+    },
+    {
+      "topic": "CONSIGLI",
+      "info": "Lan Ha vs Ha Long: preferisci Lan Ha",
+      "action": "Stessa bellezza ma meno affollata. Barca 2gg/1 notte > tour 1 giorno"
+    },
+    {
+      "topic": "CONSIGLI",
+      "info": "Evita i cambiavalute nelle agenzie turistiche",
+      "action": "Usa sempre ATM di banca ufficiale o paga con carta"
+    },
+    {
+      "topic": "CONSIGLI",
+      "info": "Dress code templi: spalle e ginocchia coperte",
+      "action": "Porta un sarong leggero — utile per Grand Palace, Angkor, My Son"
+    }
+  ],
+  "summary": [
+    {
+      "dates": "20–22 Set",
+      "country": "Vietnam",
+      "stage": "Hanoi",
+      "top_attraction": "Train Street + Old Quarter",
+      "transport_arrival": "Volo internazionale",
+      "nights": "3",
+      "cost_per_night": "25",
+      "total_accommodation": "75"
+    },
+    {
+      "dates": "23 Set",
+      "country": "Vietnam",
+      "stage": "Baia Lan Ha",
+      "top_attraction": "⭐ Crociera notturna + kayak",
+      "transport_arrival": "Bus + barca (tour, ~45€)",
+      "nights": "1",
+      "cost_per_night": "50",
+      "total_accommodation": "50"
+    },
+    {
+      "dates": "24–25 Set",
+      "country": "Vietnam",
+      "stage": "Ninh Binh",
+      "top_attraction": "Trang An in barca (UNESCO)",
+      "transport_arrival": "Bus (2.5h, ~5€)",
+      "nights": "2",
+      "cost_per_night": "22",
+      "total_accommodation": "44"
+    },
+    {
+      "dates": "26–27 Set",
+      "country": "Vietnam",
+      "stage": "Phong Nha",
+      "top_attraction": "Paradise Cave (la più grande)",
+      "transport_arrival": "Bus notturno (9h, ~12€)",
+      "nights": "2",
+      "cost_per_night": "20",
+      "total_accommodation": "40"
+    },
+    {
+      "dates": "28–30 Set",
+      "country": "Vietnam",
+      "stage": "Hué",
+      "top_attraction": "Città Imperiale + Tombe",
+      "transport_arrival": "Bus (4h, ~7€)",
+      "nights": "3",
+      "cost_per_night": "22",
+      "total_accommodation": "66"
+    },
+    {
+      "dates": "01–03 Ott",
+      "country": "Vietnam",
+      "stage": "Hoi An",
+      "top_attraction": "⭐ Città Vecchia illuminata",
+      "transport_arrival": "Auto via Hai Van Pass (~25€)",
+      "nights": "3",
+      "cost_per_night": "28",
+      "total_accommodation": "84"
+    },
+    {
+      "dates": "04–06 Ott",
+      "country": "Vietnam",
+      "stage": "Ho Chi Minh City",
+      "top_attraction": "Tunnel Cu Chi + Museo Guerra",
+      "transport_arrival": "Volo Da Nang→HCMC (~45€)",
+      "nights": "3",
+      "cost_per_night": "30",
+      "total_accommodation": "90"
+    },
+    {
+      "dates": "07 Ott",
+      "country": "Vietnam",
+      "stage": "Chau Doc",
+      "top_attraction": "Delta Mekong — tappa di confine",
+      "transport_arrival": "Bus (5h, ~10€)",
+      "nights": "1",
+      "cost_per_night": "20",
+      "total_accommodation": "20"
+    },
+    {
+      "dates": "08–09 Ott",
+      "country": "Cambogia",
+      "stage": "Phnom Penh",
+      "top_attraction": "Killing Fields + Palazzo Reale",
+      "transport_arrival": "Barca veloce (5h, ~15€)",
+      "nights": "2",
+      "cost_per_night": "25",
+      "total_accommodation": "50"
+    },
+    {
+      "dates": "10–12 Ott",
+      "country": "Cambogia",
+      "stage": "Siem Reap / Angkor",
+      "top_attraction": "⭐ Alba ad Angkor Wat",
+      "transport_arrival": "Minivan (6h, ~12€)",
+      "nights": "3",
+      "cost_per_night": "22",
+      "total_accommodation": "66"
+    },
+    {
+      "dates": "13 Ott",
+      "country": "Cambogia",
+      "stage": "Siem Reap",
+      "top_attraction": "Beng Mealea + relax",
+      "transport_arrival": "—",
+      "nights": "1",
+      "cost_per_night": "22",
+      "total_accommodation": "22"
+    },
+    {
+      "dates": "14–17 Ott",
+      "country": "Thai.",
+      "stage": "Bangkok",
+      "top_attraction": "Grand Palace + Wat Arun + mercati",
+      "transport_arrival": "Volo (~55€)",
+      "nights": "4",
+      "cost_per_night": "35",
+      "total_accommodation": "140"
+    },
+    {
+      "dates": "TOTALE ALLOGGI (camera doppia a persona)",
+      "country": "",
+      "stage": "",
+      "top_attraction": "",
+      "transport_arrival": "",
+      "nights": "",
+      "cost_per_night": "",
+      "total_accommodation": "=SUM(H3:H14)"
+    }
+  ],
+  "all_days": [
+    {
+      "day_number": 1,
+      "date": "20 Set",
+      "location": "HANOI",
+      "country_zone": "Vietnam — Nord",
+      "what_to_see": "Arrivo, check-in, Old Quarter serale, assaggio pho bò",
+      "alternative_extra": "Prenota il bus per Ha Long già al check-in (evita i tour organizzati cari)",
+      "transport": "Taxi dall'aero → hotel (Grab ~5€)",
+      "accommodation_cost": "25€",
+      "nights": "1"
+    },
+    {
+      "day_number": 2,
+      "date": "21 Set",
+      "location": "HANOI",
+      "country_zone": "Vietnam — Nord",
+      "what_to_see": "Lago Hoan Kiem, Tempio della Letteratura, Museo Etnologico",
+      "alternative_extra": "Train Street la sera (attenzione: alcune zone ora chiuse ai turisti, verifica sul posto)",
+      "transport": "A piedi / Grab",
+      "accommodation_cost": "25€",
+      "nights": "1"
+    },
+    {
+      "day_number": 3,
+      "date": "22 Set",
+      "location": "HANOI",
+      "country_zone": "Vietnam — Nord",
+      "what_to_see": "Quartiere Francese, Mausoleo Ho Chi Minh, Tempio Quan Thanh",
+      "alternative_extra": "Tour Street Food serale (3–5€ fai-da-te: bun cha, banh mi, bia hoi)",
+      "transport": "A piedi",
+      "accommodation_cost": "25€",
+      "nights": "1"
+    },
+    {
+      "day_number": 4,
+      "date": "23 Set",
+      "location": "BAIA LAN HA",
+      "country_zone": "Vietnam — Nord",
+      "what_to_see": "Crociera Baia di Lan Ha (preferibile ad Ha Long: meno affollata). Kayak tra i faraglioni e villaggi galleggianti. 1 notte a bordo",
+      "alternative_extra": "⭐ CONSIGLIO: prenota barca 2 giorni/1 notte — vale di più che il tour 1 giorno",
+      "transport": "Bus Hanoi→Cat Ba + barca (tour ~45€/pp)",
+      "accommodation_cost": "50€",
+      "nights": "1"
+    },
+    {
+      "day_number": 5,
+      "date": "24 Set",
+      "location": "NINH BINH",
+      "country_zone": "Vietnam — Nord",
+      "what_to_see": "Trang An in barca (UNESCO), Hoa Lu (antiche capitali), Mua Cave al tramonto",
+      "alternative_extra": "Pagoda Bai Dinh (più grande del SE Asia). Noleggia bici per raggiungerla (3€)",
+      "transport": "Bus Hanoi→Ninh Binh (2.5h, ~5€)",
+      "accommodation_cost": "22€",
+      "nights": "1"
+    },
+    {
+      "day_number": 6,
+      "date": "25 Set",
+      "location": "NINH BINH",
+      "country_zone": "Vietnam — Nord",
+      "what_to_see": "Alba alle grotte di Tam Coc in barca, giro in bici nei risaie, relax",
+      "alternative_extra": "Van Long Nature Reserve: scena identica a Trang An ma senza turisti",
+      "transport": "Bici a noleggio (3€/giorno)",
+      "accommodation_cost": "22€",
+      "nights": "1"
+    },
+    {
+      "day_number": 7,
+      "date": "26 Set",
+      "location": "PHONG NHA",
+      "country_zone": "Vietnam — Centro",
+      "what_to_see": "Arrivo. Grotta di Phong Nha in barca (mattino). Pomeriggio libero al fiume",
+      "alternative_extra": "Duck Stop: birre e tramonto nella valle di Bong Lai (bici o moto)",
+      "transport": "Bus notturno Ninh Binh→Phong Nha (9h, ~12€) — arrivo mattina",
+      "accommodation_cost": "20€",
+      "nights": "1"
+    },
+    {
+      "day_number": 8,
+      "date": "27 Set",
+      "location": "PHONG NHA",
+      "country_zone": "Vietnam — Centro",
+      "what_to_see": "Paradise Cave (tour mattino, ~25€/pp): la grotta più grande visitabile del mondo",
+      "alternative_extra": "Dark Cave per zipline e nuoto nel fango (avventuroso, ~30€/pp)",
+      "transport": "Tour organizzato dalla guest house",
+      "accommodation_cost": "20€",
+      "nights": "1"
+    },
+    {
+      "day_number": 9,
+      "date": "28 Set",
+      "location": "HUÉ",
+      "country_zone": "Vietnam — Centro",
+      "what_to_see": "Città Imperiale (mezza giornata), Pagoda Thien Mu al tramonto",
+      "alternative_extra": "Parco acquatico abbandonato Ho Thuy Tien (entrata non ufficiale, a tuo rischio)",
+      "transport": "Bus Phong Nha→Hué (4h, ~7€)",
+      "accommodation_cost": "22€",
+      "nights": "1"
+    },
+    {
+      "day_number": 10,
+      "date": "29 Set",
+      "location": "HUÉ",
+      "country_zone": "Vietnam — Centro",
+      "what_to_see": "Tombe Imperiali di Minh Mang e Tu Duc (le più belle). Giro in moto sulle colline",
+      "alternative_extra": "Villaggio dell'incenso di Thuy Xuan: i migliori souvenir di tutto il viaggio",
+      "transport": "Moto a noleggio (5€/giorno) o xe om (mototaxi)",
+      "accommodation_cost": "22€",
+      "nights": "1"
+    },
+    {
+      "day_number": 11,
+      "date": "30 Set",
+      "location": "HUÉ",
+      "country_zone": "Vietnam — Centro",
+      "what_to_see": "Mercato Dong Ba, ultimo giro nella Cittadella, cena con bun bo Hue (la specialità locale)",
+      "alternative_extra": "Thuan An Beach (20 min): ultima spiaggia prima di spostarsi verso il centro",
+      "transport": "A piedi / Grab",
+      "accommodation_cost": "22€",
+      "nights": "1"
+    },
+    {
+      "day_number": 12,
+      "date": "01 Ott",
+      "location": "HOI AN",
+      "country_zone": "Vietnam — Centro",
+      "what_to_see": "Trasferimento via Hai Van Pass (panoramico). Arrivo + giro serale Città Vecchia illuminata",
+      "alternative_extra": "⭐ Il trasferimento via Passo delle Nubi è uno dei più belli del viaggio. Noleggia moto o auto privata",
+      "transport": "Auto privata via Hai Van Pass (~25€/pp), non bus",
+      "accommodation_cost": "28€",
+      "nights": "1"
+    },
+    {
+      "day_number": 13,
+      "date": "02 Ott",
+      "location": "HOI AN",
+      "country_zone": "Vietnam — Centro",
+      "what_to_see": "Santuario di My Son (mattino presto: meno caldo e meno turisti). Città Vecchia nel pomeriggio",
+      "alternative_extra": "Tour Basket Boat a Cam Thanh (1.5h, 10€/pp): unico e divertente",
+      "transport": "Tour organizzato dalla guest house",
+      "accommodation_cost": "28€",
+      "nights": "1"
+    },
+    {
+      "day_number": 14,
+      "date": "03 Ott",
+      "location": "HOI AN",
+      "country_zone": "Vietnam — Centro",
+      "what_to_see": "Spiaggia An Bang (la migliore della zona). Shopping sarto Hoi An (abiti su misura in 24h)",
+      "alternative_extra": "An Hoi Islet di sera: pontile illuminato con cena sul fiume",
+      "transport": "Bici (gratuita con molti hotel)",
+      "accommodation_cost": "28€",
+      "nights": "1"
+    },
+    {
+      "day_number": 15,
+      "date": "04 Ott",
+      "location": "HO CHI MINH C.",
+      "country_zone": "Vietnam — Sud",
+      "what_to_see": "Arrivo. Distretto 1: Ufficio Postale, Notre-Dame, Palazzo Reunification",
+      "alternative_extra": "Distretto 3 e Distretto 4 per cena locale (evita i ristoranti turistici del D1)",
+      "transport": "Volo Da Nang→HCMC (~40€, prenota in anticipo)",
+      "accommodation_cost": "30€",
+      "nights": "1"
+    },
+    {
+      "day_number": 16,
+      "date": "05 Ott",
+      "location": "HO CHI MINH C.",
+      "country_zone": "Vietnam — Sud",
+      "what_to_see": "Museo della Guerra (doveroso). Tunnel di Cu Chi (mezza giornata)",
+      "alternative_extra": "Cu Chi: scegli Ben Duoc (più autentico) invece di Ben Dinh (più turistico)",
+      "transport": "Tour half-day Cu Chi (~15€/pp)",
+      "accommodation_cost": "30€",
+      "nights": "1"
+    },
+    {
+      "day_number": 17,
+      "date": "06 Ott",
+      "location": "HO CHI MINH C.",
+      "country_zone": "Vietnam — Sud",
+      "what_to_see": "Cho Lon (Chinatown): Pagoda Thien Hau, mercato Binh Tay. Sera: rooftop bar",
+      "alternative_extra": "Bui Vien Street la sera (la \"via dei backpacker\"): caotica ma caratteristica",
+      "transport": "Grab / metro",
+      "accommodation_cost": "30€",
+      "nights": "1"
+    },
+    {
+      "day_number": 18,
+      "date": "07 Ott",
+      "location": "CHAU DOC",
+      "country_zone": "Vietnam — Delta Mekong",
+      "what_to_see": "Bus per Chau Doc. Foresta di Tra Su in barca tra i fiori di loto (mattino)",
+      "alternative_extra": "Tramonto sul Monte Sam: vista sul delta e sul confine cambogiano",
+      "transport": "Bus HCMC→Chau Doc (5h, ~10€)",
+      "accommodation_cost": "20€",
+      "nights": "1"
+    },
+    {
+      "day_number": 19,
+      "date": "08 Ott",
+      "location": "PHNOM PENH",
+      "country_zone": "Cambogia",
+      "what_to_see": "Traversata in barca del Mekong. Arrivo e Palazzo Reale + Pagoda d'Argento",
+      "alternative_extra": "Crociera tramonto sulla confluenza Mekong–Tonle Sap (imperdibile, ~5€)",
+      "transport": "Barca veloce Chau Doc→Phnom Penh (5h, ~15€)",
+      "accommodation_cost": "25€",
+      "nights": "1"
+    },
+    {
+      "day_number": 20,
+      "date": "09 Ott",
+      "location": "PHNOM PENH",
+      "country_zone": "Cambogia",
+      "what_to_see": "Museo Tuol Sleng S-21 (Genocidio Khmer) e Killing Fields di Choeung Ek — visita pesante ma necessaria",
+      "alternative_extra": "Mercato centrale Art Deco (Phsar Thmei) e street food locale",
+      "transport": "Tuk-tuk (tutto il giorno, ~10€)",
+      "accommodation_cost": "25€",
+      "nights": "1"
+    },
+    {
+      "day_number": 21,
+      "date": "10 Ott",
+      "location": "SIEM REAP",
+      "country_zone": "Cambogia",
+      "what_to_see": "Arrivo. Pub Street per cena. Giro del Night Market",
+      "alternative_extra": "Prenota già in hotel il tuk-tuk per l'alba di Angkor Wat (giorno seguente)",
+      "transport": "Minivan Phnom Penh→Siem Reap (6h, ~12€)",
+      "accommodation_cost": "22€",
+      "nights": "1"
+    },
+    {
+      "day_number": 22,
+      "date": "11 Ott",
+      "location": "ANGKOR WAT",
+      "country_zone": "Cambogia",
+      "what_to_see": "⭐ ALBA ad Angkor Wat (partenza ore 5:00). Angkor Thom e Bayon. Ta Prohm (Tomb Raider)",
+      "alternative_extra": "Temple Pass 3 giorni (~62$): ne vale la pena se visiti anche Beng Mealea",
+      "transport": "Tuk-tuk giornaliero (~15€)",
+      "accommodation_cost": "22€",
+      "nights": "1"
+    },
+    {
+      "day_number": 23,
+      "date": "12 Ott",
+      "location": "SIEM REAP",
+      "country_zone": "Cambogia",
+      "what_to_see": "Beng Mealea: tempio sommerso dalla giungla, quasi senza turisti (40 km da Siem Reap)",
+      "alternative_extra": "Villaggio galleggiante Kampong Phluk (meglio di Kampong Khleang per distanza)",
+      "transport": "Tuk-tuk o minivan (~20€)",
+      "accommodation_cost": "22€",
+      "nights": "1"
+    },
+    {
+      "day_number": 24,
+      "date": "13 Ott",
+      "location": "SIEM REAP",
+      "country_zone": "Cambogia",
+      "what_to_see": "Pre Rup e East Mebon al tramonto. Giorno più rilassato. Massaggio khmer tradizionale",
+      "alternative_extra": "Scuola di cucina cambodgiana mezza giornata (~20€/pp)",
+      "transport": "Tuk-tuk",
+      "accommodation_cost": "22€",
+      "nights": "1"
+    },
+    {
+      "day_number": 25,
+      "date": "14 Ott",
+      "location": "BANGKOK",
+      "country_zone": "Thailandia",
+      "what_to_see": "Arrivo. Check-in Khao San / Silom. Grand Palace + Wat Pho (mattino presto)",
+      "alternative_extra": "Evita il Grand Palace nel pomeriggio: folla e caldo. Vai all'alba (apertura 8:30)",
+      "transport": "Volo Siem Reap→Bangkok (~50€, prenota in anticipo)",
+      "accommodation_cost": "35€",
+      "nights": "1"
+    },
+    {
+      "day_number": 26,
+      "date": "15 Ott",
+      "location": "BANGKOK",
+      "country_zone": "Thailandia",
+      "what_to_see": "Wat Arun in barca (traghetto 4 Baht). Chinatown di Yaowarat per cena",
+      "alternative_extra": "Mercato notturno Rot Fai Ratchada (giovedì-domenica): vintage e street food",
+      "transport": "BTS Skytrain + traghetti sul fiume",
+      "accommodation_cost": "35€",
+      "nights": "1"
+    },
+    {
+      "day_number": 27,
+      "date": "16 Ott",
+      "location": "BANGKOK",
+      "country_zone": "Thailandia",
+      "what_to_see": "Mercato di Maeklong (sui binari del treno). Amphawa Floating Market",
+      "alternative_extra": "Partenza mattina presto: Maeklong + Amphawa si combinano bene in mezza giornata",
+      "transport": "Minivan da Mo Chit (~3€/pp ciascuno, 1.5h)",
+      "accommodation_cost": "35€",
+      "nights": "1"
+    },
+    {
+      "day_number": 28,
+      "date": "17 Ott",
+      "location": "BANGKOK",
+      "country_zone": "Thailandia — Partenza",
+      "what_to_see": "Mercato dei Fiori Pak Khlong Talat (alba, ore 4–6: più bello al mattino). Ultimo giro",
+      "alternative_extra": "Jim Thompson House se hai tempo prima del volo",
+      "transport": "Grab all'aeroporto (~15€)",
+      "accommodation_cost": "—",
+      "nights": "—"
+    }
+  ]
+}

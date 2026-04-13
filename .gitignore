@@ -1,0 +1,19 @@
+# Dependencies
+web/node_modules/
+web/.next/
+web/out/
+
+# Environment / secrets
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+web/public/images/
+web/public/search-docs.json
+
+# Python cache
+__pycache__/
+*.pyc
