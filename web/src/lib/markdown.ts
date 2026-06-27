@@ -113,10 +113,25 @@ export async function parseMarkdown(raw: string): Promise<ParsedMarkdown> {
   const titleMatch = cleaned.match(/^#{1,2}\s+(.+)$/m);
   const title = titleMatch ? titleMatch[1].trim() : "";
 
-  // Extract first paragraph as excerpt
-  const excerptMatch = cleaned.match(/\n\n([^#\n][^\n]+)/);
-  const excerpt = excerptMatch
-    ? excerptMatch[1].replace(/[*_\[\]()]/g, "").slice(0, 200)
+  // Extract first real prose line as excerpt — skip headings, images, blockquotes, tables
+  const firstProse = cleaned
+    .split("\n")
+    .map((l) => l.trim())
+    .find(
+      (l) =>
+        l.length > 0 &&
+        !l.startsWith("#") &&
+        !l.startsWith("!") &&
+        !l.startsWith(">") &&
+        !l.startsWith("|") &&
+        !l.startsWith("---")
+    );
+  const excerpt = firstProse
+    ? firstProse
+        .replace(/!\[[^\]]*\]\([^)]*\)/g, "") // strip any inline images
+        .replace(/[*_\[\]()]/g, "")
+        .trim()
+        .slice(0, 200)
     : "";
 
   const processor = unified()

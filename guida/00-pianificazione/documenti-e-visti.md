@@ -19,7 +19,7 @@ Verificate di avere almeno 2 pagine bianche per i timbri
 
 **Buone notizie per voi italiani!** 
 I cittadini italiani possono entrare in Vietnam senza visto per soggiorni fino a 45 giorni
-. Dato che il vostro soggiorno sarà di circa 28 giorni, **non avrete bisogno di alcun visto** per il Vietnam.
+. Dato che la vostra permanenza in Vietnam (circa 19 giorni, dal 13 al 31 ottobre) resta ben sotto i 45 giorni, **non avrete bisogno di alcun visto** per il Vietnam.
 
 Tuttavia, se decideste di estendere il viaggio oltre i 45 giorni, dovrete richiedere l'e-visa:
 

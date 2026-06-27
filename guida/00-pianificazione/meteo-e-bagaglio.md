@@ -2,49 +2,47 @@
 
 ![Monsoon clouds over Southeast Asian landscape](https://images.unsplash.com/photo-1507117915365-0cd26e725f3c)
 
-### Clima Atteso (20 Settembre - 17 Ottobre 2026)
+### Clima Atteso (1 - 31 Ottobre 2026)
 
-Il vostro periodo di viaggio cade nella **fase finale della stagione dei monsoni**, un momento particolare e spesso sottovalutato per visitare il Sud-est Asiatico. Ecco cosa aspettarsi realmente:
+Il vostro viaggio si svolge **interamente a ottobre**, nella **fase finale della stagione dei monsoni**. Ma attenzione: viaggiando da Bangkok fino ad Hanoi attraverserete **tre climi molto diversi nello stesso mese**, e il momento in cui toccate ogni regione conta moltissimo. Ecco la realtà, regione per regione, nell'ordine del vostro itinerario:
 
-#### **Settembre: La Transizione**
-
-
-**Settembre è generalmente il mese più piovoso dell'anno in Thailandia, con precipitazioni in tutte le regioni del paese. Le temperature continuano a calare durante il mese (media: 25-29°C)**
-.
-
-- **Temperature**: 26-32°C con umidità altissima (70-85%)
-- **Piogge**: Frequenti acquazzoni pomeridiani e serali
-- **Situazione regionale**:
-  - **Bangkok**: 
-Le piogge sono prevedibili (generalmente nel pomeriggio e di notte), quindi è facile pianificare attorno al meteo
-
-  - **Nord Thailandia**: Ancora molto umido, ma già qualche schiarita
-  - **Vietnam**: 
-Il maltempo è in aumento nel Vietnam centrale, dove verso fine settembre le piogge diventano più frequenti
-
-  - **Cambogia**: 
-Settembre tende ad essere umido e caldo con alti livelli di precipitazioni e temperature medie di 26°C. Quando piove di solito dura qualche ora piuttosto che acquazzoni di un'intera giornata
+#### **Thailandia — Bangkok (1-4 Ott)**
 
 
-#### **Ottobre: Il Risveglio**
+Coda della stagione delle piogge: le precipitazioni sono in calo rispetto a settembre (~180-210mm) ma fa ancora caldo e umido. Acquazzoni brevi e prevedibili, spesso nel tardo pomeriggio o di notte — facile pianificare attorno ad essi.
+
+- **Temperature**: 31-33°C, umidità alta
+
+#### **Cambogia — Siem Reap, Koh Rong Samloem, Phnom Penh (5-12 Ott)**
 
 
-**Le temperature elevate e i forti acquazzoni di settembre lasciano spazio a cieli sereni e temperature più fresche in ottobre. Con meno folla e paesaggi drammatici post-monsone, l'autunno è un ottimo momento per visitare**
-.
+Fine del monsone: paesaggi verdissimi, i fossati di Angkor e il Tonlé Sap pieni d'acqua, meno folla. Acquazzoni pomeridiani brevi, di solito qualche ora e non intere giornate.
 
-- **Temperature**: 24-30°C con umidità in calo
-- **Situazione per paese**:
-  - **Thailandia**: 
-Temperature medie 24-32°C, con circa 292mm di pioggia. Ci sono circa 22 giorni di pioggia e 5 giorni di sole. Rispetto a settembre, ottobre offre condizioni meteorologiche leggermente migliori, con meno pioggia e temperature e umidità più basse
+- **Temperature**: 24-33°C, umidità alta
+- **Isola (Koh Rong Samloem)**: mare ancora godibile, ma controllate il meteo per i traghetti
 
-  - **Vietnam Nord**: 
-Le regioni settentrionali, come Hanoi, si raffreddano dopo la stagione delle piogge, offrendo temperature di 20-27°C
+#### **Vietnam del Sud — Chau Doc & Mekong, Ho Chi Minh City (13-16 Ott)**
 
-  - **Vietnam Centro**: 
-Le aree centrali, incluse Da Nang e Hoi An, godono di temperature piacevoli (22-27°C) ma con umidità più alta e possibili tempeste
 
-  - **Cambogia**: 
-Tempo caldo e umido con temperature medie 25-31°C. Le precipitazioni variano tra 200-290mm, distribuite su 15-20 giorni di pioggia. Nonostante qualche acquazzone, ci sono 5-10 giorni di sole in media
+Ancora stagione umida, ma il sud è la parte più mite del Vietnam in questo periodo: mattine spesso serene, pioggia concentrata in brevi e intensi acquazzoni pomeridiani. Il delta del Mekong è in piena stagione delle acque alte — perfetto per la foresta allagata di Tra Su.
+
+- **Temperature**: 24-32°C
+
+#### **⚠️ Vietnam Centrale — Hoi An, Hué, Phong Nha (17-24 Ott)**
+
+
+**La tappa climaticamente più delicata.** Per il Vietnam centrale ottobre-novembre è il **culmine della stagione delle piogge**: precipitazioni abbondanti, **concreto rischio di alluvioni** (il centro storico di Hoi An si allaga quasi ogni anno tra ottobre e inizio novembre) e stagione attiva di tempeste/tifoni. A Phong Nha l'acqua alta può limitare l'accesso alle grotte raggiungibili in barca.
+
+- **Temperature**: 23-30°C, umidità molto alta
+- **Da fare**: controllate le previsioni giorno per giorno, tenete piani flessibili, portate impermeabile e sacche stagne
+
+#### **Vietnam del Nord — Ninh Binh, Baia di Lan Ha, Hanoi (25-31 Ott)**
+
+
+Il gran finale, e il periodo migliore: il nord entra nel **cuore dell'autunno secco**. Cieli limpidi, umidità bassa, temperature fresche e gradevoli, mare calmo per la crociera nella Baia di Lan Ha. Fine ottobre è una delle finestre migliori dell'anno per Hanoi e Halong.
+
+- **Temperature**: 21-29°C, asciutto
+- **Nota**: a fine ottobre le risaie dorate di Ninh Binh sono per lo più già mietute
 
 
 ### **Grafico Mentale della Giornata Tipo**
@@ -56,7 +54,7 @@ Tempo caldo e umido con temperature medie 25-31°C. Le precipitazioni variano tr
 | **16:00-19:00** | Acquazzoni tropicali (15-60 min) | Caffè, massaggi, attività coperte |
 | **20:00-23:00** | Fresco umido (26-29°C) | Cene, mercati notturni, passeggiate |
 
-### Lista Bagaglio Completa (28 giorni per 4 persone)
+### Lista Bagaglio Completa (31 giorni per 4 persone)
 
 #### **Abbigliamento (Per Persona)**
 

@@ -42,7 +42,7 @@ export default async function HomePage() {
           </div>
           <div className="mt-8 flex justify-center gap-3">
             <Link
-              href="/destinazione/01-hanoi/"
+              href={`/destinazione/${DESTINATIONS[0].id}/`}
               className="px-6 py-3 bg-white text-primary font-semibold rounded-lg hover:bg-white/90 transition-colors"
             >
               Inizia il Viaggio
