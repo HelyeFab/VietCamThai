@@ -28,7 +28,7 @@ Bangkok è l'unica capitale del Sud-Est asiatico mai colonizzata: i re Chakri ri
 
 ### Quando Andare
 
-Il vostro periodo — metà ottobre — è praticamente perfetto: temperature intorno ai 29-32°C di giorno e 24-26°C di notte, con l'umidità che si attesta intorno al 78%
+Il vostro periodo — inizio ottobre — è praticamente perfetto: temperature intorno ai 29-32°C di giorno e 24-26°C di notte, con l'umidità che si attesta intorno al 78%
 . 
 La stagione delle piogge è in piena ritirata e le precipitazioni calano da 231mm di settembre a 186mm di ottobre
 .

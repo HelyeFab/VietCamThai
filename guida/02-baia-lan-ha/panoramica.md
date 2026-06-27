@@ -30,15 +30,15 @@ Anche se prende il nome da un antico villaggio con millenni di storia, la modern
 
 ### Quando Andare
 
-**Il periodo perfetto: fine settembre (il vostro viaggio cade proprio nel momento giusto!)**
+**Il periodo perfetto: fine ottobre (il vostro viaggio cade proprio nel momento giusto!)**
 
-Settembre: Il mese di transizione porta una certa incertezza. Mentre le temperature si moderano a livelli piacevoli di 24-31°C, i tifoni di fine stagione rimangono possibili. Tuttavia, quando il tempo collabora, settembre offre condizioni stupende. Le piogge diminuiscono significativamente dal picco estivo.
+Ottobre: l'inizio della stagione secca segna uno dei periodi migliori dell'anno per navigare nella baia. Le temperature si assestano su livelli piacevoli, l'umidità cala, i cieli si fanno limpidi e il mare resta calmo con ottima visibilità. Il rischio di tifoni, ancora presente a settembre, si riduce nettamente.
 
 Ottobre è l'inizio dell'autunno oltre che della stagione secca. Ha Long ha un clima fresco a ottobre. La temperatura media è di soli 24,5°C. La temperatura più bassa è di 21°C mentre quella più alta è di 28°C. Questo fa amare ai viaggiatori stare all'aperto per partecipare alle attività e godersi la fresca brezza marina senza troppo sudore.
 
-**Che tempo aspettarvi a fine settembre:**
+**Che tempo aspettarvi a fine ottobre:**
 - **Temperature:** 
-25,0°C-26,9°C (77,0°F-80,42°F). È un mese di transizione dove il calore intenso dell'estate inizia a diminuire, creando un ambiente più piacevole per l'esplorazione.
+21°C-28°C, con una media attorno ai 24,5°C. Il calore intenso dell'estate è ormai alle spalle, creando un ambiente fresco e piacevole per l'esplorazione.
 
 - **Piogge:** 
 Le piogge medie a ottobre sono solo 54mm al mese rispetto ai 190mm del mese precedente. Ci sono solo 11 giorni di pioggia in media.

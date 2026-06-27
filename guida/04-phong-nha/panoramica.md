@@ -44,26 +44,26 @@ Durante la Guerra Vietnamita, il parco nazionale era un'area di sosta per il nor
 
 ### Quando Andare
 
-**Fine settembre: il momento perfetto**
+**Fine ottobre: stagione delle grandi acque**
 
-La temperatura rimane piacevole per la maggior parte dell'anno, con il periodo più caldo che cade da giugno ad agosto e il periodo più freddo da dicembre a febbraio. Nello specifico, la temperatura media è di circa 23°C - 25°C. In termini di precipitazioni, è più intensa a settembre e ottobre, il che nutre la vegetazione vibrante del parco
+La temperatura rimane piacevole per la maggior parte dell'anno, con il periodo più caldo che cade da giugno ad agosto e il periodo più freddo da dicembre a febbraio. Nello specifico, la temperatura media è di circa 23°C - 25°C. In termini di precipitazioni, è più intensa proprio a ottobre e novembre, il che nutre la vegetazione vibrante del parco
 .
 
-**Il tuo periodo (26-27 settembre) — condizioni ideali:**
+**Il tuo periodo (23-24 ottobre) — cosa aspettarsi davvero:**
 
-Questo periodo vede precipitazioni frequenti e forti, specialmente a ottobre. Le temperature si raffreddano intorno ai 22°C-28°C, e l'umidità rimane alta. Il cielo è spesso nuvoloso e sono comuni acquazzoni improvvisi
+Siete in piena stagione delle piogge: la fine di ottobre è uno dei momenti più bagnati dell'anno, con precipitazioni frequenti e forti. Le temperature si raffreddano intorno ai 22°C-28°C, e l'umidità rimane alta. Il cielo è spesso nuvoloso e sono comuni acquazzoni improvvisi
 . 
-Giugno e luglio possono essere caldi (fino a 37°C) ma le grotte rimangono fresche all'interno a 20-22°C
+Il dato pratico più importante: con le piogge intense da settembre a novembre il fiume Son può alzarsi rapidamente, e le grotte d'acqua come la Grotta di Phong Nha (quella che si visita in barca) possono avere accesso limitato o chiudere del tutto per le inondazioni
 .
 
 **Cosa aspettarsi:**
 - **Temperature diurne**: 22-28°C con alta umidità  
 - **All'interno delle grotte**: costanti 20-22°C (porta una giacca leggera!)
-- **Precipitazioni**: possibili acquazzoni pomeridiani — perfetti per il relax al fiume
-- **Vantaggi**: vegetazione lussureggiante, meno folla rispetto alla stagione secca
+- **Precipitazioni**: pioggia probabile, anche prolungata — tenete il programma flessibile
+- **Acqua alta**: le grotte fluviali possono restringere l'accesso o chiudere se il fiume sale; le grotte asciutte come Paradise Cave restano in genere visitabili
+- **Sentieri**: la giungla diventa fangosa e scivolosa, e alcuni tour avventurosi possono essere cancellati per sicurezza
 
-Evita ottobre-dicembre quando le forti piogge possono chiudere le grotte d'acqua come la Grotta di Phong Nha a causa delle inondazioni. I sentieri della giungla diventano fangosi e scivolosi, e alcuni tour avventurosi possono essere cancellati per ragioni di sicurezza
-.
+Il consiglio è semplice: nei vostri giorni controllate sempre in anticipo (hotel o operatori locali) se la Grotta di Phong Nha e i tour fluviali sono operativi, e tenete pronta un'alternativa via terra in caso di acqua alta.
 
 ### Orientamento
 

@@ -45,21 +45,21 @@ Secondo la leggenda, dopo aver sconfitto la Cina Ming, l'imperatore Lê Lợi st
 
 ### Il Perfetto Equilibrio di Fine Ottobre
 
-Entro la fine di settembre, puoi aspettarti cieli più limpidi e una diminuzione dell'umidità. Questo è un momento eccellente per esplorare l'affascinante città capitale di Hanoi e godersi la famosa stagione autunnale, insieme alla fioritura di fiori speciali del latte
+Entro la fine di ottobre, Hanoi entra nel cuore del suo autunno: cieli limpidi, aria più secca e umidità bassa. Questo è uno dei momenti migliori dell'anno per esplorare l'affascinante città capitale e godersi la famosa stagione autunnale, accompagnata dal profumo dei fiori del latte (hoa sữa) in fioritura
 . 
 
-Le temperature medie sono tra 25°C e 32°C, le temperature diurne di solito raggiungono i 31°C ad Hanoi in settembre con calore e umidità molto elevati, scendendo a 25°C di notte
+Le temperature di fine ottobre sono gradevoli, tipicamente tra i 21°C e i 29°C, con giornate miti e soleggiate e notti fresche — niente più del caldo afoso di settembre
 . 
-Puoi aspettarti pioggia per circa metà del mese di settembre ad Hanoi. Ci aspettiamo circa 8-15 giorni di pioggia, quindi i tuoi stivali di gomma e l'ombrello vedranno molto uso questo mese se vuoi rimanere asciutto
+L'umidità è bassa e le piogge si fanno rare: ottobre è uno dei mesi più asciutti dell'anno ad Hanoi, quindi ombrello e impermeabile resteranno per lo più in valigia
 .
 
-### Ottobre: Il Dolce Trasizione
+### Ottobre: La Dolce Transizione
 
 Ottobre è uno dei momenti migliori per visitare il Vietnam del nord. Cieli più limpidi, tempo più fresco e i colori autunnali sono caratteristiche di ottobre. Per profondità culturale e fascino cittadino, Hanoi è imbattibile in questo periodo dell'anno. Foglie autunnali, tempo camminabile e caffè accoglienti lo fanno sentire romantico e rilassato. Non perdere il Tempio della Letteratura, i tour gastronomici del Quartiere Vecchio e un po' di osservazione della gente sul lago
 .
 
-La vera magia? 
-Il settembre è stagione spalla e si traduce in sostanziali risparmi per i viaggiatori. Le tariffe degli hotel scendono del 20-40% rispetto alla stagione di punta, con le proprietà di lusso che offrono promozioni particolarmente attraenti. Sistemazioni a cinque stelle ad Hanoi e Ho Chi Minh City che comandano $200+ a notte durante l'alta stagione possono essere prenotate per $120-150 a settembre. Anche operatori turistici e compagnie di crociere scontano le loro offerte
+Una cosa da sapere? 
+L'autunno (ottobre-novembre) è alta stagione nel Vietnam del nord, proprio grazie al clima ideale. Fine ottobre non è quindi un mese di sconti come la bassa stagione estiva: con il bel tempo la domanda è alta, perciò conviene prenotare alloggi, tour e crociere con qualche settimana di anticipo per assicurarsi le tariffe migliori
 .
 
 ## Orientamento

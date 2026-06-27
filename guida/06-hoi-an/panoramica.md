@@ -35,21 +35,17 @@ Hoi An non fu coinvolta dalla cruenta Guerra del Vietnam e quindi ha potuto cons
 
 ### Quando Andare
 
-Fine settembre e inizio ottobre? Beh, avete scelto un periodo che ha i suoi pro e contro. La buona notizia è che 
-ottobre è l'inizio della stagione secca a Hoi An, il che significa che il clima è generalmente caldo e soleggiato. La temperatura media nel mese di ottobre è di circa 26°C, con massime che raggiungono i 31°C e minime che scendono intorno ai 22°C di notte
-.
+Diciamolo con onestà: il vostro periodo (17-19 ottobre) cade proprio all'inizio della stagione delle piogge nel Vietnam centrale, che a Hoi An è il momento più piovoso dell'anno. 
+Da ottobre a novembre le precipitazioni raggiungono il loro picco — ottobre è in media il mese più piovoso, con circa 400-500 mm di pioggia distribuiti su una ventina di giorni — e le piogge possono essere torrenziali
+. Le temperature restano comunque miti e gradevoli, tra i 24°C e i 30°C, con un'umidità molto alta.
 
-La notizia meno buona? 
-Qui la stagione delle piogge è tardiva, e va da settembre a dicembre, con un massimo ad ottobre e novembre, quando le piogge possono essere torrenziali
-. 
-Le temperature massime toccano anche i 35°C e il mese di ottobre è il mese più significativo per quanto riguarda le precipitazioni, con una portata di oltre 600 mm
-.
+Va detto chiaramente: 
+la Città Vecchia, che sorge a ridosso del fiume Thu Bon, tende ad allagarsi proprio in ottobre e all'inizio di novembre. Quasi ogni anno le strade lungo il fiume (Bach Dang, An Hoi) finiscono sott'acqua per uno-tre giorni, e nelle annate peggiori l'acqua sale di parecchio
+. È anche piena stagione di tempeste tropicali e tifoni lungo la costa centrale, quindi un acquazzone non è un'eccezione ma la norma.
 
-Ma non disperatevi! 
-Ottobre è un mese relativamente secco a Hoi An, con una media di circa 200 mm di pioggia nel corso del mese
-, e soprattutto 
-si tratta di veri e propri temporali, ma difficilmente si trasformano in tifoni, dato che la città si trova nella zona costiera
-. Tradotto: pioverà intenso per poco tempo, poi torna il sole. Portate un k-way e approfittate dei momenti di schiarita per le foto migliori — la luce dopo la pioggia rende le lanterne ancora più magiche.
+Cosa significa per voi in pratica: 
+controllate le previsioni e i bollettini meteo nei giorni prima dell'arrivo, tenete il programma flessibile e mettete in valigia k-way, scarpe che possano bagnarsi e una cover impermeabile per lo zaino
+. Non è un periodo da cartolina soleggiata, ma ha la sua magia: la Città Vecchia avvolta nella pioggia, con le lanterne riflesse sull'asfalto bagnato, regala atmosfere e foto che la stagione secca non sa dare. Approfittate delle schiarite per uscire e rifugiatevi nei caffè e nelle case-museo coperte quando il cielo si scarica.
 
 ### Orientamento
 

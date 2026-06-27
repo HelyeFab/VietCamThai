@@ -42,7 +42,7 @@ Ottobre è uno dei momenti migliori per visitare il Delta del Mekong!
 La stagione delle inondazioni, che va da settembre a dicembre, è il momento migliore per visitare il Delta del Mekong. Durante questo periodo, il Delta del Mekong sperimenta un clima piacevole con piogge molto basse
 .
 
-**Che tempo aspettarsi a inizio ottobre:**
+**Che tempo aspettarsi a metà ottobre:**
 - **Temperature**: 
 Durante il giorno la temperatura è molto calda a Chau Doc a 33°C. Quando cala la notte, le temperature generalmente scendono a 25°C a Chau Doc
 

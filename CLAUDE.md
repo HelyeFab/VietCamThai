@@ -22,7 +22,7 @@ VietCamThai/
 │   ├── src/lib/              # Content pipeline, markdown parser, coordinates
 │   ├── scripts/              # Prebuild: copy-images, build-search-index
 │   └── public/               # Static assets, PWA manifest, icons
-├── parse_data.py             # XLSX → JSON parser
+├── parse_data.py             # XLSX → data/itinerary.json (run after editing the Excel roadmap)
 ├── generate_guide.py         # Multi-agent content generator (Claude API + web search)
 ├── fetch_images.py           # Image fetcher from Unsplash/Pexels/Wikimedia
 ├── vercel.json               # Vercel deployment config (builds from root)
@@ -81,7 +81,7 @@ Images were curated using `web/scripts/replace-images.ts` which searches Wikimed
    - `giorno-per-giorno.md` — day-by-day itinerary with times and prices
    - `cibo-e-cultura.md` — restaurants, dishes, cultural tips
    - `info-pratiche.md` — transport, accommodation, safety
-2. Update `data/itinerary.json` if dates/days changed (the `stage_days` array for the destination)
+2. Update `data/itinerary.json` if dates/days changed (the `stage_days` array for the destination). If you edited the source Excel roadmap, just run `python3 parse_data.py` to regenerate it (auto-finds the newest `Vietnam_Cambogia_Thailandia_2026*.xlsx` in `~/Downloads`; pass `--xlsx` for an explicit path). Note: stage order, names and the Koh Rong Samloem mapping are defined in `parse_data.py` (`STAGE_ORDER` / `STAGE_META`); keep `web/src/lib/coordinates.ts` `DESTINATIONS` in sync.
 3. Rebuild: `cd web && npm run build` or just push to GitHub
 
 ### Add a new destination

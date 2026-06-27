@@ -41,22 +41,22 @@ Le attività di intrattenimento includono l'esecuzione di "Co lau tap tran", com
 ### Quando Andare
 
 **Il momento perfetto per il vostro viaggio (25-26 ottobre).** 
-Il secondo raccolto (fine settembre – inizio ottobre): questo raccolto si allinea con il tempo autunnale molto più piacevole e asciutto. Questa finestra è ampiamente considerata il momento assoluto migliore per vedere i campi dorati e godere di condizioni di touring confortevoli.
+Fine ottobre coglie Ninh Binh nel pieno dell'autunno asciutto e piacevole: cieli più limpidi, umidità in calo e temperature gradevoli per esplorare in barca e in bicicletta senza il caldo soffocante dell'estate.
  
-Per l'esperienza assoluta migliore che combina tempo gestibile e paesaggi mozzafiato, fine maggio a inizio giugno e fine settembre a ottobre sono le finestre ideali.
+Una nota onesta sulle risaie: il secondo raccolto, con le sue celebri risaie dorate, ha il suo picco tra fine settembre e inizio ottobre. Arrivando il 25-26 ottobre è probabile che molti campi siano già stati mietuti — aspettatevi più il verde tenue e le stoppie brune che le distese dorate. Il paesaggio carsico, le grotte e i fiumi restano comunque spettacolari in qualsiasi stagione.
 
-**Cosa aspettarsi a fine settembre:** 
-Aspettati massime diurne che raggiungono circa 32°C, con minime notturne che scendono a circa 25°C. Ninh Binh a settembre ricade nella stagione piovosa con piogge forti, con una media di circa 303 mm per il mese.
+**Cosa aspettarsi a fine ottobre:** 
+Aspettati massime diurne attorno ai 26-28°C, con minime notturne che scendono verso i 20°C. A differenza di settembre, ottobre segna l'uscita dalla stagione piovosa: le precipitazioni calano nettamente e le giornate sono in prevalenza asciutte e soleggiate.
  
-Settembre è un mese di transizione e comporta il rischio di tifoni o forti tempeste tropicali.
+Ottobre è uno dei mesi migliori dell'anno a Ninh Binh, con il rischio di tifoni ormai in forte diminuzione rispetto alla piena estate.
 
-**Meteo per inizio ottobre (ancora nel vostro periodo):** 
-Ottobre offre le condizioni meteorologiche più confortevoli di Ninh Binh, con temperature moderate e precipitazioni significativamente ridotte. I campi di riso dorati creano paesaggi mozzafiato in tutta la regione.
+**Meteo di fine ottobre (il vostro periodo):** 
+Ottobre offre le condizioni meteorologiche più confortevoli di Ninh Binh, con temperature moderate e precipitazioni significativamente ridotte. Il paesaggio carsico e fluviale regala panorami mozzafiato in tutta la regione (tenendo presente che a fine mese le risaie dorate sono ormai per lo più mietute).
  
-Temperatura: 20°C a 28°C (68°F – 82°F). Umidità: bassa e confortevole. Precipitazioni: settembre può ancora vedere tifoni, ma ottobre e novembre sono generalmente asciutti.
+Temperatura: 20°C a 28°C (68°F – 82°F). Umidità: bassa e confortevole. Precipitazioni: ottobre e novembre sono generalmente asciutti, con il rischio tifoni ormai alle spalle.
 
 **Cosa mettere in valigia:** 
-Concentratevi su abbigliamento leggero, magari con tessuti naturali, camicie in misto cotone, pantaloni corti comodi e calzature traspiranti. Anche una copertura leggera per la protezione dal sole è intelligente. Sta per piovere! Portate un buon poncho e preparatevi per condizioni molto bagnate.
+Concentratevi su abbigliamento leggero, magari con tessuti naturali, camicie in misto cotone, pantaloni corti comodi e calzature traspiranti. Anche una copertura leggera per la protezione dal sole è intelligente. Aggiungete una felpa o una giacca leggera per le serate più fresche e un ombrello compatto per qualche rovescio occasionale, ma in generale aspettatevi giornate asciutte.
 
 ### Orientamento
 

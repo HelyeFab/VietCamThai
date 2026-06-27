@@ -32,18 +32,18 @@ Ufficialmente il nome è Ho Chi Minh City, ma molti locali e visitatori la chiam
 
 ### Quando Andare
 
-Ottobre è un mese di transizione interessante per Ho Chi Minh City. 
-Il clima a ottobre è umido (con 388mm di precipitazioni in 20 giorni), ma si nota un miglioramento rispetto al mese precedente, dato che a settembre riceve una media di 396mm di precipitazioni in 22 giorni
+A metà ottobre (i vostri giorni: 14-16 ottobre) Ho Chi Minh City è ancora in piena stagione delle piogge, ma il Sud è la parte più clemente del Vietnam in questo periodo. 
+Le mattine sono spesso limpide e la pioggia tende a concentrarsi in brevi e intensi acquazzoni del tardo pomeriggio: ottobre resta un mese umido (in media circa 270-330 mm distribuiti su molti giorni), ma i rovesci sono di solito di breve durata e raramente rovinano un'intera giornata
 .
 
-La temperatura media a ottobre è di circa 31°C (88°F) durante il giorno, con minime di 24°C (75°F)
+La temperatura nei vostri giorni si aggira tra i 24-25°C della notte e i 31-32°C del primo pomeriggio
 . 
 L'abbondante umidità portata dal mare mantiene l'aria umida, rendendo la temperatura percepita molto più alta di quella reale e causando sensazioni di appiccicosità. Spesso entro dieci minuti dall'essere rimasti all'aperto a mezzogiorno, i vestiti saranno inzuppati di sudore
 .
 
 Il tempo è molto drammatico — cieli sereni in un momento, nuvole scure che si addensano in un altro, e improvvisi acquazzoni che lasciano rapidamente le strade immerse nell'acqua fino al polpaccio, seguiti poco dopo dal sole che splende di nuovo
 . 
-Le scarpe da ginnastica sono inclini a bagnarsi, quindi è consigliabile portare sandali. Metti in valigia un impermeabile leggero o un ombrello, e preparati per piogge occasionali
+Le scarpe da ginnastica sono inclini a bagnarsi, quindi è consigliabile portare sandali. Metti in valigia un impermeabile leggero o un ombrello, e concentra le visite all'aperto nelle ore del mattino, di solito le più asciutte
 .
 
 ### Orientamento

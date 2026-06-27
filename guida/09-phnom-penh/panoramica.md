@@ -36,18 +36,18 @@ Krong Chaktomuk Serei Mongkol (traducibile come "città di Brahma dalle quattro 
 
 ### Quando Andare
 
-Il vostro soggiorno di fine settembre/inizio ottobre 2026 vi colloca **nel momento perfetto per evitare le folle ma non la pioggia**. 
+Il vostro soggiorno di metà ottobre 2026 vi colloca **nel momento perfetto per evitare le folle ma non la pioggia**. 
 Il periodo migliore per visitare Phnom Penh e la Cambogia in generale è da fine settembre a novembre. Le folle sono relativamente ridotte e i prezzi sono buoni. È caldo ma non troppo, e dato che è la fine del monsone, tutto ha ancora una sfumatura verde. I rovesci pomeridiani capitano, ma di solito sono brevi scoppi. La pioggia in realtà fa miracoli per pulire l'aria e abbassare la temperatura.
 
 **Che tempo aspettarsi:**
 - 
-A Phnom Penh, il tempo in settembre è molto caldo. La temperatura minima media è di 24°C e la massima di 33°C. Le precipitazioni medie durante questo mese sono di 270 mm, con più di 26 giorni di pioggia.
+A Phnom Penh, a metà ottobre il tempo è ancora molto caldo e umido, tipico della coda del monsone. La temperatura minima media è intorno ai 24°C e la massima ai 31-32°C, con frequenti acquazzoni che si scaricano nel pomeriggio e in serata.
 
 - 
 Ad ottobre, la temperatura media alta a Phnom Penh è di 31,1°C e la media bassa è di 23,8°C. Ottobre è il mese con più precipitazioni a Phnom Penh. La pioggia cade per 24 giorni e accumula 319mm di precipitazioni.
 
 **Il lato positivo**: 
-Settembre è un ottimo mese per viaggiare in Cambogia se vuoi evitare le folle e sei contento di rischiare con la pioggia, che spesso cade nel pomeriggio e di notte. Settembre in Cambogia tende ad essere umido e caldo con alti livelli di pioggia e temperature medie di 26°C. Quando piove di solito è per qualche ora piuttosto che temporali che durano tutto il giorno, anche se possono capitare.
+Ottobre è un ottimo mese per viaggiare in Cambogia se vuoi evitare le folle e sei disposto a mettere in conto la pioggia, che spesso cade nel pomeriggio e di notte. Ottobre in Cambogia tende ad essere umido e caldo, con livelli di pioggia elevati e temperature medie intorno ai 27°C. Quando piove di solito è per qualche ora piuttosto che temporali che durano tutto il giorno, anche se possono capitare.
 
 La pioggia a Phnom Penh non dura tutto il giorno, di solito è un acquazzone che arriva veloce e va via veloce.
  Preparatevi con una giacca impermeabile leggera e scarpe che si asciugano in fretta — e godetevi l'aria fresca e pulita dopo i temporali!

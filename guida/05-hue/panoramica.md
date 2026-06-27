@@ -38,18 +38,18 @@ Durante la dinastia Nguyen, la cucina reale divenne una vera forma d'arte. Gli i
 
 ### Quando Andare
 
-Fine settembre e inizio ottobre sono un momento particolare per Hué. 
-La pioggia dice addio al nord, inizia a diminuire nel sud (circa il 20% in meno), ma colpisce duramente il centro — il doppio di settembre. La pioggia dice addio al nord, inizia a diminuire nel sud (circa il 20% in meno), ma colpisce duramente il centro — il doppio di settembre
+La seconda metà di ottobre (i vostri giorni: 20-22 ottobre) è un momento impegnativo per Hué, e conviene saperlo in anticipo. 
+Hué è una delle città più piovose del Vietnam, e ottobre-novembre è il suo periodo più bagnato in assoluto: mentre al nord la pioggia se ne va e al sud diminuisce, qui nel centro colpisce duramente, con precipitazioni prolungate e spesso abbondanti
 . 
 
 ![La Pagoda Thien Mu](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Hue_Vietnam_Thien-Mu-Temple-and-Pagoda-01.jpg/1280px-Hue_Vietnam_Thien-Mu-Temple-and-Pagoda-01.jpg)
 
 **Cosa aspettarsi concretamente**:
 - **Temperature**: 
-Huế 31°C / 23°C
+Huế circa 29°C / 23°C
  durante il giorno, con notti più fresche
 - **Piogge**: 
-Settembre segna l'inizio della stagione delle piogge nel Vietnam centrale, con 14-16 giorni di pioggia e una maggiore possibilità di tifoni
+ottobre-novembre è il culmine della stagione delle piogge nel Vietnam centrale: aspettatevi molti giorni di pioggia, rovesci prolungati e una concreta possibilità di tempeste tropicali o tifoni lungo la costa. Controllate le previsioni e tenete un programma flessibile
 
 - **Umidità**: Elevata (oltre l'80%), quindi porta vestiti traspiranti
 - **Vantaggi**: 
