@@ -4,92 +4,56 @@
 
 ![Wat Arun — il Tempio dell'Alba](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Templo_Wat_Arun%2C_Bangkok%2C_Tailandia%2C_2013-08-22%2C_DD_04.jpg/1280px-Templo_Wat_Arun%2C_Bangkok%2C_Tailandia%2C_2013-08-22%2C_DD_04.jpg)
 
-### Mattina
+### Arrivo (prima serata)
 
-Arrivo a Bangkok con il volo internazionale: è qui che inizia il viaggio. 
-Il Grand Palace apre alle 8:30 e chiude alle 15:30
-, quindi arrivate PRESTO per evitare le folle e il calore.
+Atterraggio a Bangkok nella prima serata del 1° ottobre: oggi è soprattutto trasferimento e primo contatto con la città, senza visite impegnative — il Grand Palace e i grandi templi sono nel programma di domani.
 
-![Il Mercato sui Binari di Maeklong](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Maeklong_Railway_Market_%287996368063%29.jpg/1280px-Maeklong_Railway_Market_%287996368063%29.jpg)
+**Dall'aeroporto al centro**:
+- Da Suvarnabhumi (BKK): Airport Rail Link fino a Phaya Thai (~45 THB, ~30 min) e poi taxi/MRT, oppure taxi con tassametro (~400-500 THB, 45-60 min col traffico serale)
+- Da Don Mueang (DMK): bus A1/A2 verso il BTS Mo Chit, oppure taxi
+- Insisti sempre sul tassametro ("meter") o usa un Grab
 
-**Grand Palace & Wat Phra Kaew (Tempio del Buddha Smeraldo)**
-- **Orari**: 
-8:30-15:30 tutti i giorni
-
-- **Prezzo**: 
-500 THB per persona (~14€)
-, 
-bambini sotto 120cm gratis
-
-- **Incluso**: 
-Accesso anche a Wat Pho (entro 7 giorni), Vimanmek Mansion e Royal Thai Decorations
-
-- **Sito ufficiale**: [royalgrandpalace.th](https://www.royalgrandpalace.th/en/)
-
-Dress code RIGOROSO: spalle e ginocchia coperte, scarpe chiuse
-. 
-Sarong gratuiti all'ingresso se non appropriati
-.
-
-**Da vedere assolutamente**:
-- 
-Tempio del Buddha Smeraldo (Phra Kaew Morakot) - scolpito da un singolo pezzo di giada verde
-
-- 
-Chakri Maha Prasat Hall - palazzo vittoriano con tetti thai
-
-### Pomeriggio
-
-**Check-in alloggio**: Zona Khao San Road o Silom (budget ~35€/notte)
-
-**Wat Pho (Buddha Sdraiato)**
-- **Orari**: 
-8:30-18:30, 100 THB
-
-- **Distanza**: 
-650m dal Grand Palace, facile passeggiata
-
-- **Highlight**: 
-Buddha sdraiato di 46 metri placcato oro che rappresenta l'illuminazione spirituale
+**Check-in alloggio**: Zona Khao San Road (backpacker, vivace) o Silom (più tranquilla e ben collegata) — budget ~35€/notte
 
 ### Sera
 
-Prima cena a **Chinatown (Yaowarat)**! 
-Il momento migliore per visitare è dopo le 17:00 quando si allestisce il grande mercato del cibo di strada
-.
+Primo assaggio di Bangkok, con calma e senza fretta dopo il volo:
+- Passeggiata su **Khao San Road** e nelle viuzze di Banglamphu — bancarelle, musica e l'energia della città
+- **Prima cena di street food** nei dintorni: pad thai, pad krapow, mango sticky rice
+- Un **Chang o Singha** ghiacciato per brindare all'inizio del viaggio
 
-**Come arrivarci**: 
-Metro MRT alla stazione Wat Mangkorn (linea blu), poi 5 minuti a piedi fino a Yaowarat Road
-
-**Ristoranti consigliati**:
-- 
-**Lim Lao Ngow** - Michelin Bib Gourmand da 9 anni, specialità fishball noodles
-
-- 
-**Chang Phuek** - famosi per il khao pad pu (riso fritto al granchio)
-
-- 
-**Jek Pui Curry** - curry thailandese autentico, solo 45 Baht (~1,30€)
+> Se atterrate stanchi, va benissimo fermarsi a una cena leggera e andare a dormire: domani si parte presto per il Grand Palace.
 
 ### Tips del Giorno
 
-- **Scam alert**: 
-I tuk-tuk vicino al Grand Palace spesso dicono che è "chiuso per festa buddhista" e vi portano nei negozi di gemme - andate sempre al cancello per verificare
-
-- **Biglietti**: 
-NON c'è prenotazione online ufficiale - biglietti solo al cancello West Gate su Na Phra Lan Road
-
-- **Tempi**: 
-Pianificate minimo 2 ore per il Grand Palace, 3 ore sono ideali
-
-- **Trasporti**: 
-Il modo più facile è il traghetto express lungo il Chao Phraya - fermata Tha Tien (N8)
+- **SIM/eSIM**: compra una SIM turistica (AIS/TrueMove) all'aeroporto, o attiva una eSIM già pronta prima dell'atterraggio
+- **Contanti**: preleva ai bancomat dell'aeroporto (commissione ~220 THB) o cambia un primo gruzzolo — molte bancarelle accettano solo contanti
+- **Taxi**: pretendi il tassametro o usa Grab; ignora chi propone tariffe fisse gonfiate davanti agli arrivi
+- **Domani presto**: il Grand Palace apre alle 8:30 — conviene essere lì all'apertura per evitare folla e caldo
 
 ---
 
-## Giorno 2 — 2 Ottobre 2026 — Sul Fiume dei Re
+## Giorno 2 — 2 Ottobre 2026 — Grandi Templi e il Fiume dei Re
 
 ### Mattina
+
+**Grand Palace & Wat Phra Kaew (Tempio del Buddha Smeraldo)** — arrivate all'apertura (8:30) per battere folla e caldo
+- **Orari**: 8:30-15:30 tutti i giorni
+- **Prezzo**: 500 THB per persona (~14€), bambini sotto 120cm gratis
+- **Incluso**: accesso anche a Wat Pho (entro 7 giorni), Vimanmek Mansion e Royal Thai Decorations
+- **Sito ufficiale**: [royalgrandpalace.th](https://www.royalgrandpalace.th/en/)
+
+Dress code RIGOROSO: spalle e ginocchia coperte, scarpe chiuse (leggings NON accettati). Sarong gratuiti all'ingresso se non appropriati.
+
+**Da vedere**: il Tempio del Buddha Smeraldo (Phra Kaew Morakot), scolpito da un singolo blocco di giada verde, e la Chakri Maha Prasat Hall, palazzo vittoriano con tetti thai.
+
+⚠️ **Scam alert**: i tuk-tuk vicino al Grand Palace a volte dicono che è "chiuso per festa buddhista" per dirottarvi nei negozi di gemme — andate sempre al cancello (West Gate, Na Phra Lan Road) a verificare. Niente prenotazione online: i biglietti si fanno solo al cancello.
+
+**Wat Pho (Buddha Sdraiato)** — a 650m dal Grand Palace, una facile passeggiata
+- **Orari**: 8:30-18:30, 100 THB
+- **Highlight**: il Buddha sdraiato di 46 metri placcato in oro, simbolo dell'illuminazione spirituale
+
+Dal molo di **Tha Tien (N8)**, accanto a Wat Pho, un breve ferry (5 THB) attraversa il fiume fino a Wat Arun.
 
 **Wat Arun (Tempio dell'Alba)**
 - **Prezzo ingresso**: 

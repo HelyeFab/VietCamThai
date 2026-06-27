@@ -16,6 +16,22 @@ function stripPreamble(markdown: string): string {
   return markdown;
 }
 
+/**
+ * The AI-generated content frequently emits a bullet marker on its own line
+ * ("- ") with the item's text on the *next* line. CommonMark renders that as an
+ * empty bullet followed by a detached paragraph. Rejoin the marker with the
+ * following content line so it becomes a proper list item.
+ */
+function normalizeBrokenLists(markdown: string): string {
+  // A line that is only a list marker — "-", "*", "+", or an ordered marker like
+  // "8." / "8)" — (+ optional spaces) immediately followed by a line whose first
+  // non-space char is real content (not another marker/heading/table/quote).
+  return markdown.replace(
+    /^([ \t]*(?:[-*+]|\d+[.)]))[ \t]*\n(?=[ \t]*[^\s\-#|>])/gm,
+    "$1 "
+  );
+}
+
 /** Rehype plugin: rewrite image paths and fix broken URLs */
 const rehypeImageRewrite: Plugin<[], Root> = () => {
   return (tree: Root) => {
@@ -107,7 +123,7 @@ export interface ParsedMarkdown {
 }
 
 export async function parseMarkdown(raw: string): Promise<ParsedMarkdown> {
-  const cleaned = stripPreamble(raw);
+  const cleaned = normalizeBrokenLists(stripPreamble(raw));
 
   // Extract title from first heading
   const titleMatch = cleaned.match(/^#{1,2}\s+(.+)$/m);
