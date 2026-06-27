@@ -1,12 +1,12 @@
 # GIORNO PER GIORNO — Bangkok
 
-## Giorno 25 — 14 Ottobre 2026 — Benvenuti nella Città degli Angeli
+## Giorno 1 — 1 Ottobre 2026 — Benvenuti nella Città degli Angeli
 
 ![Wat Arun — il Tempio dell'Alba](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Templo_Wat_Arun%2C_Bangkok%2C_Tailandia%2C_2013-08-22%2C_DD_04.jpg/1280px-Templo_Wat_Arun%2C_Bangkok%2C_Tailandia%2C_2013-08-22%2C_DD_04.jpg)
 
 ### Mattina
 
-Arrivo a Bangkok dal volo da Siem Reap. 
+Arrivo a Bangkok con il volo internazionale: è qui che inizia il viaggio. 
 Il Grand Palace apre alle 8:30 e chiude alle 15:30
 , quindi arrivate PRESTO per evitare le folle e il calore.
 
@@ -87,7 +87,7 @@ Il modo più facile è il traghetto express lungo il Chao Phraya - fermata Tha T
 
 ---
 
-## Giorno 26 — 15 Ottobre 2026 — Sul Fiume dei Re
+## Giorno 2 — 2 Ottobre 2026 — Sul Fiume dei Re
 
 ### Mattina
 
@@ -156,7 +156,7 @@ Il momento perfetto è la sera/notte quando tutto si anima, ma si può visitare 
 
 ---
 
-## Giorno 27 — 16 Ottobre 2026 — I Mercati più Folli della Thailandia
+## Giorno 3 — 3 Ottobre 2026 — I Mercati più Folli della Thailandia
 
 ### Mattina (partenza PRESTO!)
 
@@ -225,7 +225,7 @@ L'ingresso ad Amphawa è gratuito, pagate solo cibo, bevande e tour in barca
 
 ---
 
-## Giorno 28 — 17 Ottobre 2026 — L'Alba dei Fiori e Ultimo Giro
+## Giorno 4 — 4 Ottobre 2026 — L'Alba dei Fiori e Volo per Siem Reap
 
 ### Mattina (Alba)
 
@@ -267,7 +267,7 @@ Anche frutta fresca e verdure negli angoli più lontani del mercato
 
 ### Pomeriggio
 
-**Ultimo shopping/giro**:
+**Ultimo shopping/giro prima del volo per Siem Reap**:
 - **Jim Thompson House** se avete tempo prima del volo
 - **Siam Paragon/MBK** per shopping last-minute
 - **Lumpini Park** per rilassarsi
@@ -276,10 +276,10 @@ Anche frutta fresca e verdure negli angoli più lontani del mercato
 
 ### Sera
 
-**Partenza per l'aeroporto**
-- **Grab**: ~15€ per Suvarnabhumi Airport
-- **Airport Rail Link**: Alternativa economica dalla stazione Phaya Thai
-- **Tempo consigliato**: 2-3 ore prima del volo internazionale
+**Partenza per l'aeroporto — volo Bangkok → Siem Reap** (~50€, ~1h)
+- **Grab**: ~15€ per l'aeroporto (i voli per Siem Reap partono sia da Suvarnabhumi che da Don Mueang — verificate da quale scalo)
+- **Airport Rail Link**: Alternativa economica dalla stazione Phaya Thai (solo per Suvarnabhumi)
+- **Tempo consigliato**: 2-3 ore prima del volo
 
 ### Tips del Giorno
 

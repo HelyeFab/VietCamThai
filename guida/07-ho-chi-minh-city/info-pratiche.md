@@ -2,33 +2,54 @@
 
 ### Come Arrivare
 
-**Da Nang → Ho Chi Minh City (Volo)**
+**Chau Doc → Ho Chi Minh City (Bus)**
 
 
-I voli diretti durano 1 ora e 20 minuti
- e sono disponibili 
-circa 50 voli al giorno
- per questa tratta popolare. 
-Le compagnie principali sono VietJet Air (67% delle preferenze), Vietnam Airlines e Vietravel Airlines
+Dall'ultima tappa del Delta del Mekong, l'autobus da Chau Doc a Ho Chi Minh City impiega circa 6 ore
+. È la tratta più comoda ed economica per raggiungere Saigon dopo il delta.
+
+**Costi e compagnie 2026:**
+- 
+Bus regolari e limousine: circa 150.000-250.000 VND (~6-10€) a persona
+
+- 
+Compagnie affidabili: Phuong Trang (Futa Bus), Hung Cuong, Kim Hoang
+
+- 
+Diversi servizi giornalieri; molti autobus arrivano alla Mien Tay Bus Station, a ovest del centro
+
+
+**Consigli per il viaggio:**
+- 
+Prenotate i biglietti il giorno prima, soprattutto nei fine settimana
+
+- 
+Dalla Mien Tay Bus Station un taxi o Grab fino al Distretto 1 costa circa 150.000-250.000 VND (~6-10€)
+
+- 
+12Go Asia è utile per confrontare orari e prenotare online
+
+
+**Siti utili:**
+- [Futa Bus (Phuong Trang)](https://futabus.vn)
+- [12Go Asia](https://12go.asia) per confrontare prezzi e orari
+
+### Come Proseguire
+
+**Ho Chi Minh City → Da Nang (Volo, per Hoi An)**
+
+
+Da Saigon si vola a Da Nang, la porta d'accesso a Hoi An. I voli diretti durano 1 ora e 20 minuti e ce ne sono circa 50 al giorno
+. 
+Le compagnie principali sono VietJet Air, Vietnam Airlines e Vietravel Airlines
 .
 
 **Costi aggiornati 2026:**
 - 
-Biglietti da 22€ (Vietravel Airlines) a 25€ (VietJet Air)
+Biglietti da circa 22€ (Vietravel Airlines) a 26€ (Vietnam Airlines)
 
-- 
-I voli più economici con Vietnam Airlines costano circa 26€
-
-- 
-Ottobre è generalmente il mese più conveniente dopo novembre
-
-
-**Consigli per prenotare:**
 - 
 Prenota circa 40 giorni in anticipo per i prezzi migliori
-
-- 
-Vietnam Airlines offre sconti del 15% il giovedì (Brilliant Thursday) e 10% tramite app il martedì
 
 - 
 I voli mattutini hanno meno ritardi rispetto a quelli serali

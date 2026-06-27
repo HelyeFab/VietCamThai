@@ -40,7 +40,7 @@ Le attività di intrattenimento includono l'esecuzione di "Co lau tap tran", com
 
 ### Quando Andare
 
-**Il momento perfetto per il vostro viaggio (24-25 settembre).** 
+**Il momento perfetto per il vostro viaggio (25-26 ottobre).** 
 Il secondo raccolto (fine settembre – inizio ottobre): questo raccolto si allinea con il tempo autunnale molto più piacevole e asciutto. Questa finestra è ampiamente considerata il momento assoluto migliore per vedere i campi dorati e godere di condizioni di touring confortevoli.
  
 Per l'esperienza assoluta migliore che combina tempo gestibile e paesaggi mozzafiato, fine maggio a inizio giugno e fine settembre a ottobre sono le finestre ideali.

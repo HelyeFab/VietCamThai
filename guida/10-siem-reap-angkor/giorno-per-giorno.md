@@ -2,12 +2,12 @@ Ora scrivo la sezione GIORNO PER GIORNO per Siem Reap & Angkor con le informazio
 
 # SIEM REAP & ANGKOR — GIORNO PER GIORNO
 
-## Giorno 21 — 10 Ottobre 2026 — L'Arrivo nel Regno dei Khmer
+## Giorno 5 — 5 Ottobre 2026 — L'Arrivo nel Regno dei Khmer
 
 ![Angkor Wat](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/2014-Cambodge_Angkor_Wat_%2821%29.jpg/1280px-2014-Cambodge_Angkor_Wat_%2821%29.jpg)
 
 ### Mattina
-Arrivate a Siem Reap con il minivan da Phnom Penh (6 ore, ~12€). Check-in in hotel e **prima missione essenziale**: 
+Arrivate a Siem Reap con il volo da Bangkok (~50€, circa 1 ora). Dal nuovo Aeroporto Internazionale Siem Reap–Angkor servono circa 45-60 minuti di strada per raggiungere il centro. Check-in in hotel e **prima missione essenziale**: 
 prenotare subito il biglietto Angkor Pass online o presso l'hotel per evitare code all'alba
 . 
 Il pass da 3 giorni costa 62$ ed è valido per 10 giorni
@@ -62,7 +62,7 @@ Pub Street è chiusa al traffico dalle 17:00
 
 ---
 
-## Giorno 22 — 11 Ottobre 2026 — Alba di Fuoco sui Khmer
+## Giorno 6 — 6 Ottobre 2026 — Alba di Fuoco sui Khmer
 
 ### Mattina
 
@@ -114,7 +114,7 @@ Phnom Bakheng per il tramonto ha un limite di 300 persone — arrivate prima del
 
 ---
 
-## Giorno 23 — 12 Ottobre 2026 — Alla Scoperta del Tempio della Giungla
+## Giorno 7 — 7 Ottobre 2026 — Alla Scoperta del Tempio della Giungla
 
 ### Mattina
 **8:00 - Partenza per Beng Mealea**: 
@@ -169,7 +169,7 @@ Non toccate le incisioni o scalate muri fragili: rispettate questo sito antico e
 
 ---
 
-## Giorno 24 — 13 Ottobre 2026 — Tramonto d'Oro tra i Templi
+## Giorno 8 — 8 Ottobre 2026 — Tramonto d'Oro tra i Templi
 
 ### Mattina
 **Giornata rilassata**: Dopo 3 giorni intensi, meritate un po' di relax. Tarda colazione, piscina dell'hotel, massaggio khmer.
@@ -202,7 +202,7 @@ Viste al tramonto che rivaleggiano con Angkor Wat ma con il 95% meno persone
 Pre Rup è affollato al tramonto, ma East Mebon è deserto in quest'ora. Per un tramonto tranquillo, visitate questi templi nell'ordine "sbagliato"!
 
 ### Sera
-Cena di addio speciale — magari al **Chanrey Tree** (ristorante fine dining khmer) o ritorno a Pub Street per l'ultima serata cambodgiana.
+Cena di addio speciale — magari al **Chanrey Tree** (ristorante fine dining khmer) o ritorno a Pub Street per l'ultima serata a Siem Reap. Domani si scende verso la costa (Sihanoukville) per imbarcarsi alla volta di Koh Rong Samloem: organizzate per tempo il volo interno o il bus.
 
 ### Tips del Giorno
 - 

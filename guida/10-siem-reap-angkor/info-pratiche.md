@@ -4,37 +4,42 @@ Ora scriverò la sezione INFO PRATICHE per Siem Reap & Angkor basandomi su tutte
 
 ### Come Arrivare
 
-#### Minivan Phnom Penh → Siem Reap
+#### Volo Bangkok → Siem Reap
 
-La rotta più comune dal vostro itinerario è il 
-minivan da Phnom Penh a Siem Reap, che costa circa 8-17$ a persona e impiega 5-7 ore
+Si arriva a Siem Reap dalla Thailandia con un 
+volo da Bangkok, che costa circa ~50€ a persona e dura circa 1 ora
 . 
-Il tragitto di circa 315 km attraversa le province di Kampong Thom e Kampong Cham, con soste ogni 2 ore per pause bagno e snack
+I voli partono sia da Suvarnabhumi (BKK) che da Don Mueang (DMK) e atterrano al nuovo Aeroporto Internazionale Siem Reap–Angkor, a circa 50 km a est della città
 .
 
 **Compagnie consigliate:**
-- **Giant Ibis** — 
-La più popolare fra turisti ed expat, offre WiFi e prese elettriche a bordo, biglietti da 17$
+- **Thai AirAsia** — 
+le tariffe più economiche sulla tratta Bangkok–Siem Reap
 
-  - Prenotazioni: [Bookaway](https://www.bookaway.com/suppliers/giant-ibis) o [sito ufficiale Giant Ibis](https://giantibis.com)
-- **Virak Buntham Express** — 
-Autobus con posti a sedere o letti (sleeper bus)
+  - Prenotazioni: [Thai AirAsia](https://www.airasia.com/)
+- **Bangkok Airways** — 
+più confortevole ma costosa
 
-- **RedBus** — 
-Biglietti da 8$ con sconti fino al 50% per nuovi utenti
+- **Cambodia Angkor Air** — 
+compagnia di bandiera cambogiana
 
-  - Prenotazioni: [RedBus.com.kh](https://www.redbus.com.kh/bus-tickets/routes/siem-reap-to-phnom-penh)
+  - Confronto prezzi: [Google Flights](https://flights.google.com/)
 
-**Consigli pratici:**
+**Dall'aeroporto al centro:**
 - 
-Arrivate 20-30 minuti prima della partenza
-
-- 
-I minivan sono più veloci dei bus normali perché fanno meno fermate
+Dal nuovo aeroporto servono circa 45-60 minuti di strada (~50 km)
 
 - 
-Occhio ai furti sui bagagli durante il viaggio Phnom Penh-Siem Reap
- — tenete oggetti di valore con voi
+Tuk-tuk o taxi disponibili all'uscita arrivi; concordate il prezzo in anticipo
+
+- 
+Molti hotel offrono il transfer su prenotazione
+
+### Come Proseguire — verso la costa (Koh Rong Samloem)
+
+Dopo Siem Reap il viaggio scende verso la costa meridionale per imbarcarsi alla volta dell'isola di Koh Rong Samloem. 
+Potete scegliere tra un volo interno verso Sihanoukville oppure un bus/minivan diretto a Sihanoukville (da cui partono i traghetti per le isole)
+. Organizzate la tratta con un giorno d'anticipo, soprattutto in stagione delle piogge quando gli orari dei traghetti possono variare.
 
 ### Come Muoversi
 

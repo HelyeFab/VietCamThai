@@ -1,14 +1,14 @@
 # VietCamThai Travel Guide
 
-AI-generated travel guide for Vietnam, Cambodia, and Thailand — 28 days, Sep-Oct 2026, 4 travelers.
+AI-generated travel guide for Vietnam, Cambodia, and Thailand — 31 days, 1–31 October 2026, 4 travelers. Route runs Bangkok → Siem Reap → Koh Rong Samloem → Phnom Penh → Chau Doc → HCMC → Hoi An → Hué → Phong Nha → Ninh Binh → Lan Ha → Hanoi (reversed from the original Hanoi-first plan).
 
 ## Project Structure
 
 ```
 VietCamThai/
-├── guida/                    # Source markdown content (51 files)
+├── guida/                    # Source markdown content (55 files)
 │   ├── 00-pianificazione/    # 6 planning files (budget, visas, health, etc.)
-│   ├── 01-hanoi/ ... 11-bangkok/  # 11 destinations, 4 files each
+│   ├── 01-hanoi/ ... 12-koh-rong-samloem/  # 12 destinations, 4 files each
 │   │   ├── panoramica.md
 │   │   ├── giorno-per-giorno.md
 │   │   ├── cibo-e-cultura.md

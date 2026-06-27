@@ -2,24 +2,43 @@
 
 ### Come Arrivare
 
-**Barca veloce da Chau Doc**
+**Bus dalla costa (Sihanoukville / Koh Rong Samloem)**
 
 
-Il modo migliore per raggiungere Phnom Penh da Chau Doc è la barca veloce lungo il Mekong. Il viaggio dura circa 5-6 ore (incluse le procedure di frontiera) e costa tra i $30-65 per persona
-. 
+Dopo la parentesi balneare a Koh Rong Samloem, si rientra in traghetto a Sihanoukville e da lì si raggiunge Phnom Penh in autobus. Il viaggio dura circa 4-5 ore e costa €8-15 per persona.
+
+**Compagnie affidabili:**
+- **Giant Ibis** (giantibis.com) - la più affidabile e comoda, bus moderni con wifi, partenze regolari da Sihanoukville
+- **Virak Buntham** / **BookMeBus** (bookmebus.com) - buona alternativa, anche minivan più rapidi
+
+**Dettagli pratici:**
+- 
+Il traghetto Koh Rong Samloem → Sihanoukville impiega circa 45 minuti: prenota la corsa del mattino per avere tutto il pomeriggio a Phnom Penh
+
+- 
+Arrivo alle stazioni dei bus vicino al lungofiume (Sisowath Quay) o al Central Market — taxi/tuk-tuk fino all'hotel ~$2-3
+
+- 
+Porta contanti in dollari USA: in Cambogia l'USD è la valuta di fatto
+
+
+### Come Proseguire — Barca veloce per Chau Doc (Vietnam)
+
+
+Da Phnom Penh si scende lungo il Mekong fino a Chau Doc con la barca veloce: una delle traversate più suggestive del viaggio, con l'attraversamento della frontiera fluviale Cambogia-Vietnam. Il viaggio dura circa 5-6 ore (incluse le procedure di frontiera) e costa tra i $30-65 per persona.
 
 **Compagnie affidabili:**
 - **Hang Chau Tourist** (www.hangchautourist.vn) - 
-La principale compagnia che opera quotidianamente su questa rotta, partenza alle 7:30 da Chau Doc e arrivo a Phnom Penh alle 13:00
+La principale compagnia su questa rotta, partenza al mattino dall'International Floating Port di Phnom Penh e arrivo a Chau Doc nel primo pomeriggio
 
 - **Blue Cruiser** - Alternativa affidabile
 
 **Dettagli pratici:**
 - 
-Visto cambogiano obbligatorio: porta $35-40 in dollari USA puliti + foto tessera. Il visto viene processato alla frontiera fluviale, non si può usare l'e-visa
+Visto vietnamita: verifica in anticipo i requisiti d'ingresso (e-visa consigliato prima della partenza). Le procedure si svolgono alla frontiera fluviale
 
 - 
-Partenza: Sunrise Palace, 03A Le Loi Street, Chau Doc | Arrivo: International Floating Port, Sisowath Street, Phnom Penh
+Imbarco: International Floating Port, Sisowath Street, Phnom Penh | Arrivo: Sunrise Palace, 03A Le Loi Street, Chau Doc
 
 - 
 Tempo per procedure immigrazione: 1-2 ore

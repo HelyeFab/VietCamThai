@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     template: "%s | VCT Guida",
   },
   description:
-    "Guida di viaggio per Vietnam, Cambogia e Thailandia — 28 giorni, 11 destinazioni, 3 paesi.",
+    "Guida di viaggio per Vietnam, Cambogia e Thailandia — 31 giorni, 12 destinazioni, 3 paesi.",
   manifest: "/manifest.json",
 };
 

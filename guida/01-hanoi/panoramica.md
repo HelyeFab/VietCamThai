@@ -43,7 +43,7 @@ Secondo la leggenda, dopo aver sconfitto la Cina Ming, l'imperatore Lê Lợi st
 
 ## Quando Andare
 
-### Il Perfetto Equilibrio di Fine Settembre
+### Il Perfetto Equilibrio di Fine Ottobre
 
 Entro la fine di settembre, puoi aspettarti cieli più limpidi e una diminuzione dell'umidità. Questo è un momento eccellente per esplorare l'affascinante città capitale di Hanoi e godersi la famosa stagione autunnale, insieme alla fioritura di fiori speciali del latte
 . 

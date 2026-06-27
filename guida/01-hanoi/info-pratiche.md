@@ -2,10 +2,18 @@
 
 ### Come Arrivare
 
-**Dall'aeroporto Noi Bai al centro**
+**Da Halong / Baia di Lan Ha (Cat Ba) ad Hanoi in bus (~3-4 ore)**
+
+Hanoi è l'ultima tappa del viaggio: ci arrivate dalla Baia di Lan Ha (isola di Cat Ba), terminata la crociera. 
+Il bus diretto combina bus + traghetto + bus e impiega circa 3-4 ore, con arrivo nel Quartiere Vecchio
+. Compagnie affidabili come **Cat Ba Express** e **Good Morning Cat Ba** offrono partenze frequenti al mattino e pickup dal molo; prezzo indicativo 250.000-300.000 VND (8-12€) a persona. Da Halong città il collegamento via bus è ancora più rapido (~2,5 ore).
+
+💡 Chiedete al vostro alloggio di Cat Ba di prenotare il bus al check-out per evitare i tour costosi e avere il pickup incluso.
+
+**Per il rientro a casa — dal centro all'aeroporto Noi Bai**
 
 
-Noi Bai Airport al Quartiere Vecchio costa VND 350,000–450,000 (~$14–18)
+Per l'ultimo giorno, il transfer dal Quartiere Vecchio all'aeroporto internazionale di Noi Bai costa VND 350,000–450,000 (~$14–18) e impiega circa 45-60 minuti
 . Per 4 persone con bagagli, la soluzione più pratica è:
 
 - **Grab**: 

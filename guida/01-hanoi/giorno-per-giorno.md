@@ -2,22 +2,22 @@ Ora ho abbastanza informazioni per creare la sezione GIORNO PER GIORNO della gui
 
 # GIORNO PER GIORNO — HANOI
 
-## Giorno 1 — 20 Settembre 2026 — Primo Assaggio della Magia di Hanoi
+## Giorno 28 — 28 Ottobre 2026 — Primo Assaggio della Magia di Hanoi
 
 ![Il Quartiere Vecchio di Hanoi di sera](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Hanoi_Old_Quarter%2C_9_March_2019-2.jpg/1280px-Hanoi_Old_Quarter%2C_9_March_2019-2.jpg)
 
 ### Mattina
-Arrivo e sistemazione in hotel nel cuore del Quartiere Vecchio. 
+Arrivo ad Hanoi dalla Baia di Lan Ha (Cat Ba) in bus, terminata la crociera, e sistemazione in hotel nel cuore del Quartiere Vecchio. 
 Il Tempio della Letteratura dista solo 2 chilometri dal Quartiere Vecchio e dal Lago Hoan Kiem
-, posizione perfetta per i prossimi giorni.
+, posizione perfetta per gli ultimi giorni del viaggio.
 
 ![Mausoleo di Ho Chi Minh](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Hanoi_Vietnam_Mausoleum-of-Ho-Chi-Minh-01.jpg/1280px-Hanoi_Vietnam_Mausoleum-of-Ho-Chi-Minh-01.jpg)
 
-**Taxi dall'aeroporto**: 
+**Il viaggio da Cat Ba**: 
 - 
-Taxi o Grab costa 60.000-70.000 VND (circa 2,50-2,90 USD) per tratto
+Il bus diretto da Cat Ba (bus + traghetto + bus) impiega circa 3-4 ore con arrivo nel Quartiere Vecchio
 
-- Tempo di percorrenza: 45-60 minuti a seconda del traffico
+- Una volta lasciati i bagagli, una passeggiata nei dintorni del Lago Hoan Kiem è il modo perfetto per cominciare
 
 ### Pomeriggio
 **Primo approccio con l'Old Quarter** (14:00-17:00)
@@ -71,7 +71,7 @@ Le strade traboccano di venditori ambulanti e motociclette. Inizia con un ciclo 
 
 ---
 
-## Giorno 2 — 21 Settembre 2026 — Laghi, Templi e Cultura Millenaria
+## Giorno 29 — 29 Ottobre 2026 — Laghi, Templi e Cultura Millenaria
 
 ### Mattina
 **Lago Hoan Kiem e Tempio Ngoc Son** (8:00-10:00)
@@ -152,7 +152,7 @@ Porta contanti: la biglietteria non accetta pagamenti con carta di credito
 
 ---
 
-## Giorno 3 — 22 Settembre 2026 — Politica, Storia e Street Food Perfetto
+## Giorno 30 — 30 Ottobre 2026 — Politica, Storia e Street Food Perfetto
 
 ### Mattina
 **Mausoleo di Ho Chi Minh** (7:30-10:30)
@@ -242,6 +242,27 @@ Drink — caffè ghiacciato, succo di canna da zucchero, trà đá (tè ghiaccia
 - [Tempio della Letteratura - Sito Ufficiale](https://templeofliterature.com/)
 - [Vietnam Museum of Ethnology](https://www.vme.org.vn/en)
 - [Mappa Google Maps - Old Quarter Walking Route](https://maps.google.com)
+
+---
+
+## Giorno 31 — 31 Ottobre 2026 — Arrivederci, Vietnam
+
+![Volo all'alba sopra Hanoi](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Hanoi_Old_Quarter%2C_9_March_2019-2.jpg/1280px-Hanoi_Old_Quarter%2C_9_March_2019-2.jpg)
+
+L'ultimo giorno del viaggio. Dopo 31 giorni attraverso Thailandia, Cambogia e Vietnam, è tempo di salutare il Sud-Est Asiatico e prendere il volo internazionale di rientro da Hanoi.
+
+### Mattina
+- **Ultimo caffè vietnamita**: concediti un *cà phê sữa đá* (caffè ghiacciato con latte condensato) o un *cà phê trứng* (caffè all'uovo) in uno dei caffè storici dell'Old Quarter — il modo migliore per chiudere il viaggio.
+- **Ultimi acquisti e souvenir**: una passeggiata finale tra le 36 strade delle corporazioni per gli ultimi regali — seta di Hang Gai, ceramiche di Bat Trang, caffè e tè vietnamita da portare a casa.
+- **Pho d'addio**: un'ultima ciotola di *pho bò* fumante, dove tutto è iniziato.
+- **Check-out**: la maggior parte degli hotel consente il check-out entro mezzogiorno; chiedi un *late check-out* o lascia i bagagli in deposito se il volo è in serata.
+
+### Pomeriggio / Partenza
+- **Transfer all'aeroporto**: l'aeroporto internazionale di Noi Bai (HAN) dista circa 30 km dall'Old Quarter — taxi o Grab ~250.000–350.000 VND (~10–14€), 45–60 minuti a seconda del traffico. In alternativa il bus express 86 (~35.000 VND) collega l'Old Quarter all'aeroporto.
+- **In aeroporto**: presentati 3 ore prima per i voli internazionali. Ricordati di completare l'eventuale **rimborso tax-free** sugli acquisti importanti prima dei controlli.
+- **Volo di rientro**: decollo da Hanoi verso casa. 🛫
+
+> **Consiglio finale**: tieni da parte qualche dong per l'ultimo caffè e per il transfer — molti negozi del duty-free accettano carte ma le bancarelle e i taxi no. *Tạm biệt Việt Nam!* (Arrivederci, Vietnam!)
 
 ---
 

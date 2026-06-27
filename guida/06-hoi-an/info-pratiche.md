@@ -2,9 +2,37 @@
 
 ### Come Arrivare
 
+**Ho Chi Minh City → Da Nang → Hoi An (Volo + transfer)**
 
-Il trasferimento da Hue a Hoi An via Hai Van Pass è una delle tratte più scenografiche del Vietnam
-. Per il vostro Giorno 12, l'auto privata via Hai Van Pass (~25€/pp) è la scelta perfetta — 
+
+Da Saigon si raggiunge Hoi An volando fino a Da Nang, l'aeroporto più vicino. Il volo diretto dura 1 ora e 20 minuti e ci sono circa 50 voli al giorno
+ (VietJet Air, Vietnam Airlines, Vietravel Airlines). 
+Dall'aeroporto di Da Nang, Hoi An dista circa 30 km: il transfer in auto privata o taxi richiede circa 45 minuti
+.
+
+**Opzioni dall'aeroporto di Da Nang:**
+- **Auto privata / taxi aeroporto**: 
+~45 minuti, circa 350.000-450.000 VND (~14-18€) per l'intera auto
+
+- **Grab da Da Nang**: 
+alternativa più economica, soggetta a disponibilità
+
+- **Navetta hotel**: 
+molti alloggi di Hoi An offrono il transfer dall'aeroporto su richiesta
+
+
+**Siti utili:**
+- [Vietnam Airlines](https://www.vietnamairlines.com)
+- [VietJet Air](https://www.vietjetair.com)
+- [Skyscanner](https://www.skyscanner.com) per confrontare prezzi
+
+### Come Proseguire
+
+**Hoi An → Hué via Hai Van Pass**
+
+
+Il trasferimento da Hoi An a Hué via Hai Van Pass è una delle tratte più scenografiche del Vietnam
+. L'auto privata via Hai Van Pass (~25€/pp) è la scelta perfetta — 
 offre servizio porta a porta con autista professionale e la possibilità di scegliere il percorso scenico
 .
 

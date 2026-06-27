@@ -2,18 +2,27 @@
 
 ### Come Arrivare
 
-**Volo Siem Reap → Bangkok** (Giorno 25)
+**Volo internazionale → Bangkok** (Giorno 1 — inizio del viaggio)
 
-I voli da Siem Reap a Bangkok partono da circa $122 per tratta singola con compagnie low-cost come Thai AirAsia, mentre i voli andata e ritorno oscillano tra $218-222
-. Il prezzo di ~50€ del vostro itinerario è molto realistico se prenotate con anticipo.
+Bangkok è la prima tappa del viaggio: si arriva con il volo internazionale all'aeroporto Suvarnabhumi (BKK), il principale scalo della città, oppure a Don Mueang (DMK) se volate con alcune low-cost. 
+Dall'aeroporto al centro città il modo più comodo è Grab (650-900 THB / 18-25€) oppure l'Airport Rail Link da Suvarnabhumi (45 THB) fino alla stazione Phaya Thai.
+
+**Dall'aeroporto al centro:**
+- **Grab/taxi**: 650-900 THB (18-25€) verso Khao San / Old Town
+- **Airport Rail Link** (solo Suvarnabhumi): 45 THB fino a Phaya Thai, poi BTS/Grab
+- **Tempo**: 45-60 minuti a seconda del traffico
+
+### Come Proseguire — Volo Bangkok → Siem Reap (Giorno 4)
+
+Dopo Bangkok il viaggio prosegue verso la Cambogia con un volo per Siem Reap (~50€, circa 1 ora). 
+I voli Bangkok–Siem Reap partono da circa $122 per tratta singola con compagnie low-cost come Thai AirAsia. Il prezzo di ~50€ del vostro itinerario è molto realistico se prenotate con anticipo.
 
 **Compagnie consigliate:**
 - **Thai AirAsia**: 
 offre le tariffe più economiche, con voli da $122 per tratta singola
 
 - **Bangkok Airways**: 
-voli da $226 andata e ritorno
-, più confortevoli ma costosi
+più confortevole ma costosa
 - **Thai Airways**: 
 servizio premium
  ma prezzi più elevati
@@ -21,11 +30,10 @@ servizio premium
 **Dove prenotare:**
 - [Thai AirAsia](https://www.airasia.com/)
 - [Google Flights](https://flights.google.com/) per confrontare prezzi
-- [Momondo](https://www.momondo.com/flights/siem-reap/bangkok) per le migliori offerte
+- [Momondo](https://www.momondo.com/flights/bangkok/siem-reap) per le migliori offerte
 
 **Pro tip:** 
-I voli più economici sono solitamente a giugno, con prezzi che oscillano tra $155-180
-, ma anche settembre-ottobre offrono buone tariffe se prenotate 2-3 mesi prima.
+Settembre-ottobre offrono buone tariffe per la tratta Bangkok–Siem Reap se prenotate 2-3 mesi prima.
 
 ### Come Muoversi
 

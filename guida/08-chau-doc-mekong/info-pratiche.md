@@ -2,11 +2,24 @@
 
 ### Come Arrivare
 
-**Da Ho Chi Minh City a Chau Doc**
+**Barca veloce da Phnom Penh (Cambogia)**
 
 
-Il viaggio da Ho Chi Minh City a Chau Doc dura circa 5 ore in autobus, con partenze ogni 2 ore dalle 5:00 alle 23:00, con biglietti a partire da 8 dollari (circa 7,5€)
-.
+Si arriva a Chau Doc scendendo lungo il Mekong in barca veloce da Phnom Penh: il viaggio dura circa 5-6 ore (incluse le procedure alla frontiera fluviale Cambogia-Vietnam) e costa tra i $30-65 per persona. È una delle traversate più suggestive dell'intero itinerario.
+
+**Compagnie affidabili:**
+- **Hang Chau Tourist** (www.hangchautourist.vn) — la principale su questa rotta, partenza al mattino da Phnom Penh e arrivo a Chau Doc nel primo pomeriggio
+- **Blue Cruiser** — alternativa affidabile
+
+**Dettagli pratici:**
+- Visto vietnamita: prepara l'e-visa prima della partenza; le procedure si svolgono alla frontiera fluviale (1-2 ore)
+- Imbarco: International Floating Port, Phnom Penh | Arrivo: Sunrise Palace, 03A Le Loi Street, Chau Doc
+
+
+### Come Proseguire — Bus per Ho Chi Minh City
+
+
+Da Chau Doc si prosegue verso Ho Chi Minh City in autobus: circa 5-6 ore, con partenze ogni 2 ore dalle 5:00 alle 23:00 e biglietti a partire da 8 dollari (circa 7,5€).
 
 **Compagnie consigliate:**
 - **Phuong Trang (Futa Bus)** - Prima scelta assoluta
@@ -14,7 +27,7 @@ Il viaggio da Ho Chi Minh City a Chau Doc dura circa 5 ore in autobus, con parte
 Utilizza autobus sleeper a due piani con letti fissi per 40-44 passeggeri
 
   - 
-Partenza da Mien Tay Bus Station HCMC, arrivo alla stazione di Chau Doc, durata 6h 15min, prezzo circa 10€
+Partenza dalla stazione di Chau Doc, arrivo a Mien Tay Bus Station HCMC, durata 6h 15min, prezzo circa 10€
 
   - Prenotazione online: [Baolau](https://booking.baolau.com/en/s/ho-chi-minh/chau-doc) o [12Go](https://12go.asia)
 
@@ -25,10 +38,10 @@ Biglietti economy da 7 dollari (6,5€), durata 8h 46min
 
 **Stazioni:**
 - **Partenza**: 
-Mien Tay Bus Station (395 Kinh Duong Vuong, An Lac Ward, Binh Tan District)
+Chau Doc Bus Station (Ton Duc Thang Street, Vinh My Ward)
 
 - **Arrivo**: 
-Chau Doc Bus Station (Ton Duc Thang Street, Vinh My Ward)
+Mien Tay Bus Station (395 Kinh Duong Vuong, An Lac Ward, Binh Tan District)
 
 
 **💡 Trucco insider**: 

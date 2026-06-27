@@ -2,32 +2,61 @@
 
 ### Come Arrivare
 
-**Dal vostro itinerario: Phong Nha → Hué**
+**Hoi An / Da Nang → Hué via Passo di Hai Van**
 
 
-Il bus diretto da Phong Nha a Hué richiede 3,5-4 ore e costa circa 207.000 VND (~8€)
+Il trasferimento da Hoi An a Hué attraverso il Passo di Hai Van (Hai Van Pass) richiede circa 4 ore ed è una delle tratte più panoramiche del Vietnam
+. La strada sale lungo la costa offrendo viste mozzafiato sull'oceano prima di scendere verso la città imperiale.
+
+**Opzioni trasporto:**
+- **Auto privata (consigliata)**: 
+circa 4 ore con soste panoramiche, ~25€/pp; servizio porta a porta con autista professionale
+
+- **Bus turistico**: 
+3,5-4,5 ore, costo 6-15$/pp
+
+- **Treno via Da Nang**: 
+la spettacolare tratta ferroviaria Da Nang–Hué costeggia il mare, circa 2,5-3 ore, 10-13$/pp
+
+
+**Tappe lungo il percorso:**
+- 
+Lang Co Bay - riconosciuta nel 2009 come una delle 30 baie più belle del mondo
+
+- 
+Hai Van Pass - una delle strade costiere più spettacolari del Vietnam con viste panoramiche sull'oceano
+
+- 
+Marble Mountains - formazioni calcaree con grotte naturali, vicino a Da Nang
+
+
+**Compagnie affidabili:**
+- **Hoi An Transport Service**: [Link](https://hoiantransportservice.com/) - trasporti privati dal 2014, auto moderne e pulite, autisti puntuali e professionali
+- **GetYourGuide**: servizio porta a porta con autista, possibilità di scegliere il percorso scenico
+
+### Come Proseguire
+
+**Hué → Phong Nha (Bus / Treno)**
+
+
+Il bus diretto da Hué a Phong Nha richiede 3,5-4 ore e costa circa 207.000 VND (~8€)
 . Diverse compagnie operano sulla tratta:
 
 - **Queen Cafe Bus**: 
-Servizio sleeper con prezzi a partire da 350.000 VND (~14€)
- • Partenza dal Central Backpackers Hostel a Phong Nha
+servizio sleeper con prezzi a partire da 350.000 VND (~14€)
+
 - **Hung Thanh Bus**: 
-Partenza 4:00-4:30 dal Thanh Phat Hotel, arrivo a Hué 8:00-9:00
+partenze al mattino, arrivo a Phong Nha in circa 4 ore
 
 - **DMZ Bus (con tour)**: 
-600.000 VND (~23€) include fermate ai Tunnel di Vinh Moc e Ben Hai River
+600.000 VND (~23€) include fermate ai Tunnel di Vinh Moc e al Ben Hai River
 
+
+In alternativa, il treno Hué → Dong Hoi (~2,5 ore) seguito da un breve transfer a Phong Nha è una valida opzione panoramica.
 
 **Prenotazioni**: 
 - Queen Cafe: +84 906413468
-- 
-DMZ Bus attraverso Phong Nha Homestay o Sy's Homestay (Facebook)
-
 - **Online**: 12Go Asia per confrontare prezzi e orari
-
-
-Tutti i bus diretti arrivano nella zona Doi Cung nel centro di Hué
-.
 
 ### Come Muoversi
 

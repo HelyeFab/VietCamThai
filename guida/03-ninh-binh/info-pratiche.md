@@ -2,41 +2,46 @@
 
 ### Come Arrivare
 
-**Da Hanoi a Ninh Binh in bus (2,5 ore)**
+**Da Phong Nha a Ninh Binh in bus notturno (8-10 ore)**
 
 
-Il viaggio in bus da Hanoi a Ninh Binh costa tra i 6-8 dollari (circa 5-7€) e dura dalle 2 alle 3 ore
+Da Phong Nha, vostra tappa precedente, Ninh Binh si raggiunge con i bus sleeper notturni che costano circa 12-15€ a persona e impiegano 8-10 ore
 . 
-La durata media è di 1,5-2 ore a seconda del tipo di bus e del percorso
+La partenza è tipicamente in serata (19:30-21:00) con arrivo all'alba, così guadagnate una notte e arrivate riposati
 .
 
 **Compagnie raccomandate:**
-- **FUTA HA SON**: 
-Partenze da Hanoi dalle 6:30 alle 19:30, con valutazione media di 4,8/5 stelle
+- **Queen Cafe / Full Moon**: 
+Bus sleeper con poltrone reclinabili, prese di corrente e bagno; partenza serale da Phong Nha
 
-- **X.E Vietnam**: 
-16 corse giornaliere dalle 6:00 alle 20:00, prezzo 155.000 VND (~5,5€)
+- **Hung Thanh / The Sinh Tourist**: 
+Collegamenti notturni affidabili lungo l'asse Phong Nha-Ninh Binh
 
-- **Ninh Binh Car Limo**: 
-Una corsa ogni ora con servizio porta a porta
+- 
+In alternativa, treno da Dong Hoi (45 km da Phong Nha) fino a Ninh Binh, più comodo ma con cambio e durata simile
 
 
 **Dove acquistare:**
 - Online su [Vexere.com](https://vexere.com) - la piattaforma più affidabile del Vietnam
-- [12go.asia](https://12go.asia) per confrontare prezzi
+- [12go.asia](https://12go.asia) per confrontare prezzi e orari dei bus notturni
 - 
-Alla stazione di Giap Bat (sud di Hanoi), acquistando il biglietto al banco biglietteria per 70.000 VND
+Chiedete al vostro alloggio di Phong Nha di prenotare: spesso ottengono prezzi migliori e il pickup in paese
 
 
 **Consigli:**
 - 
-Prenotate in anticipo per assicurarvi un buon posto
+Prenotate in anticipo per assicurarvi una cuccetta in basso (più stabile)
 
 - 
-Arrivate alla stazione almeno 15 minuti prima della partenza
+Portate uno strato in più: i bus notturni tengono l'aria condizionata alta
 
 - 
 La stazione degli autobus di Ninh Binh si trova vicino alla stazione ferroviaria, oltre il ponte verso Phat Diem
+
+
+**In partenza — verso la Baia di Lan Ha:**
+
+Dalla zona di Ninh Binh / Hai Phong la tappa successiva è la Baia di Lan Ha (isola di Cat Ba). Si raggiunge con bus + traghetto/speedboat in circa 3,5-4 ore; molti alloggi organizzano il transfer combinato o il collegamento via Hai Phong.
 
 
 ### Come Muoversi

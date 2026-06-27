@@ -2,47 +2,45 @@
 
 ### Come Arrivare
 
-Il modo più comodo per raggiungere Cat Ba (la porta d'accesso alla Baia di Lan Ha) da Hanoi è con i 
-bus diretti che includono pickup dall'hotel, viaggio + ferry/speedboat + trasporto locale
-. 
+Da Ninh Binh, vostra tappa precedente, si raggiunge Cat Ba (la porta d'accesso alla Baia di Lan Ha) con i 
+bus + traghetto/speedboat in circa 3,5-4 ore. Spesso il collegamento passa per Hai Phong, da cui partono i traghetti per l'isola
+. Una volta a bordo della crociera, la notte si dorme in cabina sulla baia.
 
 **Compagnie Raccomandate:**
 - **Cat Ba Express** - 
-Considerata la migliore opzione
+Considerata la migliore opzione, con collegamenti da Ninh Binh/Hai Phong
  ([sito ufficiale](https://catbaexpress.com))
 - **Good Morning Cat Ba** - 
-Servizio giornaliero con pickup dall'hotel
+Servizio giornaliero combinato bus + barca
  ([sito](https://goodmorningcatba.com))
 
 **Dettagli del Trasporto:**
 - **Durata**: 
-3-3,5 ore totali
+3,5-4 ore totali da Ninh Binh
 
 - **Prezzi**: 
-$10.5 (circa 10€)
- oppure 
-360.000 VND (15,50$)
+circa 15-20€ a persona per il tratto combinato bus + traghetto
 
-- **Orari partenze**: 
-7:30, 10:30, 12:30, 14:00
-
-- **Pickup**: 
-Dal vostro hotel nel quartiere vecchio di Hanoi
+- **Tratto via mare**: 
+speedboat/traghetto fino a Cat Ba, poi bus locale a Cat Ba Town (30-45 minuti)
 
 
 **Come funziona:**
-1. Pickup dall'hotel → 
-Bus via autostrada 5B (2 ore + pausa 15 min)
-
+1. Bus da Ninh Binh in direzione Hai Phong / imbarco
 2. 
-Speedboat da Got Pier a Cai Vieng (8 minuti)
+Traghetto o speedboat fino all'isola di Cat Ba
 
 3. 
-Bus locale a Cat Ba Town (30-45 minuti)
+Bus locale a Cat Ba Town, poi transfer al molo per la crociera
 
 
 💡 **Insider tip**: 
-Prenotate con almeno 24 ore di anticipo per il pickup gratuito
+Prenotate il transfer combinato tramite il vostro alloggio di Ninh Binh o la compagnia della crociera: evitate cambi scomodi con i bagagli
+
+
+**In partenza — verso Hanoi:**
+
+Da Cat Ba, terminata la crociera, si rientra verso Hanoi con il bus diretto (bus + traghetto + bus) in circa 3-4 ore. Partenze frequenti al mattino con arrivo nel Quartiere Vecchio; molte compagnie (Cat Ba Express, Good Morning Cat Ba) offrono il pickup dal molo.
 
 
 ### Come Muoversi

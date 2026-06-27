@@ -2,44 +2,37 @@
 
 ### Come Arrivare
 
-**Bus notturno da Ninh Binh (opzione principale)**
+**Da Hué a Phong Nha (opzione principale, ~4 ore)**
 
-I bus sleeper notturni da Ninh Binh a Phong Nha costano dai 12€ ai 15€ a persona e impiegano 8-10 ore
-. 
-Le compagnie affidabili includono Queen Cafe e Full Moon Party Bus, che offrono poltrone reclinabili comode, prese di corrente e bagni puliti
-.
+Phong Nha si raggiunge facilmente da Hué, vostra tappa precedente. Le opzioni sono due e si equivalgono come durata totale (circa 4 ore).
 
-**Prenotazione e orari:**
+**In treno + transfer (più panoramico):**
 - 
-La partenza è tipicamente intorno alle 19:30-21:00, arrivo alle 3:00-5:00 del mattino
-
+Prendete il treno da Hué a Dong Hoi (circa 2,5-3 ore), il tratto più scenografico della ferrovia Nord-Sud lungo la costa
 - 
-Puoi prenotare tramite l'app Vexere per biglietti online
+Da Dong Hoi (45 km da Phong Nha) prendete un transfer fino al villaggio: il trasferimento privato costa circa 650.000 VND (circa 25€) per auto a 7 posti, oppure una navetta condivisa è più economica
+- 
+Biglietti del treno acquistabili online tramite [dsvn.vn](https://dsvn.vn) o app come Vexere/12go.asia
 
+**In bus/limousine diretto (più semplice):**
+- 
+Numerose limousine e bus turistici collegano direttamente Hué a Phong Nha in circa 4 ore, con pickup dall'hotel
+- 
+Prezzo indicativo 200.000-300.000 VND (8-12€) a persona
 - 
 Chiedi al tuo alloggio di prenotare per te: spesso ottengono prezzi migliori dell'ultimo minuto rispetto ai siti di terze parti
 
-- 
-Queen Cafe parte dal Central Hotel di Ninh Binh, Grouptour dal Tam Coc Central Hostel. Entrambi arrivano al Central Backpackers Hostel di Phong Nha
-
-
 **Consigli pratici:**
 - 
-Porta snacks, acqua e oggetti essenziali per il viaggio lungo
-
-- 
-Il viaggio dura 6,5-7 ore, quindi preparati per una notte in movimento
-
+Porta snacks e acqua per il viaggio
 - 
 Arriva al punto di partenza almeno 30 minuti prima della partenza
+- 
+Prenota in anticipo in alta stagione: i posti sulle limousine dirette si esauriscono
 
+**In partenza — verso Ninh Binh:**
 
-**Alternativa treno (più comfort, più tempo):**
-
-Puoi prendere il treno da Dong Hoi (45 km da Phong Nha) a Ninh Binh, con durata totale di 7-8 ore con trasferimenti
-. 
-Il trasferimento privato da Phong Nha a Dong Hoi costa 650.000 VND (circa 25€) per auto a 7 posti
-.
+Da Phong Nha la tappa successiva è Ninh Binh, raggiungibile con i bus sleeper notturni (circa 12-15€ a persona, 8-10 ore). Compagnie affidabili come Queen Cafe e Full Moon partono la sera (tipicamente 19:30-21:00) con arrivo all'alba; puoi prenotare tramite l'app Vexere o chiedere al tuo alloggio.
 
 ### Come Muoversi
 

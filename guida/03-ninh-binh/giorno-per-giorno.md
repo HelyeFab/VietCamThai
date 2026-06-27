@@ -1,11 +1,11 @@
 Ora ho tutte le informazioni necessarie per creare la sezione giorno per giorno per Ninh Binh. Procedo con la scrittura della guida:
 
-## Giorno 5 — 24 Settembre 2026 — L'Halong Bay Sotterranea
+## Giorno 25 — 25 Ottobre 2026 — L'Halong Bay Sotterranea
 
 ### Mattina
-Partite da Hanoi con un bus diretto verso Ninh Binh (7:00-9:30, 
-durata 2.5 ore, biglietto 100.000-150.000 VND per persona, bus ogni 30 minuti dalle stazioni Giap Bat o My Dinh
-). Una volta arrivati a Ninh Binh, dirigetevi verso **Trang An** per iniziare con il tour in barca UNESCO.
+Arrivate a Ninh Binh dal bus notturno da Phong Nha (partenza serale, 
+arrivo all'alba dopo 8-10 ore di viaggio in cuccetta
+). Lasciati i bagagli in homestay e fatta colazione, dirigetevi verso **Trang An** per iniziare con il tour in barca UNESCO.
 
 ![Paesaggio di Trang An](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Trang_An_Landscape_Complex%2C_Ninh_Binh_Province%2C_Vietnam%2C_20240202_1456_5313.jpg/1280px-Trang_An_Landscape_Complex%2C_Ninh_Binh_Province%2C_Vietnam%2C_20240202_1456_5313.jpg)
 
@@ -78,7 +78,7 @@ considerate Van Long Nature Reserve come alternativa meno turistica — stesso p
 
 ---
 
-## Giorno 6 — 25 Settembre 2026 — Il Risveglio delle Risaie
+## Giorno 26 — 26 Ottobre 2026 — Il Risveglio delle Risaie
 
 ### Mattina
 **Alba a Tam Coc** — 

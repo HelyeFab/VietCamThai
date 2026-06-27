@@ -26,12 +26,12 @@ export default async function HomePage() {
             Vietnam &middot; Cambogia &middot; Thailandia
           </h1>
           <p className="mt-4 text-lg sm:text-xl text-white/80 max-w-xl mx-auto">
-            28 giorni, 11 destinazioni, 3 paesi — la guida definitiva per
+            31 giorni, 12 destinazioni, 3 paesi — la guida definitiva per
             un&apos;avventura nel Sud-Est Asiatico.
           </p>
           <div className="mt-8 flex flex-wrap justify-center gap-4 text-sm">
             <div className="flex items-center gap-2 bg-white/15 backdrop-blur-sm rounded-full px-4 py-2">
-              <Calendar className="w-4 h-4" /> 20 Set — 17 Ott 2026
+              <Calendar className="w-4 h-4" /> 1 — 31 Ott 2026
             </div>
             <div className="flex items-center gap-2 bg-white/15 backdrop-blur-sm rounded-full px-4 py-2">
               <Users className="w-4 h-4" /> 4 viaggiatori

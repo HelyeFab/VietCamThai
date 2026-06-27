@@ -1,12 +1,12 @@
 Ora cercherò immagini libere per il post.
 
-## Giorno 7 — 26 Settembre 2026 — L'arrivo nel regno delle grotte
+## Giorno 23 — 23 Ottobre 2026 — L'arrivo nel regno delle grotte
 
 ### Mattina
 
 ![Paradise Cave — la grotta del Paradiso](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/ThienDuongCave1.jpg/1280px-ThienDuongCave1.jpg)
 
-Arrivate a Phong Nha dopo il viaggio notturno in bus dalle colline di Ninh Binh, avrete circa 2-3 ore per sistemarvi prima di iniziare l'avventura. 
+Arrivate a Phong Nha da Hué (treno fino a Dong Hoi più transfer, oppure bus diretto, circa 4 ore), avrete circa 2-3 ore per sistemarvi prima di iniziare l'avventura. 
 Il servizio barche alla Grotta di Phong Nha apre alle 8:00 del mattino e funziona fino a metà pomeriggio (ultimi battelli partono verso le 15:30-16:00)
 .
 
@@ -81,7 +81,7 @@ le piogge da settembre a novembre sono abbastanza intense da far straripare i fi
 
 ---
 
-## Giorno 8 — 27 Settembre 2026 — Il palazzo sotterraneo più grande del mondo
+## Giorno 24 — 24 Ottobre 2026 — Il palazzo sotterraneo più grande del mondo
 
 ### Mattina
 

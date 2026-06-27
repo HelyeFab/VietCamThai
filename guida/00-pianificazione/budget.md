@@ -7,13 +7,13 @@ Basandoci sui dati del tuo foglio di calcolo e sui prezzi aggiornati 2025-2026, 
 | Categoria | Minimo | Stima realistica | Massimo | Note |
 |-----------|--------|------------------|---------|------|
 | **Documenti** | €50 | €57 | €65 | E-Visa Vietnam + Visto Cambogia all'arrivo |
-| **Assicurazione** | €90 | €130 | €160 | 28 giorni copertura completa |
-| **Alloggi** | €364 | €496 | €648 | Guest house/ostelli privati |
-| **Trasporti** | €230 | €317 | €425 | Voli interni + bus + crociera |
-| **Ingressi** | €145 | €170 | €190 | Angkor, Paradise Cave, templi, musei |
-| **Pasti** | €220 | €330 | €470 | Street food e ristoranti locali |
+| **Assicurazione** | €100 | €145 | €180 | 31 giorni copertura completa |
+| **Alloggi** | €434 | €606 | €818 | Guest house/ostelli + 2 notti isola (Koh Rong) |
+| **Trasporti** | €260 | €357 | €475 | Voli interni + bus + crociera + traghetti isola |
+| **Ingressi** | €145 | €185 | €210 | Angkor, Paradise Cave, templi, snorkeling isola |
+| **Pasti** | €244 | €366 | €515 | Street food e ristoranti locali (31 giorni) |
 | **Extra** | €65 | €118 | €240 | SIM, corsi cucina, shopping |
-| **TOTALE** | **€1.164** | **€1.618** | **€2.198** | Per persona, 28 giorni |
+| **TOTALE** | **€1.298** | **€1.834** | **€2.503** | Per persona, 31 giorni |
 
 
 Il Sud-est asiatico rimane una delle regioni più economiche per i viaggiatori budget, con una media di $32/giorno
@@ -24,18 +24,18 @@ Il Sud-est asiatico rimane una delle regioni più economiche per i viaggiatori b
 Per il vostro gruppo di 4 viaggiatori, distinguendo tra costi individuali e condivisibili:
 
 **COSTI INDIVIDUALI (x4):**
-- Documenti: €228-€260
-- Assicurazione: €360-€640  
-- Pasti: €880-€1.880
+- Documenti: €200-€260
+- Assicurazione: €400-€720
+- Pasti: €976-€2.060
 - Extra personali: €260-€960
-- **Subtotale:** €1.728-€3.740
+- **Subtotale:** €1.836-€4.000
 
 **COSTI CONDIVISIBILI (da dividere):**
-- Alloggi (camere doppie): €728-€1.296 *totali per il gruppo*
-- Trasporti condivisi: €60-€140 risparmiabili con taxi/transfer divisi
-- **Subtotale:** €788-€1.436
+- Alloggi (camere doppie): €868-€1.636 *totali per il gruppo*
+- Trasporti condivisi: €70-€160 risparmiabili con taxi/transfer divisi
+- **Subtotale:** €938-€1.796
 
-**TOTALE GRUPPO:** €5.188-€8.352 per 4 persone
+**TOTALE GRUPPO:** €5.984-€9.604 per 4 persone (31 giorni)
 
 ### Come Risparmiare
 

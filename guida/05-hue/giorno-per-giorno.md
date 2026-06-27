@@ -1,9 +1,9 @@
 Con queste informazioni raccolte, ora posso scrivere una guida dettagliata giorno per giorno per Hué. Ho ottenuto informazioni aggiornate su orari, prezzi e consigli pratici per tutte le attrazioni principali.
 
-## Giorno 9 — 28 Settembre — Benvenuti nella Città Imperiale
+## Giorno 20 — 20 Ottobre 2026 — Benvenuti nella Città Imperiale
 
 ### Mattina
-Arrivo da Phong Nha in bus (partenza 8:00, arrivo 12:00 circa). 
+Arrivo da Hoi An attraverso il panoramico Passo di Hai Van in auto privata (partenza ~8:00, arrivo nel primo pomeriggio dopo le soste lungo la costa). 
 La Città Imperiale apre dalle 6:30 alle 17:30 tutti i giorni
 , quindi avrete tempo per un primo assaggio. 
 
@@ -63,7 +63,7 @@ Considerate il biglietto combo: Città Imperiale + 3 tombe reali (Minh Mang, Tu 
 
 ---
 
-## Giorno 10 — 29 Settembre — Tombe Imperiali e Profumi d'Incenso
+## Giorno 21 — 21 Ottobre 2026 — Tombe Imperiali e Profumi d'Incenso
 
 ### Mattina
 **Tomba di Tu Duc** (9:00-11:00)
@@ -110,7 +110,7 @@ Suggerimento: alcune delle tombe reali di Hué sono abbastanza vicine (la più v
 
 ---
 
-## Giorno 11 — 30 Settembre — Mercati, Sapori e Addii
+## Giorno 22 — 22 Ottobre 2026 — Mercati, Sapori e Addii
 
 ### Mattina
 **Mercato Dong Ba** (8:00-11:00)

@@ -1,11 +1,9 @@
 Ora ho abbastanza informazioni per creare una guida dettagliata. Scriverò la sezione giorno per giorno per i due giorni a Phnom Penh.
 
-## Giorno 19 — 08 Ottobre 2026 — **Alla Confluenza dei Grandi Fiumi**
+## Giorno 11 — 11 Ottobre 2026 — **Alla Confluenza dei Grandi Fiumi**
 
 ### Mattina
-Arriva in barca da Chau Doc dopo 5 ore di navigazione sul Mekong, 
-uno dei migliori modi per vedere il paesaggio dal fiume
-. Una volta sbarcato, sistema i bagagli nel tuo alloggio e dirigiti immediatamente al **Palazzo Reale** (Preah Barum Reachea Veang).
+Arrivi a Phnom Penh in autobus dalla costa, dopo il rientro in traghetto da Koh Rong Samloem a Sihanoukville (circa 4-5 ore di viaggio). Una volta sbarcato, sistema i bagagli nel tuo alloggio e dirigiti immediatamente al **Palazzo Reale** (Preah Barum Reachea Veang).
 
 ![Il Museo del Genocidio Tuol Sleng S-21](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/2016_Phnom_Penh%2C_Muzeum_Ludob%C3%B3jstwa_Tuol_Sleng_%2801%29.jpg/1280px-2016_Phnom_Penh%2C_Muzeum_Ludob%C3%B3jstwa_Tuol_Sleng_%2801%29.jpg)
 
@@ -68,7 +66,7 @@ Il pickup è solo andata, dopo la crociera puoi passeggiare sul lungofiume e chi
 
 ---
 
-## Giorno 20 — 09 Ottobre 2026 — **Nel Cuore della Storia Khmer**
+## Giorno 12 — 12 Ottobre 2026 — **Nel Cuore della Storia Khmer**
 
 ### Mattina
 **Visita essenziale ma emotivamente pesante**: Inizia alle 8:00 con **Tuol Sleng S-21** (ex prigione dei Khmer Rossi). 

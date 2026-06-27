@@ -5,15 +5,15 @@ Il biglietto d'ingresso alla Città Vecchia di Hoi An costa 120.000 VND (circa 6
 
 ![Il Passo delle Nubi (Hai Van Pass)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Hai_Van_Pass_Vietnam.jpg/1280px-Hai_Van_Pass_Vietnam.jpg)
 
-## Giorno 12 — 01 Ottobre 2026 — Arrivo dal Passo delle Nubi
+## Giorno 17 — 17 Ottobre 2026 — Arrivo via Da Nang
 
 ![Il Santuario di My Son](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/My_Son_A1_Yoni.jpg/1280px-My_Son_A1_Yoni.jpg)
 
 ### Mattina
-- **6:00** - Partenza da Da Nang via Hai Van Pass con auto privata (25€/persona)
-- **7:30** - Sosta panoramica al Passo delle Nubi per foto mozzafiato
-- **9:00** - Arrivo a Hoi An, check-in in hotel
-- **10:00** - Prima passeggiata esplorativa nella Città Vecchia
+- **Mattina** - Volo da Ho Chi Minh City a Da Nang (circa 1h20)
+- **11:00** - Arrivo all'aeroporto di Da Nang
+- **11:45** - Transfer privato a Hoi An (~45 minuti) e check-in in hotel
+- **12:30** - Prima passeggiata esplorativa nella Città Vecchia
 
 **💰 Costi**: 
 Biglietto Città Vecchia: 120.000 VND per persona (circa 6€)
@@ -55,11 +55,11 @@ circa 10€ per persona, servizio veloce e gentile
 - 
 Le ore migliori sono 8:30-10:00 (meno folla) e 18:00-21:00 (lanterne accese)
 
-- Evita il Passo delle Nubi in caso di nebbia fitta - chiedi al driver di controllare le condizioni
+- Il Passo delle Nubi vi aspetta in partenza verso Hué: in caso di nebbia fitta chiedete al driver di controllare le condizioni prima di mettervi in viaggio
 
 ---
 
-## Giorno 13 — 02 Ottobre 2026 — Santuario di My Son e Città Vecchia
+## Giorno 18 — 18 Ottobre 2026 — Santuario di My Son e Città Vecchia
 
 ### Mattina
 - **6:00** - Colazione veloce in hotel
@@ -111,7 +111,7 @@ Vai direttamente alla White Rose Restaurant per i ravioli appena fatti - dopo un
 
 ---
 
-## Giorno 14 — 03 Ottobre 2026 — Spiaggia An Bang e Shopping
+## Giorno 19 — 19 Ottobre 2026 — Spiaggia An Bang e Shopping
 
 ### Mattina
 - **8:00** - Colazione e noleggio bici gratuito dall'hotel

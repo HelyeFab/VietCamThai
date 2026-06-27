@@ -1,14 +1,14 @@
 Ora ho abbastanza informazioni per creare la sezione GIORNO PER GIORNO per Ho Chi Minh City. Procederò a scrivere la guida includendo tutte le informazioni aggiornate che ho trovato.
 
-## Giorno 15 — 04 Ottobre 2026 — Primo assaggio di Saigon
+## Giorno 14 — 14 Ottobre 2026 — Primo assaggio di Saigon
 
 ### Mattina
 **Arrivo e check-in**
 
 ![L'Ufficio Postale Centrale di Saigon](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Lignes_t%C3%A9l%C3%A9graphiques_du_Sud_Vietnam_et_du_Cambodge_%281936%29%2C_Saigon_Central_Post_Office.JPG/1280px-Lignes_t%C3%A9l%C3%A9graphiques_du_Sud_Vietnam_et_du_Cambodge_%281936%29%2C_Saigon_Central_Post_Office.JPG)
 
-Il volo da Da Nang a HCMC dura circa 2 ore
-, quindi probabilmente arriverete verso le 10-11 del mattino. Dopo il check-in nel vostro alloggio nel Distretto 1, iniziate subito l'esplorazione nel cuore storico della città.
+L'autobus da Chau Doc a Ho Chi Minh City dura circa 6 ore
+, quindi, partendo presto dal Delta del Mekong, arriverete in tarda mattinata. Dopo il check-in nel vostro alloggio nel Distretto 1, iniziate subito l'esplorazione nel cuore storico della città.
 
 **Ufficio Postale Centrale di Saigon** (09:00-11:00)
 
@@ -72,7 +72,7 @@ I biglietti d'ingresso al War Remnants Museum costano 40.000 VND (circa 1,52 USD
 
 ---
 
-## Giorno 16 — 05 Ottobre 2026 — Storia e gallerie sotterranee
+## Giorno 15 — 15 Ottobre 2026 — Storia e gallerie sotterranee
 
 ### Mattina
 **War Remnants Museum** (08:00-10:30)
@@ -140,7 +140,7 @@ I Tunnel di Cu Chi sono una città sotterranea di 250km costruita a mano sotto i
 
 ---
 
-## Giorno 17 — 06 Ottobre 2026 — Chinatown e aperitivi con vista
+## Giorno 16 — 16 Ottobre 2026 — Chinatown e aperitivi con vista
 
 ### Mattina
 **Cho Lon (Chinatown)** (08:00-12:00)

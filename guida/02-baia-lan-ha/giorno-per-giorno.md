@@ -1,14 +1,14 @@
-## Giorno 4 — 23 Settembre 2026 — Perle Nascoste nella Baia di Smeraldo
+## Giorno 27 — 27 Ottobre 2026 — Perle Nascoste nella Baia di Smeraldo
 
 ### Mattina
-**Partenza da Hanoi (7:30 - 11:30)**
+**Partenza da Ninh Binh (mattino)**
 - 
-Prendete un bus diretto da Hanoi a Cat Ba (3,5-4 ore) che include trasporto via bus, traghetto e di nuovo bus, al prezzo di 250.000-300.000 VND (8-11 USD) a persona
+Prendete il transfer combinato da Ninh Binh a Cat Ba (3,5-4 ore), via Hai Phong, che include bus, traghetto/speedboat e bus locale, a circa 15-20€ a persona
 
 ![Crociera nella Baia di Lan Ha](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Rick_and_Ruddy_afloat%3B_the_cruise_of_a_boy_and_his_dog_%28IA_rickruddyafloatc00gari%29.pdf/page1-960px-Rick_and_Ruddy_afloat%3B_the_cruise_of_a_boy_and_his_dog_%28IA_rickruddyafloatc00gari%29.pdf.jpg)
 
 - 
-Il bus parte alle 7:30 dal Quartiere Vecchio di Hanoi e arriva a Cat Ba town tra le 11:00 e 11:30
+Partite presto da Ninh Binh per arrivare a Cat Ba town a metà giornata e imbarcarvi sulla crociera nel primo pomeriggio
 
 - **Consiglio pratico**: Chiedete all'autista di lasciarvi al Ben Beo Pier per essere già vicini alla partenza delle crociere
 - **Colazione**: Portate snack per il viaggio — le fermate sono limitate
