@@ -22,7 +22,7 @@ Koh Rong Samloem si raggiunge dal porto di **Sihanoukville**. Il **Giorno 8** si
 ### Come Proseguire — verso Phnom Penh
 
 
-Il **Giorno 10** si rientra a Sihanoukville con il traghetto veloce (Speed Ferry Cambodia / Buva Sea, ~45 minuti) e da lì si prosegue in bus/van per **Phnom Penh** (~5 ore, ~8-15€ con Giant Ibis o Virak Buntham). Prenota il traghetto del mattino o del primo pomeriggio per non arrivare in capitale di notte.
+**Non esiste un traghetto diretto per Phnom Penh**: il collegamento è in due tappe. Il **Giorno 10** si rientra prima in traghetto veloce a **Sihanoukville** (Speed Ferry Cambodia / Buva Sea, ~45 minuti) e da lì si prosegue via terra in **bus/van (o transfer privato)** fino a **Phnom Penh** (~5 ore, ~8-15€ con Giant Ibis o Virak Buntham). Prenota il traghetto del mattino o del primo pomeriggio per non arrivare in capitale di notte.
 
 
 ### Come Muoversi
@@ -37,6 +37,8 @@ Il **Giorno 10** si rientra a Sihanoukville con il traghetto veloce (Speed Ferry
 - **Saracen Bay**: la zona più comoda e con la scelta più ampia — bungalow sulla spiaggia e piccoli resort di fascia media (~25-50€ a notte), alcuni con ristorante.
 - **M'Pai Bay (nord)**: più economica e backpacker, ostelli e guesthouse (~10-25€), atmosfera da villaggio di pescatori.
 - **Lazy Beach (ovest)**: pochissime sistemazioni isolate, ideale per chi cerca tranquillità totale.
+
+> **Attenzione all'alloggio**: negli ultimi anni, dopo alcuni cambiamenti e interventi infrastrutturali, diversi resort sul lato di Saracen Bay hanno chiuso. L'isola in sé resta un paradiso e le attività non cambiano, ma la scelta dell'alloggio conta molto di più adesso: verifica che la struttura prescelta sia effettivamente aperta e operativa e che abbia recensioni recenti prima di prenotare.
 
 > Prenota in anticipo: i posti sull'isola sono limitati e in alta stagione si riempiono.
 

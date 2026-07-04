@@ -22,9 +22,7 @@ Pub Street si estende per 100 metri tra Red Piano Restaurant e Banana Leaf Resta
 
 ![Beng Mealea sommerso dalla giungla](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Temple_%26_jungle._%283746632042%29.jpg/1280px-Temple_%26_jungle._%283746632042%29.jpg)
 
-**Prima missione essenziale**: prenotate subito il biglietto **Angkor Pass** (online o presso l'hotel) per evitare code all'alba. 
-Il pass da 3 giorni costa 62$ ed è valido per 10 giorni
- — perfetto se domani visitate i templi principali e volete tornare per Beng Mealea. In alternativa il pass da 1 giorno costa ~37$.
+**Prima missione essenziale**: procuratevi subito l'**Angkor Pass ufficiale** (online o presso l'hotel) per evitare code all'alba. Il **pass da 3 giorni** (valido 10 giorni) è la scelta ideale, perché domani visitate i templi principali e potete tornare per Beng Mealea; esiste anche un **pass da 1 giorno**. I prezzi vengono aggiornati periodicamente: verificate la tariffa ufficiale del momento e acquistate **solo dalla biglietteria ufficiale (Angkor Enterprise)**, evitando rivenditori non autorizzati.
 
 **Tuk-tuk per l'alba**: accordatevi **stasera stessa** con il vostro autista (o tramite l'hotel) per la partenza di domani alle 5:00. Prezzo standard: ~15€ per la giornata completa.
 
@@ -45,11 +43,7 @@ Pizza al forno a legna, consegna 24h, corsi di cucina khmer
 - **Amara Dining Bar** - 
 Ottimo cibo e birra, prezzi eccellenti durante l'happy hour
 
-**Night Market**: 
-A 5 minuti a piedi da Pub Street si trova il Khmer Night Market. Prezzi negoziabili, preparatevi a contrattare
-. 
-L'Angkor Night Market ha oltre 200 venditori in capanne di bambù tradizionali con prodotti artigianali khmer
-.
+**Angkor Night Market**: a pochi minuti a piedi da Pub Street, è il mercato notturno storico della città e conta oltre 200 venditori in capanne di bambù tradizionali con prodotti artigianali khmer. In alternativa, poco distante trovate il **Siem Reap Art Center Night Market**, altrettanto valido. Prezzi negoziabili ovunque: preparatevi a contrattare (il vicino Khmer Night Market è un'altra opzione).
 
 ### Tips del Giorno
 - 
@@ -79,7 +73,8 @@ I cancelli aprono alle 5:00
  — arrivate presto per evitare le folle di tour bus.
 
 **Angkor Wat Sunrise** (⭐ esperienza imperdibile):
-- Posizionatevi alla piscina riflettente sinistra per le foto migliore
+- L'alba ad Angkor Wat è **estremamente affollata**: mettete in conto molta gente e arrivate presto per assicurarvi un buon posto
+- Posizionatevi alla piscina riflettente sinistra per le foto migliori
 - 
 Se avete già il pass, potete saltare l'ufficio biglietti e andare direttamente ai templi
 
@@ -91,6 +86,7 @@ Dopo le 17:30 i visitatori devono uscire dai templi, anche se è possibile riman
 Il Bayon è famoso per le sue gigantesche facce di pietra
 
 - Entrate dalla Porta Sud con le sue 54 statue
+- **Consiglio ordine visita**: il **Bayon** dà il meglio **subito dopo l'alba**, quando la folla si sposta verso Angkor Wat — se potete valutate di visitarlo presto, per trovarlo più tranquillo
 
 **11:00 - Ta Prohm** ("Tomb Raider Temple"):
 - 
@@ -111,9 +107,9 @@ Cena rilassante e programmazione della giornata di domani (Beng Mealea + villagg
  — i vostri soldi hanno anche uno scopo sociale!
 
 ### Tips del Giorno
-- **Temple Pass**: il pass da 1 giorno costa ~37$, quello da 3 giorni ~62$ (valido 10 giorni). Il 3 giorni conviene se, come previsto, tornate ai templi per Beng Mealea
+- **Temple Pass**: esistono l'opzione da 1 giorno e quella da 3 giorni (valida 10 giorni). Il 3 giorni conviene perché, come previsto, tornate ai templi per Beng Mealea. Il prezzo è soggetto a variazioni: verificate la tariffa ufficiale aggiornata su Angkor Enterprise
 - **Acqua**: Portate almeno 2 litri a persona — il caldo e l'umidità di ottobre disidratano in fretta
-- **Vestiti**: spalle e ginocchia coperte sono obbligatorie per entrare nei templi. 
+- **Dress code**: per entrare nei templi servono **spalle coperte e pantaloni o gonna sotto il ginocchio**, per rispetto dei siti sacri. 
 Bambini sotto i 12 anni entrano gratis ma devono mostrare il passaporto
 
 - Scarpe comode essenziali: si cammina TANTO su pietre irregolari
@@ -152,13 +148,13 @@ Il Beng Mealea Restaurant & Lodge ha menu in inglese e posti a sedere puliti
 ### Pomeriggio
 **Kampong Phluk — il villaggio galleggiante**
 
-Nel pomeriggio si scende verso il **Tonlé Sap**, il grande lago che in stagione delle piogge si gonfia e trasforma il paesaggio. 
-Kampong Phluk è preferibile a Kampong Khleang per la distanza più comoda
- e offre uno spaccato autentico di vita lacustre:
+Nel pomeriggio si scende verso il **Tonlé Sap**, il grande lago che in stagione delle piogge si gonfia e trasforma il paesaggio. **Kampong Phluk** è la scelta che conviene per la vostra tabella di marcia — è più vicino e si visita in mezza giornata — e dà il meglio **con acqua alta**: in ottobre, in piena stagione delle piogge, di norma i livelli sono elevati. Offre uno spaccato di vita lacustre:
 - Alte **case su palafitte** di legno che in ottobre sembrano galleggiare sull'acqua alta
 - Giro in **barca** tra le abitazioni e nella **foresta allagata** di mangrovie (spesso con trasbordo su una piccola canoa a remi)
 - Vita locale genuina e bambini che si spostano in barca
 - In ottobre il livello dell'acqua è alto: è il periodo migliore per vedere il villaggio nel suo elemento
+
+**Caveat onesto**: Kampong Phluk può essere piuttosto turistico e trafficato di barche. Se capitaste in un periodo di **acqua bassa**, valutate invece **Kampong Khleang**: più autentico e meno affollato, anche se più lontano.
 
 Prezzo indicativo del giro in barca ~20$ a persona (spesso trattabile o incluso in un pacchetto). Portate contanti, cappello e crema solare.
 
@@ -187,7 +183,7 @@ Non toccate le incisioni o scalate muri fragili: rispettate questo sito antico e
 
 **Budget totale stimato per 4 persone (3 notti)**:
 - Alloggio: 66€ (22€ x 3 notti)
-- Angkor Pass 3 giorni: 248$ (62$ x 4)
+- Angkor Pass 3 giorni: ~248$ per 4 persone (prezzo ufficiale indicativo, soggetto a variazioni)
 - Trasporti tuk-tuk: ~70€
 - Pasti: ~160€
 - **Totale: ~400-450€ per tutto il gruppo**

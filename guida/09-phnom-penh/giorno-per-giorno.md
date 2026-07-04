@@ -34,9 +34,9 @@ Dopo il palazzo, passeggia lungo il **Sisowath Quay** (il lungofiume) fino alla 
 **Alternativa pioggia**: Visita il **Museo Nazionale** a 5 minuti a piedi dal Palazzo Reale, con la migliore collezione d'arte khmer del paese.
 
 ### Sera
-**Cena speciale**: 
-La crociera al tramonto parte alle 17:00 dal lungofiume, passa davanti al Palazzo Reale mentre il sole inizia a calare
-. 
+**Il momento clou della serata — la crociera al tramonto sul Mekong**: dopo il Palazzo Reale, questa è l'esperienza da non perdere. 
+La crociera parte alle 17:00 dal lungofiume e passa davanti al Palazzo Reale mentre il sole inizia a calare sui grandi fiumi
+: uno dei ricordi più belli di Phnom Penh, e il modo perfetto per chiudere la giornata. 
 Prezzo: $17 per adulto, include pickup in tuk-tuk, birre illimitate, bibite e frutta fresca
 . 
 Ritorno alle 19:00
@@ -110,16 +110,12 @@ Rigorosamente modesto obbligatorio. È un sito di sepoltura di massa e memoriale
 ### Sera
 Dopo questa giornata emotiva, scegli qualcosa di rilassante:
 
-**Opzione 1 - Mercato e street food**: 
+**Opzione 1 - Aperitivo e cena a Bassac Lane**: 
+Bassac Lane è diventata una delle migliori zone serali di Phnom Penh — vicoli raccolti con bar, caffè e ristoranti di qualità e un'atmosfera molto più piacevole del semplice girovagare per il mercato dopo il tramonto. In alternativa, una cena tranquilla lungo il riverside (Sisowath Quay), con vista sui fiumi.
 
-Central Market (Phsar Thmei) aperto 7:00-18:00
-. 
-Orari 6:30-17:30
- - 
-Il food court è sul lato ovest con specialità khmer come Amok Trey (pesce marinato avvolto in foglie di banana)
-.
+**Nota sul Central Market**: se vuoi vedere il **Central Market (Phsar Thmei)**, visitalo di giorno (aperto 7:00-18:00), quando puoi ammirare la sua straordinaria architettura Art Déco color ocra — una delle cupole più fotografate della città — e fare shopping tra bancarelle di gioielli, tessuti e souvenir.
 
-**Indirizzo**: 
+**Indirizzo Central Market**: 
 Street 128 (Kampuchea Krom), Phsar Thmei 1 Commune
 
 **Opzione 2 - Cena rilassante**:

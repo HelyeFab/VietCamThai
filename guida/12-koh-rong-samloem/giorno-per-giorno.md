@@ -13,7 +13,7 @@ Dopo gli ultimi templi a Siem Reap ci si sposta verso la costa meridionale: è u
 - Le compagnie hanno 2-3 corse al giorno: punta a partire presto da Siem Reap per prendere il traghetto del primo pomeriggio
 
 ### Pomeriggio
-Arrivo a **Saracen Bay**, check-in nel bungalow e primo bagno. Niente programmi: dopo una giornata intera on the road, questo è il momento di lasciare cadere lo zaino e i ritmi delle settimane precedenti.
+Arrivo a **Saracen Bay**, check-in nel bungalow e primo bagno. Niente programmi: dopo una giornata intera on the road, questo è il momento di lasciare cadere lo zaino e i ritmi delle settimane precedenti. Confermate in anticipo che il vostro alloggio sia aperto e operativo: negli ultimi anni diversi resort sul lato di Saracen Bay hanno chiuso.
 - Passeggiata lungo i due chilometri di sabbia bianca della baia
 - Bagno nell'acqua calma e poco profonda, perfetta anche per chi non è un gran nuotatore
 - Aperitivo con i piedi nella sabbia in uno dei beach bar
@@ -61,7 +61,7 @@ Un'ultima mattina all'insegna del ritmo dell'isola prima di rientrare sulla terr
 - Checkout dal bungalow (di solito entro le 11): sistema lo zaino e ricontrolla di avere **contanti** per il viaggio
 
 ### Pomeriggio
-Rientro verso la terraferma. Dal molo di Saracen Bay si prende il **traghetto veloce per Sihanoukville** (Speed Ferry Cambodia / Buva Sea, ~45 minuti). Da Sihanoukville si prosegue in **bus o minivan verso Phnom Penh** (~5 ore, ~8-15€ con Giant Ibis o Virak Buntham).
+Rientro verso la terraferma. **Non esiste un traghetto diretto per Phnom Penh**: il tragitto si fa in due tappe. Dal molo di Saracen Bay si prende il **traghetto veloce per Sihanoukville** (Speed Ferry Cambodia / Buva Sea, ~45 minuti); da Sihanoukville si prosegue via terra in **bus o minivan (o transfer privato) verso Phnom Penh** (~5 ore, ~8-15€ con Giant Ibis o Virak Buntham).
 - Prenota il traghetto del mattino o del primo pomeriggio per non arrivare a Phnom Penh di notte
 - Concatena traghetto e bus con un po' di margine: col mare mosso le corse possono ritardare o saltare
 
