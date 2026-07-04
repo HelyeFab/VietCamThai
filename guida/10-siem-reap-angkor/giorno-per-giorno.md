@@ -7,24 +7,28 @@ Ora scrivo la sezione GIORNO PER GIORNO per Siem Reap & Angkor con le informazio
 ![Angkor Wat](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/2014-Cambodge_Angkor_Wat_%2821%29.jpg/1280px-2014-Cambodge_Angkor_Wat_%2821%29.jpg)
 
 ### Mattina
-Arrivate a Siem Reap con il volo da Bangkok (~50€, circa 1 ora). Dal nuovo Aeroporto Internazionale Siem Reap–Angkor servono circa 45-60 minuti di strada per raggiungere il centro. Check-in in hotel e **prima missione essenziale**: 
-prenotare subito il biglietto Angkor Pass online o presso l'hotel per evitare code all'alba
-. 
-Il pass da 3 giorni costa 62$ ed è valido per 10 giorni
-, perfetto per il vostro programma.
+Sveglia con calma a Bangkok: oggi si vola. Dopo colazione e check-out, il vostro **transfer privato** vi preleva al The Cotton Saladaeng e vi porta a **Don Mueang (DMK)** (~40-60 min col traffico del mattino). Il **volo Thai AirAsia** parte verso le **10:55** e in poco più di un'ora vi porta in Cambogia (~50€ a persona): presentatevi al check-in con **2,5-3 ore** di anticipo, così partite senza fretta.
 
 ![Ta Prohm — il tempio di Tomb Raider](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Tree_roots_and_temple%2C_Ta_Prohm%2C_Angkor%2C_Cambodia.jpg/1280px-Tree_roots_and_temple%2C_Ta_Prohm%2C_Angkor%2C_Cambodia.jpg)
 
-**Tuk-tuk per l'alba**: Accordatevi oggi stesso con il vostro autista per la partenza di domani alle 5:00. Prezzo standard: ~15€ per la giornata completa.
-
 ### Pomeriggio
-Riposo e acclimatamento. Passeggiate nel centro per orientarvi. 
+**~12:15 - Atterraggio a Siem Reap**: sbarcate al nuovo Aeroporto Internazionale Siem Reap–Angkor (SAI), a circa 50 km a est della città. 
+Dal nuovo aeroporto servono circa 45-60 minuti di strada per raggiungere il centro
+. All'uscita arrivi trovate taxi e tuk-tuk: concordate il prezzo in anticipo (o prenotate il transfer dall'hotel).
+
+Check-in in hotel, una doccia e il resto del pomeriggio è dedicato a riposo e acclimatamento. Se avete energie, una passeggiata nel centro per orientarvi: 
 Pub Street si estende per 100 metri tra Red Piano Restaurant e Banana Leaf Restaurant
-. Durante il giorno è molto tranquilla — l'ideale per riconoscere i luoghi senza il caos notturno.
+ e di giorno è tranquilla — l'ideale per riconoscere i luoghi senza il caos notturno.
 
 ![Beng Mealea sommerso dalla giungla](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Temple_%26_jungle._%283746632042%29.jpg/1280px-Temple_%26_jungle._%283746632042%29.jpg)
 
-**Alternativa pioggia**: Visita all'Angkor National Museum (12$ ingresso) per prepararsi ai templi.
+**Prima missione essenziale**: prenotate subito il biglietto **Angkor Pass** (online o presso l'hotel) per evitare code all'alba. 
+Il pass da 3 giorni costa 62$ ed è valido per 10 giorni
+ — perfetto se domani visitate i templi principali e volete tornare per Beng Mealea. In alternativa il pass da 1 giorno costa ~37$.
+
+**Tuk-tuk per l'alba**: accordatevi **stasera stessa** con il vostro autista (o tramite l'hotel) per la partenza di domani alle 5:00. Prezzo standard: ~15€ per la giornata completa.
+
+**Alternativa pioggia**: visita all'Angkor National Museum (12$ ingresso) per prepararsi ai templi.
 
 ### Sera
 **Cena su Pub Street**: 
@@ -60,6 +64,8 @@ donne con bambini che vi portano a comprare latte in polvere costoso per poi riv
 - 
 Pub Street è chiusa al traffico dalle 17:00
 
+- **Extra opzionale (relax dopo il volo)**: un massaggio tradizionale khmer chiude la serata alla perfezione — ~20$ per 1 ora, con erbe locali e compresse calde. Ottimo modo per allentare le gambe prima della lunga giornata ai templi di domani.
+
 ---
 
 ## Giorno 6 — 6 Ottobre 2026 — Alba di Fuoco sui Khmer
@@ -90,27 +96,28 @@ Il Bayon è famoso per le sue gigantesche facce di pietra
 - 
 Famoso per le rovine coperte dalla giungla, immortalato in Tomb Raider
 
-- Le radici degli albiti spunta letteralmente dai muri
+- Le radici degli alberi spuntano letteralmente dai muri
+
+**Tuk-tuk per la giornata**: il vostro autista vi accompagna tra un tempio e l'altro e vi aspetta all'ombra. Costo indicativo ~15€ per l'intera giornata (dividendo in 4 sono pochi euro a testa).
 
 ### Pomeriggio
 **Pranzo**: Ristoratevi in uno dei ristoranti vicino ai templi o rientrate in hotel per la piscina. 
 
-**Riposo obbligatorio**: Il caldo di mezzogiorno è brutale — utilizzate saggimenti questo tempo.
+**Riposo obbligatorio**: Il caldo di mezzogiorno è brutale — usate saggiamente questo tempo per recuperare energie in piscina.
 
 ### Sera
-Cena rilassante e programmazione delle giornate successive. 
+Cena rilassante e programmazione della giornata di domani (Beng Mealea + villaggio galleggiante). 
 2$ da ogni biglietto vengono donati al Kantha Bopha Children's Hospital
  — i vostri soldi hanno anche uno scopo sociale!
 
 ### Tips del Giorno
-- **Acqua**: Portate almeno 2 litri a persona
-- **Vestiti**: 
+- **Temple Pass**: il pass da 1 giorno costa ~37$, quello da 3 giorni ~62$ (valido 10 giorni). Il 3 giorni conviene se, come previsto, tornate ai templi per Beng Mealea
+- **Acqua**: Portate almeno 2 litri a persona — il caldo e l'umidità di ottobre disidratano in fretta
+- **Vestiti**: spalle e ginocchia coperte sono obbligatorie per entrare nei templi. 
 Bambini sotto i 12 anni entrano gratis ma devono mostrare il passaporto
-. Spalle e ginocchia coperti obbligatori
-- 
-Phnom Bakheng per il tramonto ha un limite di 300 persone — arrivate prima delle 16:00
 
 - Scarpe comode essenziali: si cammina TANTO su pietre irregolari
+- Portate un impermeabile leggero: in ottobre gli acquazzoni pomeridiani sono frequenti
 
 ---
 
@@ -134,25 +141,29 @@ Costruito dallo stesso re che commissionò Angkor Wat, con stile architettonico 
 - 
 Il momento migliore è all'alba e nelle due ore successive per luce magica e assenza di turisti
 
-**Costi trasporto**: 
-Tuk-tuk o taxi privato ~50$ andata e ritorno, incluso 2 ore di attesa
+**Costi trasporto**: per la giornata intera (Beng Mealea la mattina + villaggio galleggiante il pomeriggio) mettete in conto **~20€** con tuk-tuk, oppure un minivan condiviso se preferite l'aria condizionata sulle tratte più lunghe. L'autista vi aspetta e vi accompagna da un sito all'altro.
 
-### Pomeriggio  
 **Pranzo locale**: 
-Bancarelle di cibo locale vicino agli ingressi est e ovest per ~2$ (Nom Banh Chok o Bai Sach Chrouk)
+Bancarelle di cibo locale vicino agli ingressi est e ovest di Beng Mealea per ~2$ (Nom Banh Chok o Bai Sach Chrouk)
 . 
 Il Beng Mealea Restaurant & Lodge ha menu in inglese e posti a sedere puliti
 .
 
-**Alternativa**: **Kampong Phluk Floating Village**
-- 
-Meglio di Kampong Khleang per distanza
+### Pomeriggio
+**Kampong Phluk — il villaggio galleggiante**
 
-- Case su palafitte, vita locale autentica
-- Tour in barca durante la stagione delle piogge
+Nel pomeriggio si scende verso il **Tonlé Sap**, il grande lago che in stagione delle piogge si gonfia e trasforma il paesaggio. 
+Kampong Phluk è preferibile a Kampong Khleang per la distanza più comoda
+ e offre uno spaccato autentico di vita lacustre:
+- Alte **case su palafitte** di legno che in ottobre sembrano galleggiare sull'acqua alta
+- Giro in **barca** tra le abitazioni e nella **foresta allagata** di mangrovie (spesso con trasbordo su una piccola canoa a remi)
+- Vita locale genuina e bambini che si spostano in barca
+- In ottobre il livello dell'acqua è alto: è il periodo migliore per vedere il villaggio nel suo elemento
+
+Prezzo indicativo del giro in barca ~20$ a persona (spesso trattabile o incluso in un pacchetto). Portate contanti, cappello e crema solare.
 
 ### Sera
-Ritorno a Siem Reap per cena. Se avete ancora energie, seconda serata su Pub Street per provare locali diversi.
+Ritorno a Siem Reap per cena. Se avete ancora energie, seconda serata su Pub Street per provare locali diversi. Preparate lo zaino: domani si riparte verso la costa.
 
 ### Tips del Giorno
 - 
@@ -161,72 +172,24 @@ L'ingresso a Beng Mealea costa extra 5$ se non avete l'Angkor Pass completo
 - 
 Pianificate 2-3 ore per esplorare completamente le rovine, seguendo le passerelle di legno
 
-- 
-Il tempio può essere visitato in qualsiasi momento ma è più affollato tra 9:00-11:00 da novembre a febbraio
-
+- Combinate le due tappe in senso pratico: prima Beng Mealea al mattino (luce migliore, meno turisti), poi Kampong Phluk nel pomeriggio, ideale per il tramonto sul lago
 - 
 Non toccate le incisioni o scalate muri fragili: rispettate questo sito antico e sacro
 
+- Al villaggio galleggiante concordate il prezzo della barca **prima** di salire ed evitate i venditori insistenti agli imbarchi
+
 ---
-
-## Giorno 8 — 8 Ottobre 2026 — Tramonto d'Oro tra i Templi
-
-### Mattina
-**Giornata rilassata**: Dopo 3 giorni intensi, meritate un po' di relax. Tarda colazione, piscina dell'hotel, massaggio khmer.
-
-**Opzione attiva**: 
-Corso di cucina cambodgiana mezza giornata (~20€/persona)
-
-- Imparate a cucinare amok, lok lak, green mango salad
-- Include visita al mercato locale
-- Di solito 9:00-13:00
-
-### Pomeriggio
-**15:00 - East Mebon**: 
-Costruito nel 953 dal re Rajendravarman in onore dei suoi genitori, si raggiungeva in barca quando il Baray era pieno
-. 
-Giganteschi elefanti di pietra da 5 metri sorvegliano questo ex-tempio su un'isola
-.
-
-**17:00 - Pre Rup per il tramonto**: 
-- 
-Uno dei posti migliori per il tramonto di Angkor, con vista sui campi di riso del Baray orientale. Il sole tramonta proprio tra le due torri frontali
-
-- 
-L'esteso laterite e mattoni rossi creano tonalità rosse spettacolari durante i tramonti
-
-- 
-Viste al tramonto che rivaleggiano con Angkor Wat ma con il 95% meno persone
-
-**Alternative**: 
-Pre Rup è affollato al tramonto, ma East Mebon è deserto in quest'ora. Per un tramonto tranquillo, visitate questi templi nell'ordine "sbagliato"!
-
-### Sera
-Cena di addio speciale — magari al **Chanrey Tree** (ristorante fine dining khmer) o ritorno a Pub Street per l'ultima serata a Siem Reap. Domani si scende verso la costa (Sihanoukville) per imbarcarsi alla volta di Koh Rong Samloem: organizzate per tempo il volo interno o il bus.
-
-### Tips del Giorno
-- 
-Pre Rup è sul Grand Circuit, ~13 km da Siem Reap (20 min in auto, 30 min in tuk-tuk)
-
-- 
-Pre Rup è visitabile in qualsiasi momento ma il tardo pomeriggio è ottimale per la luce
-  
-- 
-Massaggio tradizionale khmer ~20$ per 1 ora con erbe locali e compresse al vino bianco
-
-- 
-Pre Rup significa "girare il corpo" — si crede fosse un crematorio reale dove si tracciava la silhouette del defunto nelle ceneri
 
 **Link utili**:
 - Angkor Pass ufficiale: https://www.angkorenterprise.gov.kh
 - Google Maps Beng Mealea: https://maps.app.goo.gl/beng-mealea-temple
 - Pub Street su Google Maps: https://maps.app.goo.gl/pub-street-siem-reap
 
-**Budget totale stimato per 4 persone (4 notti)**:
-- Alloggio: 88€ (22€ x 4 notti)  
+**Budget totale stimato per 4 persone (3 notti)**:
+- Alloggio: 66€ (22€ x 3 notti)
 - Angkor Pass 3 giorni: 248$ (62$ x 4)
-- Trasporti tuk-tuk: ~80€
-- Pasti: ~200€
-- **Totale: ~450-500€ per tutto il gruppo**
+- Trasporti tuk-tuk: ~70€
+- Pasti: ~160€
+- **Totale: ~400-450€ per tutto il gruppo**
 
 ---

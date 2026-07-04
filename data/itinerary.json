@@ -69,8 +69,7 @@
       "days": [
         5,
         6,
-        7,
-        8
+        7
       ],
       "country": "Cambogia",
       "stage_days": [
@@ -79,8 +78,8 @@
           "date": "5 Ott",
           "location": "SIEM REAP",
           "country_zone": "Cambogia",
-          "what_to_see": "Arrivo. Pub Street per cena. Giro del Night Market",
-          "alternative_extra": "Prenota già in hotel il tuk-tuk per l'alba di Angkor Wat (giorno seguente)",
+          "what_to_see": "Arrivo (volo 10:55→12:15). Taxi in hotel. Pub Street per cena. Giro del Night Market",
+          "alternative_extra": "Prenota già in hotel il tuk-tuk per l'alba di Angkor Wat",
           "transport": "da aeroporto a hotel taxi",
           "accommodation_cost": "22€",
           "nights": "1.0"
@@ -91,7 +90,7 @@
           "location": "SIEM REAP ANGKOR WAT",
           "country_zone": "Cambogia",
           "what_to_see": "⭐ ALBA ad Angkor Wat (partenza ore 5:00). Angkor Thom e Bayon. Ta Prohm (Tomb Raider)",
-          "alternative_extra": "Temple Pass 3 giorni (~62$): ne vale la pena se visiti anche Beng Mealea",
+          "alternative_extra": "Temple Pass 3 giorni (~62$)",
           "transport": "Tuk-tuk giornaliero (~15€)",
           "accommodation_cost": "22€",
           "nights": "1.0"
@@ -101,20 +100,9 @@
           "date": "7 Ott",
           "location": "SIEM REAP",
           "country_zone": "Cambogia",
-          "what_to_see": "Beng Mealea: tempio sommerso dalla giungla, quasi senza turisti (40 km da Siem Reap)",
-          "alternative_extra": "Villaggio galleggiante Kampong Phluk (meglio di Kampong Khleang per distanza)",
+          "what_to_see": "Beng Mealea: tempio sommerso dalla giungla, quasi senza turisti (40 km). Villaggio galleggiante Kampong Phluk",
+          "alternative_extra": "Kampong Khleang come alternativa",
           "transport": "Tuk-tuk o minivan (~20€)",
-          "accommodation_cost": "22€",
-          "nights": "1.0"
-        },
-        {
-          "day_number": 8,
-          "date": "8 Ott",
-          "location": "SIEM REAP",
-          "country_zone": "Cambogia",
-          "what_to_see": "Pre Rup e East Mebon al tramonto. Giorno più rilassato. Massaggio khmer tradizionale",
-          "alternative_extra": "Scuola di cucina cambodgiana mezza giornata (~20€/pp)",
-          "transport": "Tuk-tuk",
           "accommodation_cost": "22€",
           "nights": "1.0"
         }
@@ -124,30 +112,42 @@
       "id": "12-koh-rong-samloem",
       "name": "Koh Rong Samloem",
       "days": [
+        8,
         9,
         10
       ],
       "country": "Cambogia",
       "stage_days": [
         {
+          "day_number": 8,
+          "date": "8 Ott",
+          "location": "SIEM REAP → KOH RONG SAMLOEM",
+          "country_zone": "Cambogia",
+          "what_to_see": "Trasferimento e traghetto per l'isola. Arrivo e relax in spiaggia",
+          "alternative_extra": "",
+          "transport": "Van/bus Siem Reap→Sihanoukville + traghetto veloce",
+          "accommodation_cost": "",
+          "nights": "1.0"
+        },
+        {
           "day_number": 9,
           "date": "9 Ott",
-          "location": "SIHANOUKVILLE per KOH RONG SAMLOEM",
+          "location": "KOH RONG SAMLOEM",
           "country_zone": "Cambogia",
-          "what_to_see": "Plancton tour, snorkeling, kayak, mini trekking, O NON FARE NIENTE",
+          "what_to_see": "Plancton tour, snorkeling, kayak, mini trekking, o non fare niente",
           "alternative_extra": "",
           "transport": "",
           "accommodation_cost": "",
-          "nights": ""
+          "nights": "1.0"
         },
         {
           "day_number": 10,
           "date": "10 Ott",
-          "location": "KOH RONG SAMLOEM",
+          "location": "KOH RONG SAMLOEM → PHNOM PENH",
           "country_zone": "Cambogia",
-          "what_to_see": "",
+          "what_to_see": "Ultima mattina sull'isola. Ripartenza per Phnom Penh",
           "alternative_extra": "",
-          "transport": "",
+          "transport": "Traghetto per Sihanoukville + bus/van per Phnom Penh",
           "accommodation_cost": "",
           "nights": ""
         }
@@ -492,24 +492,24 @@
       "dates": "1–4 Ott",
       "country": "Thailandia",
       "stage": "Bangkok",
-      "top_attraction": "ARRIVO. Check-in Khao San / Silom. Grand Palace + Wat Pho (m",
-      "transport_arrival": "Volo Siem Reap→Bangkok (~50€, prenota in anticipo)",
+      "top_attraction": "Templi reali, Bangkok moderna e Chinatown, mercati ferroviario e galleggiante",
+      "transport_arrival": "Volo internazionale (Etihad via Abu Dhabi), arrivo BKK 18:10",
       "nights": "4"
     },
     {
-      "dates": "5–8 Ott",
+      "dates": "5–7 Ott",
       "country": "Cambogia",
       "stage": "Siem Reap & Angkor",
-      "top_attraction": "Arrivo. Pub Street per cena. Giro del Night Market",
-      "transport_arrival": "da aeroporto a hotel taxi",
-      "nights": "4"
+      "top_attraction": "Arrivo e Pub Street. Alba ad Angkor Wat. Beng Mealea + Kampong Phluk",
+      "transport_arrival": "Volo Bangkok→Siem Reap (10:55→12:15), poi taxi in hotel",
+      "nights": "3"
     },
     {
-      "dates": "9–10 Ott",
+      "dates": "8–10 Ott",
       "country": "Cambogia",
       "stage": "Koh Rong Samloem",
-      "top_attraction": "Plancton tour, snorkeling, kayak, mini trekking, O NON FARE ",
-      "transport_arrival": "",
+      "top_attraction": "Isola paradisiaca: plancton, snorkeling, kayak o dolce far niente",
+      "transport_arrival": "Van/bus da Siem Reap a Sihanoukville + traghetto veloce",
       "nights": "2"
     },
     {
@@ -591,7 +591,7 @@
       "date": "1 Ott",
       "location": "BANGKOK",
       "country_zone": "Thailandia",
-      "what_to_see": "ARRIVO. Check-in Khao San / Silom. Grand Palace + Wat Pho (mattino presto)",
+      "what_to_see": "Arrivo 18:10. Check-in The Cotton Saladaeng (Silom/Sathon). Prima passeggiata e cena in zona",
       "alternative_extra": "Evita il Grand Palace nel pomeriggio: folla e caldo. Vai all'alba (apertura 8:30)",
       "transport": "Volo Siem Reap→Bangkok (~50€, prenota in anticipo)",
       "accommodation_cost": "35€",
@@ -602,7 +602,7 @@
       "date": "2 Ott",
       "location": "BANGKOK",
       "country_zone": "Thailandia",
-      "what_to_see": "Wat Arun in barca (traghetto 4 Baht). Chinatown di Yaowarat per cena",
+      "what_to_see": "Bangkok Reale: Grand Palace, Wat Phra Kaew, Wat Pho, Wat Arun al tramonto",
       "alternative_extra": "Mercato notturno Rot Fai Ratchada (giovedì-domenica): vintage e street food",
       "transport": "BTS Skytrain + traghetti sul fiume",
       "accommodation_cost": "35€",
@@ -613,7 +613,7 @@
       "date": "3 Ott",
       "location": "BANGKOK",
       "country_zone": "Thailandia",
-      "what_to_see": "Mercato di Maeklong (sui binari del treno). Amphawa Floating Market",
+      "what_to_see": "Bangkok Moderna & Chinatown: Jim Thompson House, Siam, Yaowarat street food, Jodd Fairs",
       "alternative_extra": "Partenza mattina presto: Maeklong + Amphawa si combinano bene in mezza giornata",
       "transport": "Minivan da Mo Chit (~3€/pp ciascuno, 1.5h)",
       "accommodation_cost": "35€",
@@ -624,7 +624,7 @@
       "date": "4 Ott",
       "location": "BANGKOK",
       "country_zone": "Thailandia — Partenza",
-      "what_to_see": "Mercato dei Fiori Pak Khlong Talat (alba, ore 4–6: più bello al mattino). Ultimo giro",
+      "what_to_see": "Giornata dei mercati: Maeklong Railway Market + Amphawa Floating Market",
       "alternative_extra": "Jim Thompson House se hai tempo prima del volo",
       "transport": "Grab all'aeroporto (~15€)",
       "accommodation_cost": "—",
@@ -635,7 +635,7 @@
       "date": "5 Ott",
       "location": "SIEM REAP",
       "country_zone": "Cambogia",
-      "what_to_see": "Arrivo. Pub Street per cena. Giro del Night Market",
+      "what_to_see": "Arrivo (volo 10:55→12:15). Pub Street per cena. Giro del Night Market",
       "alternative_extra": "Prenota già in hotel il tuk-tuk per l'alba di Angkor Wat (giorno seguente)",
       "transport": "da aeroporto a hotel taxi",
       "accommodation_cost": "22€",
@@ -646,7 +646,7 @@
       "date": "6 Ott",
       "location": "SIEM REAP ANGKOR WAT",
       "country_zone": "Cambogia",
-      "what_to_see": "⭐ ALBA ad Angkor Wat (partenza ore 5:00). Angkor Thom e Bayon. Ta Prohm (Tomb Raider)",
+      "what_to_see": "⭐ ALBA ad Angkor Wat (5:00). Angkor Thom, Bayon, Ta Prohm",
       "alternative_extra": "Temple Pass 3 giorni (~62$): ne vale la pena se visiti anche Beng Mealea",
       "transport": "Tuk-tuk giornaliero (~15€)",
       "accommodation_cost": "22€",
@@ -657,7 +657,7 @@
       "date": "7 Ott",
       "location": "SIEM REAP",
       "country_zone": "Cambogia",
-      "what_to_see": "Beng Mealea: tempio sommerso dalla giungla, quasi senza turisti (40 km da Siem Reap)",
+      "what_to_see": "Beng Mealea (tempio nella giungla) + villaggio galleggiante Kampong Phluk",
       "alternative_extra": "Villaggio galleggiante Kampong Phluk (meglio di Kampong Khleang per distanza)",
       "transport": "Tuk-tuk o minivan (~20€)",
       "accommodation_cost": "22€",
@@ -666,9 +666,9 @@
     {
       "day_number": 8,
       "date": "8 Ott",
-      "location": "SIEM REAP",
+      "location": "SIEM REAP → KOH RONG SAMLOEM",
       "country_zone": "Cambogia",
-      "what_to_see": "Pre Rup e East Mebon al tramonto. Giorno più rilassato. Massaggio khmer tradizionale",
+      "what_to_see": "Trasferimento e traghetto per l'isola. Arrivo e relax in spiaggia",
       "alternative_extra": "Scuola di cucina cambodgiana mezza giornata (~20€/pp)",
       "transport": "Tuk-tuk",
       "accommodation_cost": "22€",
@@ -677,9 +677,9 @@
     {
       "day_number": 9,
       "date": "9 Ott",
-      "location": "SIHANOUKVILLE per KOH RONG SAMLOEM",
+      "location": "KOH RONG SAMLOEM",
       "country_zone": "Cambogia",
-      "what_to_see": "Plancton tour, snorkeling, kayak, mini trekking, O NON FARE NIENTE",
+      "what_to_see": "Plancton tour, snorkeling, kayak, mini trekking, o non fare niente",
       "alternative_extra": "",
       "transport": "",
       "accommodation_cost": "",
@@ -688,9 +688,9 @@
     {
       "day_number": 10,
       "date": "10 Ott",
-      "location": "KOH RONG SAMLOEM",
+      "location": "KOH RONG SAMLOEM → PHNOM PENH",
       "country_zone": "Cambogia",
-      "what_to_see": "",
+      "what_to_see": "Ultima mattina sull'isola. Ripartenza per Phnom Penh",
       "alternative_extra": "",
       "transport": "",
       "accommodation_cost": "",

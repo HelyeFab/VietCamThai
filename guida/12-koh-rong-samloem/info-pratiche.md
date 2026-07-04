@@ -5,13 +5,13 @@
 **Da Siem Reap alla costa, poi traghetto per l'isola**
 
 
-Koh Rong Samloem si raggiunge dal porto di **Sihanoukville**. Dopo Siem Reap il percorso si fa in due tappe:
+Koh Rong Samloem si raggiunge dal porto di **Sihanoukville**. Il **Giorno 8** si arriva da Siem Reap in due tappe — è una lunga giornata di viaggio:
 
-- **Siem Reap → Sihanoukville**: volo interno (~1h, Cambodia Angkor Air / Sky Angkor) oppure bus/minivan diretto (lungo, anche notturno, ~10-15€ con Giant Ibis o Virak Buntham)
+- **Siem Reap → Sihanoukville**: van/bus diretto (lungo, ~8-10 ore, anche notturno, ~10-15€ con Giant Ibis o Virak Buntham) oppure volo interno (~1h, Cambodia Angkor Air / Sky Angkor) per guadagnare tempo
 - **Sihanoukville → Saracen Bay (Koh Rong Samloem)**: traghetto veloce, circa 45 minuti
 
 **Compagnie dei traghetti:**
-- **Buva Sea** e **GTVC Speed Ferry** — 2-3 corse al giorno, biglietto ~12-15€ andata/ritorno
+- **Speed Ferry Cambodia** e **Buva Sea** — 2-3 corse al giorno, biglietto ~12-15€ andata/ritorno
 - Prenota la corsa del mattino o del primo pomeriggio: gli orari si riducono nel pomeriggio e col mare mosso possono saltare
 
 **Dettagli pratici:**
@@ -22,7 +22,7 @@ Koh Rong Samloem si raggiunge dal porto di **Sihanoukville**. Dopo Siem Reap il 
 ### Come Proseguire — verso Phnom Penh
 
 
-Il **Giorno 11** si rientra a Sihanoukville con il traghetto del mattino e da lì si prosegue in autobus per **Phnom Penh** (~4-5 ore, ~8-15€ con Giant Ibis o Virak Buntham).
+Il **Giorno 10** si rientra a Sihanoukville con il traghetto veloce (Speed Ferry Cambodia / Buva Sea, ~45 minuti) e da lì si prosegue in bus/van per **Phnom Penh** (~5 ore, ~8-15€ con Giant Ibis o Virak Buntham). Prenota il traghetto del mattino o del primo pomeriggio per non arrivare in capitale di notte.
 
 
 ### Come Muoversi

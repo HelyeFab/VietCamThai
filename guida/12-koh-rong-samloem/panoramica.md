@@ -4,7 +4,7 @@
 
 ![Spiaggia paradisiaca di Koh Rong Samloem](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Cambodia_island_paradise_koh_rong_sanloem.jpg/1280px-Cambodia_island_paradise_koh_rong_sanloem.jpg)
 
-Dopo i templi di Angkor e prima dell'intensità della storia di Phnom Penh, Koh Rong Samloem è la **pausa che il viaggio si merita**: due giorni di sabbia bianca, acqua turchese e ritmo lento. È l'isola "tranquilla" della Cambogia — la sorella minore e più silenziosa della più festaiola Koh Rong — dove non ci sono strade asfaltate, né automobili, né caos. Solo spiagge, giungla e il rumore delle onde.
+Dopo i templi di Angkor e prima dell'intensità della storia di Phnom Penh, Koh Rong Samloem è la **pausa che il viaggio si merita**: tre giorni di sabbia bianca, acqua turchese e ritmo lento. È l'isola "tranquilla" della Cambogia — la sorella minore e più silenziosa della più festaiola Koh Rong — dove non ci sono strade asfaltate, né automobili, né caos. Solo spiagge, giungla e il rumore delle onde.
 
 Il cuore dell'isola è **Saracen Bay**, una mezzaluna di sabbia chiara lunga oltre due chilometri sul lato orientale, costellata di bungalow e piccoli resort affacciati su un mare calmo e poco profondo. Sul versante opposto, raggiungibile con un breve trekking nella giungla, si nasconde **Lazy Beach**, una delle spiagge più belle e selvagge di tutta la Cambogia, perfetta per il tramonto. A nord, il villaggio di pescatori di **M'Pai Bay** offre l'atmosfera più autentica e backpacker dell'isola.
 

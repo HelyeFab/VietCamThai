@@ -4,28 +4,26 @@
 
 **Volo internazionale → Bangkok** (Giorno 1 — inizio del viaggio)
 
-Bangkok è la prima tappa del viaggio: si arriva con il volo internazionale all'aeroporto Suvarnabhumi (BKK), il principale scalo della città, oppure a Don Mueang (DMK) se volate con alcune low-cost. 
-Dall'aeroporto al centro città il modo più comodo è Grab (650-900 THB / 18-25€) oppure l'Airport Rail Link da Suvarnabhumi (45 THB) fino alla stazione Phaya Thai.
+Bangkok è la prima tappa del viaggio: si arriva (ore 18:10) con il volo internazionale all'aeroporto Suvarnabhumi (BKK), il principale scalo della città. Per questa sera avete un **transfer privato già prenotato**: l'autista vi attende in area arrivi con il cartello e vi porta direttamente alla base di Silom/Sathon, senza pensieri dopo il lungo volo.
 
-**Dall'aeroporto al centro:**
-- **Grab/taxi**: 650-900 THB (18-25€) verso Khao San / Old Town
-- **Airport Rail Link** (solo Suvarnabhumi): 45 THB fino a Phaya Thai, poi BTS/Grab
-- **Tempo**: 45-60 minuti a seconda del traffico
+**Dall'aeroporto al centro (Silom/Sathon):**
+- **Transfer privato prenotato** (la vostra soluzione all'arrivo): incontro in area arrivi, dritti in hotel
+- **Piano B — Grab/taxi**: ~350-450 THB (10-13€) verso Silom/Sala Daeng, dal banco Public Transport ufficiale
+- **Piano C — Airport Rail Link** (solo Suvarnabhumi): 45 THB fino a Phaya Thai, poi BTS/Grab fino a Sala Daeng
+- **Tempo**: 45-60 minuti a seconda del traffico serale
 
-### Come Proseguire — Volo Bangkok → Siem Reap (Giorno 4)
+### Come Proseguire — Volo Bangkok → Siem Reap (mattina del 5 Ottobre)
 
-Dopo Bangkok il viaggio prosegue verso la Cambogia con un volo per Siem Reap (~50€, circa 1 ora). 
-I voli Bangkok–Siem Reap partono da circa $122 per tratta singola con compagnie low-cost come Thai AirAsia. Il prezzo di ~50€ del vostro itinerario è molto realistico se prenotate con anticipo.
+Dopo quattro giorni pieni a Bangkok, il viaggio prosegue verso la Cambogia la **mattina del 5 ottobre** con un volo per Siem Reap (~50€, circa 1 ora).
+- **Volo**: **Thai AirAsia**, partenza ~**10:55** da **Don Mueang (DMK)**, arrivo a Siem Reap ~**12:15**
+- **Aeroporto**: Don Mueang (DMK), lo scalo delle low-cost, a nord della città — dalla base di Silom sono ~40-60 min col traffico del mattino
+- **Transfer privato prenotato**: anche per la partenza avete un **transfer privato** che vi preleva al The Cotton Saladaeng e vi porta a DMK — concordate con l'autista un orario che vi lasci **almeno 2,5-3 ore** prima del volo (code check-in AirAsia + controlli). *(Piano B: Grab dall'hotel verso DMK.)*
+- **Al mattino**: colazione veloce, check-out e via all'aeroporto senza fretta
 
-**Compagnie consigliate:**
-- **Thai AirAsia**: 
-offre le tariffe più economiche, con voli da $122 per tratta singola
-
-- **Bangkok Airways**: 
-più confortevole ma costosa
-- **Thai Airways**: 
-servizio premium
- ma prezzi più elevati
+**Compagnie sulla tratta:**
+- **Thai AirAsia**: le tariffe più economiche (la vostra scelta), voli diretti da DMK
+- **Bangkok Airways**: più confortevole ma costosa, opera da Suvarnabhumi
+- **Thai Airways**: servizio premium ma prezzi più elevati
 
 **Dove prenotare:**
 - [Thai AirAsia](https://www.airasia.com/)
@@ -33,7 +31,7 @@ servizio premium
 - [Momondo](https://www.momondo.com/flights/bangkok/siem-reap) per le migliori offerte
 
 **Pro tip:** 
-Settembre-ottobre offrono buone tariffe per la tratta Bangkok–Siem Reap se prenotate 2-3 mesi prima.
+Settembre-ottobre offrono buone tariffe per la tratta Bangkok–Siem Reap se prenotate 2-3 mesi prima. Prenotate presto per bloccare la fascia oraria comoda di metà mattina.
 
 ### Come Muoversi
 
@@ -80,7 +78,14 @@ spesso i conducenti quotano 150-300 THB per percorsi che costerebbero 60 THB con
 
 ### Dove Dormire
 
-**Budget: 35€/notte per camera doppia**
+**✅ Il vostro alloggio confermato (tutte e 4 le notti):**
+
+**The Cotton Saladaeng Hotel** — 14, 1 Soi Sathon 2, Si Lom, Bang Rak
+- **Zona**: Silom/Sathon, il distretto degli affari, tranquillo e sicuro di sera
+- **Collegamenti**: a pochi passi dalla BTS Sala Daeng e dalla MRT Silom, con il Lumphini Park vicino — base ideale per raggiungere templi, Chinatown e i mercati fuori città
+- **Perché qui**: posizione centrale e ben servita, quartiere ordinato, comodo sia per rientrare la sera sia per partire verso Don Mueang l'ultima mattina
+
+**Alternative budget nella stessa fascia (~35€/notte per camera doppia):**
 
 **1. The Moment Bangkok** ⭐⭐⭐⭐
 - **Zona**: Old Town

@@ -6,16 +6,14 @@ Ora scriverò la sezione INFO PRATICHE per Siem Reap & Angkor basandomi su tutte
 
 #### Volo Bangkok → Siem Reap
 
-Si arriva a Siem Reap dalla Thailandia con un 
-volo da Bangkok, che costa circa ~50€ a persona e dura circa 1 ora
-. 
-I voli partono sia da Suvarnabhumi (BKK) che da Don Mueang (DMK) e atterrano al nuovo Aeroporto Internazionale Siem Reap–Angkor, a circa 50 km a est della città
+Si arriva a Siem Reap dalla Thailandia con un **volo Thai AirAsia** da Bangkok. Il volo parte da **Don Mueang (DMK)** verso le **10:55** e atterra al nuovo **Aeroporto Internazionale Siem Reap–Angkor (SAI)** verso le **12:15**: poco più di un'ora di volo per circa **50€ a persona**. 
+Il nuovo aeroporto si trova a circa 50 km a est della città
 .
 
 **Compagnie consigliate:**
 - **Thai AirAsia** — 
 le tariffe più economiche sulla tratta Bangkok–Siem Reap
-
+ (voli da Don Mueang DMK)
   - Prenotazioni: [Thai AirAsia](https://www.airasia.com/)
 - **Bangkok Airways** — 
 più confortevole ma costosa
@@ -25,7 +23,7 @@ compagnia di bandiera cambogiana
 
   - Confronto prezzi: [Google Flights](https://flights.google.com/)
 
-**Dall'aeroporto al centro:**
+**Dall'aeroporto al centro (transfer ~45-60 min):**
 - 
 Dal nuovo aeroporto servono circa 45-60 minuti di strada (~50 km)
 
@@ -35,11 +33,13 @@ Tuk-tuk o taxi disponibili all'uscita arrivi; concordate il prezzo in anticipo
 - 
 Molti hotel offrono il transfer su prenotazione
 
-### Come Proseguire — verso la costa (Koh Rong Samloem)
+### Come Proseguire — verso Koh Rong Samloem (8 Ottobre)
 
-Dopo Siem Reap il viaggio scende verso la costa meridionale per imbarcarsi alla volta dell'isola di Koh Rong Samloem. 
-Potete scegliere tra un volo interno verso Sihanoukville oppure un bus/minivan diretto a Sihanoukville (da cui partono i traghetti per le isole)
-. Organizzate la tratta con un giorno d'anticipo, soprattutto in stagione delle piogge quando gli orari dei traghetti possono variare.
+L'8 ottobre si lascia Siem Reap per raggiungere l'isola di **Koh Rong Samloem**, sulla costa meridionale. Il percorso è in due tappe: 
+prima un van/bus da Siem Reap a Sihanoukville, poi il traghetto veloce (fast ferry) da Sihanoukville all'isola
+. 
+Il tragitto in van/bus è lungo (mettete in conto gran parte della giornata), quindi prenotate posti e traghetto con almeno un giorno d'anticipo — in stagione delle piogge gli orari dei traghetti possono variare
+. Prenotate una corsa che vi lasci a Sihanoukville in tempo per l'ultimo fast ferry del pomeriggio.
 
 ### Come Muoversi
 

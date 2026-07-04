@@ -10,8 +10,8 @@ export interface Destination {
 
 export const DESTINATIONS: Destination[] = [
   { id: "11-bangkok", name: "Bangkok", lat: 13.7563, lng: 100.5018, country: "Thailandia", days: [1, 2, 3, 4], dates: "1–4 Ott" },
-  { id: "10-siem-reap-angkor", name: "Siem Reap & Angkor", lat: 13.3671, lng: 103.8448, country: "Cambogia", days: [5, 6, 7, 8], dates: "5–8 Ott" },
-  { id: "12-koh-rong-samloem", name: "Koh Rong Samloem", lat: 10.6097, lng: 103.2683, country: "Cambogia", days: [9, 10], dates: "9–10 Ott" },
+  { id: "10-siem-reap-angkor", name: "Siem Reap & Angkor", lat: 13.3671, lng: 103.8448, country: "Cambogia", days: [5, 6, 7], dates: "5–7 Ott" },
+  { id: "12-koh-rong-samloem", name: "Koh Rong Samloem", lat: 10.6097, lng: 103.2683, country: "Cambogia", days: [8, 9, 10], dates: "8–10 Ott" },
   { id: "09-phnom-penh", name: "Phnom Penh", lat: 11.5564, lng: 104.9282, country: "Cambogia", days: [11, 12], dates: "11–12 Ott" },
   { id: "08-chau-doc-mekong", name: "Chau Doc & Mekong", lat: 10.707, lng: 105.119, country: "Vietnam", days: [13], dates: "13 Ott" },
   { id: "07-ho-chi-minh-city", name: "Ho Chi Minh City", lat: 10.8231, lng: 106.6297, country: "Vietnam", days: [14, 15, 16], dates: "14–16 Ott" },

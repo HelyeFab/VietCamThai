@@ -49,7 +49,7 @@ In effetti, è uno dei mesi più piovosi dell'anno. La pioggia si accumula anche
 
 In ottobre, Siem Reap sperimenta un notevole cambiamento mentre la stagione dei monsoni inizia a diminuire, portando temperature piacevoli che sono perfette per esplorare i suoi famosi templi. Con minime intorno ai 22°C (72°F) e massime che raggiungono i 34°C (93°F), il tempo è comodamente caldo.
 
-**Cosa aspettarsi specificamente per il vostro viaggio (5-8 ottobre):**
+**Cosa aspettarsi specificamente per il vostro viaggio (5-7 ottobre):**
 - 
 È consigliabile visitare i templi al mattino poiché la pioggia cade più spesso nel pomeriggio.
 
