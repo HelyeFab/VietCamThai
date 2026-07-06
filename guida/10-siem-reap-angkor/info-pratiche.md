@@ -1,5 +1,3 @@
-Ora scriverò la sezione INFO PRATICHE per Siem Reap & Angkor basandomi su tutte le informazioni raccolte.
-
 ## Info Pratiche — Siem Reap & Angkor
 
 ### Come Arrivare

@@ -1,4 +1,4 @@
-Ora ho abbastanza informazioni per creare la sezione GIORNO PER GIORNO per Ho Chi Minh City. Procederò a scrivere la guida includendo tutte le informazioni aggiornate che ho trovato.
+# GIORNO PER GIORNO — Ho Chi Minh City
 
 ## Giorno 14 — 14 Ottobre 2026 — Primo assaggio di Saigon
 

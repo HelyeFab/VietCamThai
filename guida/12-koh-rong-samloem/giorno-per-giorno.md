@@ -50,22 +50,23 @@ Se la prima sera eravate troppo stanchi per il **plancton bioluminescente**, que
 
 ---
 
-## Giorno 10 — 10 Ottobre 2026 — Ultimo Sole sull'Isola e Rotta per Phnom Penh
+## Giorno 10 — 10 Ottobre 2026 — L'Ultimo Giorno sull'Isola
 
 ![Laguna di Koh Rong Samloem](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Koh_Rong_Sanloem_lagoon.jpg/1280px-Koh_Rong_Sanloem_lagoon.jpg)
 
 ### Mattina
-Un'ultima mattina all'insegna del ritmo dell'isola prima di rientrare sulla terraferma:
-- Colazione lenta e ultimo bagno nell'acqua turchese di Saracen Bay
-- Passeggiata a piedi nudi sulla sabbia, quando la baia è ancora silenziosa
-- Checkout dal bungalow (di solito entro le 11): sistema lo zaino e ricontrolla di avere **contanti** per il viaggio
+Nessuna sveglia, nessun trasferimento: oggi l'isola è tutta vostra un'ultima volta. È il giorno per godersi ciò che avete scoperto senza la fretta dell'arrivo:
+- Colazione lenta e lungo bagno nell'acqua turchese di Saracen Bay, quando la baia è ancora silenziosa
+- Ultimo snorkeling o un'uscita in kayak verso le calette che non avete ancora esplorato
+- Per chi preferisce, semplicemente amaca e libro all'ombra delle palme — il **dolce far niente** fino in fondo
 
 ### Pomeriggio
-Rientro verso la terraferma. **Non esiste un traghetto diretto per Phnom Penh**: il tragitto si fa in due tappe. Dal molo di Saracen Bay si prende il **traghetto veloce per Sihanoukville** (Speed Ferry Cambodia / Buva Sea, ~45 minuti); da Sihanoukville si prosegue via terra in **bus o minivan (o transfer privato) verso Phnom Penh** (~5 ore, ~8-15€ con Giant Ibis o Virak Buntham).
-- Prenota il traghetto del mattino o del primo pomeriggio per non arrivare a Phnom Penh di notte
-- Concatena traghetto e bus con un po' di margine: col mare mosso le corse possono ritardare o saltare
+Un ultimo giro tra gli angoli più belli dell'isola prima di lasciarla:
+- Ritorno a piedi a **Lazy Beach** o passeggiata verso **M'Pai Bay** se non ci siete ancora stati
+- Pomeriggio in spiaggia, ultimo tuffo e qualche foto alla luce dorata
+- **Preparate lo zaino con calma** e controllate di avere abbastanza **contanti** per l'intera giornata di viaggio di domani: sull'isola non ci sono bancomat
 
 ### Sera
-Arrivo a **Phnom Penh**, la capitale — un cambio di ritmo totale rispetto alla quiete dell'isola. Check-in in hotel, cena in città e prime impressioni della vita cambogiana sul Mekong. Il **Giorno 11** inizia qui la tappa dedicata alla capitale.
+Ultima notte sull'isola. Cena di pesce fresco sulla spiaggia e, se il cielo è senza luna, un ultimo bagno tra le scie di **plancton bioluminescente**. Andate a dormire con l'orario del traghetto già chiaro in testa: **domani mattina (Giorno 11) si riparte** — traghetto veloce per Sihanoukville e poi bus verso Phnom Penh, la capitale.
 
-> **Consiglio**: goditi l'ultimo mare senza fretta ma tieni d'occhio l'orario del traghetto — è l'unico collegamento con la terraferma e perderlo significa rimandare tutta la catena di trasferimenti.
+> **Consiglio**: prenotate già oggi il traghetto del mattino presto per Sihanoukville. È l'unico collegamento con la terraferma e partire presto vi lascia tutto il margine per la lunga tratta in bus fino a Phnom Penh senza arrivare di notte.
