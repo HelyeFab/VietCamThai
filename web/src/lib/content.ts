@@ -1,6 +1,7 @@
 import fs from "fs";
 import path from "path";
 import { parseMarkdown, type ParsedMarkdown } from "./markdown";
+import { DEFAULT_LOCALE, type Locale } from "./i18n";
 
 // Resolve guida/ and data/ — works both locally (cwd=web/) and on Vercel (cwd=project root)
 function findDir(name: string): string {
@@ -55,18 +56,20 @@ export function getTripData(): TripData {
 }
 
 export async function getStageContent(
+  lang: Locale,
   stageId: string,
   section: string = "panoramica"
 ): Promise<ParsedMarkdown> {
-  const filePath = path.join(GUIDA_DIR, stageId, `${section}.md`);
+  const filePath = path.join(GUIDA_DIR, lang, stageId, `${section}.md`);
   const raw = fs.readFileSync(filePath, "utf-8");
   return parseMarkdown(raw);
 }
 
 export async function getPlanningContent(
+  lang: Locale,
   slug: string
 ): Promise<ParsedMarkdown> {
-  const filePath = path.join(GUIDA_DIR, "00-pianificazione", `${slug}.md`);
+  const filePath = path.join(GUIDA_DIR, lang, "00-pianificazione", `${slug}.md`);
   const raw = fs.readFileSync(filePath, "utf-8");
   return parseMarkdown(raw);
 }
@@ -79,9 +82,13 @@ export function getStageById(id: string): StageData | undefined {
   return getTripData().stages.find((s) => s.id === id);
 }
 
-/** Get hero image for a stage — extract the first image URL from panoramica.md */
-export function getStageHeroImage(stageId: string): string | null {
-  const filePath = path.join(GUIDA_DIR, stageId, "panoramica.md");
+/** Get hero image for a stage — extract the first image URL from panoramica.md.
+ *  Image URLs are identical across locales, so this defaults to the default locale. */
+export function getStageHeroImage(
+  stageId: string,
+  lang: Locale = DEFAULT_LOCALE
+): string | null {
+  const filePath = path.join(GUIDA_DIR, lang, stageId, "panoramica.md");
   if (!fs.existsSync(filePath)) return null;
   const content = fs.readFileSync(filePath, "utf-8");
   // Find first image markdown reference

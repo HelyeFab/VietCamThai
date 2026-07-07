@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { MapPin, Calendar } from "lucide-react";
 import { CountryBadge } from "@/components/ui/CountryBadge";
+import { type Locale, t, langHref } from "@/lib/i18n";
 
 interface StageCardProps {
   id: string;
@@ -10,6 +11,7 @@ interface StageCardProps {
   dates: string;
   heroImage: string | null;
   excerpt: string;
+  lang: Locale;
 }
 
 export function StageCard({
@@ -20,6 +22,7 @@ export function StageCard({
   dates,
   heroImage,
   excerpt,
+  lang,
 }: StageCardProps) {
   const countryGradient: Record<string, string> = {
     Vietnam: "from-vietnam/80 to-vietnam/40",
@@ -29,7 +32,7 @@ export function StageCard({
 
   return (
     <Link
-      href={`/destinazione/${id}/`}
+      href={langHref(lang, `/destinazione/${id}/`)}
       className="group block rounded-xl overflow-hidden bg-surface shadow-sm hover:shadow-md transition-all duration-300 hover:-translate-y-0.5"
     >
       {/* Image / gradient hero */}
@@ -51,7 +54,7 @@ export function StageCard({
           </div>
         )}
         <div className="absolute top-3 left-3">
-          <CountryBadge country={country} onImage />
+          <CountryBadge country={country} onImage lang={lang} />
         </div>
       </div>
 
@@ -66,7 +69,7 @@ export function StageCard({
             {dates}
           </span>
           <span>
-            {days.length} {days.length === 1 ? "giorno" : "giorni"}
+            {days.length} {days.length === 1 ? t(lang, "day") : t(lang, "days")}
           </span>
         </div>
         {excerpt && (
