@@ -6,6 +6,7 @@
     "prebuild": "npx tsx scripts/copy-images.ts && npx tsx scripts/build-search-index.ts",
     "dev": "npx tsx scripts/copy-images.ts && npx tsx scripts/build-search-index.ts && next dev",
     "build": "next build",
+    "postbuild": "npx tsx scripts/emit-root-redirect.ts",
     "start": "next start",
     "lint": "eslint"
   },

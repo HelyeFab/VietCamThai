@@ -4,6 +4,14 @@ import { useEffect, useRef } from "react";
 import L from "leaflet";
 import "leaflet/dist/leaflet.css";
 import { DESTINATIONS, COUNTRY_COLORS } from "@/lib/coordinates";
+import {
+  type Locale,
+  DEFAULT_LOCALE,
+  t,
+  langHref,
+  destName,
+  destDates,
+} from "@/lib/i18n";
 
 // Fix Leaflet default icon path issue
 delete (L.Icon.Default.prototype as unknown as Record<string, unknown>)._getIconUrl;
@@ -13,7 +21,13 @@ L.Icon.Default.mergeOptions({
   shadowUrl: "https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png",
 });
 
-export default function LeafletMap({ fullHeight = false }: { fullHeight?: boolean }) {
+export default function LeafletMap({
+  fullHeight = false,
+  lang = DEFAULT_LOCALE,
+}: {
+  fullHeight?: boolean;
+  lang?: Locale;
+}) {
   const mapRef = useRef<HTMLDivElement>(null);
   const mapInstanceRef = useRef<L.Map | null>(null);
 
@@ -61,9 +75,9 @@ export default function LeafletMap({ fullHeight = false }: { fullHeight?: boolea
       const marker = L.marker(latlng, { icon }).addTo(map);
       marker.bindPopup(`
         <div style="text-align:center; min-width: 140px;">
-          <strong style="font-size: 14px;">${dest.name}</strong><br/>
-          <span style="color: #6B6560; font-size: 12px;">${dest.dates} &middot; ${dest.days.length} ${dest.days.length === 1 ? "giorno" : "giorni"}</span><br/>
-          <a href="/destinazione/${dest.id}/" style="color: #C2703E; font-size: 13px; font-weight: 600; text-decoration: none;">Apri guida &rarr;</a>
+          <strong style="font-size: 14px;">${destName(lang, dest.id, dest.name)}</strong><br/>
+          <span style="color: #6B6560; font-size: 12px;">${destDates(lang, dest.dates, dest.days)} &middot; ${dest.days.length} ${dest.days.length === 1 ? t(lang, "day") : t(lang, "days")}</span><br/>
+          <a href="${langHref(lang, `/destinazione/${dest.id}/`)}" style="color: #C2703E; font-size: 13px; font-weight: 600; text-decoration: none;">${t(lang, "openGuide")} &rarr;</a>
         </div>
       `);
     });
@@ -88,7 +102,7 @@ export default function LeafletMap({ fullHeight = false }: { fullHeight?: boolea
       map.remove();
       mapInstanceRef.current = null;
     };
-  }, []);
+  }, [lang]);
 
   return (
     <div

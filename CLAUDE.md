@@ -2,18 +2,23 @@
 
 AI-generated travel guide for Vietnam, Cambodia, and Thailand — 31 days, 1–31 October 2026, 4 travelers. Route runs Bangkok → Siem Reap → Koh Rong Samloem → Phnom Penh → Chau Doc → HCMC → Hoi An → Hué → Phong Nha → Ninh Binh → Lan Ha → Hanoi (reversed from the original Hanoi-first plan).
 
+**Bilingual (IT + EN).** The site serves both languages under locale-prefixed routes (`/it/…`, `/en/…`) with a language switcher; Italian is primary. Content lives in `guida/it/` and `guida/en/` (mirrored trees). UI/data strings and locale routing live in `web/src/lib/i18n.ts` and `web/src/app/[lang]/`. `/` emits a static redirect (`web/scripts/emit-root-redirect.ts`, run as `postbuild`) to the visitor's language. **When you edit content, update BOTH `guida/it/<stop>/…` and `guida/en/<stop>/…`** (or translate the IT change into EN).
+
 ## Project Structure
 
 ```
 VietCamThai/
-├── guida/                    # Source markdown content (55 files)
-│   ├── 00-pianificazione/    # 6 planning files (budget, visas, health, etc.)
-│   ├── 01-hanoi/ ... 12-koh-rong-samloem/  # 12 destinations, 4 files each
-│   │   ├── panoramica.md
-│   │   ├── giorno-per-giorno.md
-│   │   ├── cibo-e-cultura.md
-│   │   └── info-pratiche.md
-│   └── assets/images/        # Downloaded images per destination
+├── guida/                    # Source markdown content — BILINGUAL (it + en)
+│   ├── it/                   # Italian content (primary, authored)
+│   │   ├── 00-pianificazione/    # 6 planning files (budget, visas, health, etc.)
+│   │   ├── 01-hanoi/ ... 12-koh-rong-samloem/  # 12 destinations, 4 files each
+│   │   │   ├── panoramica.md
+│   │   │   ├── giorno-per-giorno.md
+│   │   │   ├── cibo-e-cultura.md
+│   │   │   └── info-pratiche.md
+│   │   └── README.md
+│   ├── en/                   # English content — mirror of it/ (same tree, translated)
+│   └── assets/images/        # Downloaded images per destination (shared, locale-agnostic)
 ├── data/
 │   └── itinerary.json        # Structured trip data (stages, days, costs)
 ├── web/                      # Next.js 16 static site

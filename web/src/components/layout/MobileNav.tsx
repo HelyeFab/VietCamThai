@@ -1,14 +1,22 @@
 "use client";
 
 import Link from "next/link";
-import { X, Wallet, FileText, HeartPulse, Wifi, CloudSun, Lightbulb, MapPin, Calendar, Search, Map as MapIcon } from "lucide-react";
+import { X, Wallet, FileText, HeartPulse, Wifi, CloudSun, Lightbulb, MapPin, Search, Map as MapIcon } from "lucide-react";
 import { DESTINATIONS, PLANNING_SECTIONS } from "@/lib/coordinates";
+import {
+  type Locale,
+  t,
+  langHref,
+  countryLabel,
+  planningLabel,
+  destName,
+} from "@/lib/i18n";
 
 const ICON_MAP: Record<string, React.ComponentType<{ className?: string }>> = {
   Wallet, FileText, HeartPulse, Wifi, CloudSun, Lightbulb,
 };
 
-export function MobileNav() {
+export function MobileNav({ lang }: { lang: Locale }) {
   const close = () => {
     document.getElementById("mobile-nav")?.classList.add("-translate-x-full");
     document.getElementById("mobile-nav")?.classList.remove("translate-x-0");
@@ -34,7 +42,7 @@ export function MobileNav() {
         className="fixed top-0 left-0 h-full w-72 bg-surface z-50 shadow-xl -translate-x-full transition-transform duration-300 overflow-y-auto"
       >
         <div className="flex items-center justify-between p-4 border-b border-border">
-          <span className="font-bold text-primary text-lg">VCT Guida</span>
+          <span className="font-bold text-primary text-lg">{t(lang, "brand")}</span>
           <button onClick={close} className="p-1 rounded-lg hover:bg-primary/10">
             <X className="w-5 h-5" />
           </button>
@@ -44,25 +52,25 @@ export function MobileNav() {
           {/* Quick links */}
           <div className="flex gap-2">
             <Link
-              href="/cerca/"
+              href={langHref(lang, "/cerca/")}
               onClick={close}
               className="flex-1 flex items-center gap-2 px-3 py-2 rounded-lg bg-bg text-sm hover:bg-primary/10 transition-colors"
             >
-              <Search className="w-4 h-4" /> Cerca
+              <Search className="w-4 h-4" /> {t(lang, "search")}
             </Link>
             <Link
-              href="/mappa/"
+              href={langHref(lang, "/mappa/")}
               onClick={close}
               className="flex-1 flex items-center gap-2 px-3 py-2 rounded-lg bg-bg text-sm hover:bg-primary/10 transition-colors"
             >
-              <MapIcon className="w-4 h-4" /> Mappa
+              <MapIcon className="w-4 h-4" /> {t(lang, "map")}
             </Link>
           </div>
 
           {/* Planning */}
           <div>
             <h3 className="text-xs font-semibold uppercase tracking-wider text-text-secondary mb-2">
-              Pianificazione
+              {t(lang, "planning")}
             </h3>
             <div className="space-y-0.5">
               {PLANNING_SECTIONS.map((s) => {
@@ -70,12 +78,12 @@ export function MobileNav() {
                 return (
                   <Link
                     key={s.slug}
-                    href={`/pianificazione/${s.slug}/`}
+                    href={langHref(lang, `/pianificazione/${s.slug}/`)}
                     onClick={close}
                     className="flex items-center gap-3 px-3 py-2 rounded-lg text-sm hover:bg-primary/10 transition-colors"
                   >
                     <Icon className="w-4 h-4 text-primary" />
-                    {s.title}
+                    {planningLabel(lang, s.slug)}
                   </Link>
                 );
               })}
@@ -86,19 +94,19 @@ export function MobileNav() {
           {countries.map((country) => (
             <div key={country}>
               <h3 className={`text-xs font-semibold uppercase tracking-wider mb-2 ${countryColors[country]}`}>
-                {country}
+                {countryLabel(lang, country)}
               </h3>
               <div className="space-y-0.5">
                 {DESTINATIONS.filter((d) => d.country === country).map((d) => (
                   <Link
                     key={d.id}
-                    href={`/destinazione/${d.id}/`}
+                    href={langHref(lang, `/destinazione/${d.id}/`)}
                     onClick={close}
                     className="flex items-center gap-3 px-3 py-2 rounded-lg text-sm hover:bg-primary/10 transition-colors"
                   >
                     <MapPin className="w-4 h-4 text-text-secondary" />
-                    <span className="flex-1">{d.name}</span>
-                    <span className="text-xs text-text-secondary">G{d.days[0]}–{d.days[d.days.length - 1]}</span>
+                    <span className="flex-1">{destName(lang, d.id, d.name)}</span>
+                    <span className="text-xs text-text-secondary">{t(lang, "dayAbbrev")}{d.days[0]}–{d.days[d.days.length - 1]}</span>
                   </Link>
                 ))}
               </div>

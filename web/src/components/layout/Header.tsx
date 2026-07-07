@@ -4,8 +4,10 @@ import { useState, useEffect } from "react";
 import Link from "next/link";
 import { Menu, Search, Map } from "lucide-react";
 import { DarkModeToggle } from "@/components/ui/DarkModeToggle";
+import { LanguageSwitcher } from "@/components/ui/LanguageSwitcher";
+import { type Locale, t, langHref } from "@/lib/i18n";
 
-export function Header() {
+export function Header({ lang }: { lang: Locale }) {
   const [scrolled, setScrolled] = useState(false);
 
   useEffect(() => {
@@ -32,28 +34,29 @@ export function Header() {
         <button
           onClick={toggle}
           className="p-2 -ml-2 rounded-lg hover:bg-primary/10 transition-colors"
-          aria-label="Menu"
+          aria-label={t(lang, "menu")}
         >
           <Menu className="w-5 h-5 text-text" />
         </button>
 
-        <Link href="/" className="font-bold text-lg tracking-tight text-primary">
-          VCT Guida
+        <Link href={langHref(lang, "/")} className="font-bold text-lg tracking-tight text-primary">
+          {t(lang, "brand")}
         </Link>
 
         <div className="flex items-center gap-0.5">
+          <LanguageSwitcher lang={lang} />
           <DarkModeToggle />
           <Link
-            href="/mappa/"
+            href={langHref(lang, "/mappa/")}
             className="p-2 rounded-lg hover:bg-primary/10 transition-colors"
-            aria-label="Mappa"
+            aria-label={t(lang, "map")}
           >
             <Map className="w-5 h-5 text-text" />
           </Link>
           <Link
-            href="/cerca/"
+            href={langHref(lang, "/cerca/")}
             className="p-2 -mr-2 rounded-lg hover:bg-primary/10 transition-colors"
-            aria-label="Cerca"
+            aria-label={t(lang, "search")}
           >
             <Search className="w-5 h-5 text-text" />
           </Link>
