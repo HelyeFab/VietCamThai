@@ -1,4 +1,3 @@
-Ora posso creare una sezione completa su Cibo e Cultura per Hoi An. Cercherò anche delle immagini di piatti tipici.
 # CIBO E CULTURA
 
 ## Dove e Cosa Mangiare a Hoi An

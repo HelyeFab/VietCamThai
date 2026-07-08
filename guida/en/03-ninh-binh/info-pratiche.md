@@ -5,7 +5,7 @@
 **From Phong Nha to Ninh Binh by night bus (8–10 hours)**
 
 
-From Phong Nha, your previous stop, Ninh Binh is reached by overnight sleeper buses that cost about €12–15 per person and take 8–10 hours
+From Phong Nha, your previous stop, you reach Ninh Binh on overnight sleeper buses that cost around €12–15 per person and take 8–10 hours
 . 
 Departure is typically in the evening (19:30–21:00) with arrival at dawn, so you gain a night and arrive rested
 .
@@ -16,7 +16,7 @@ Sleeper buses with reclining seats, power outlets and a toilet; evening departur
 - **Hung Thanh / The Sinh Tourist**: 
 Reliable overnight connections along the Phong Nha–Ninh Binh corridor
 - 
-Alternatively, the train from Dong Hoi (45 km from Phong Nha) to Ninh Binh — more comfortable but with a transfer and a similar duration
+Alternatively, take the train from Dong Hoi (45 km from Phong Nha) to Ninh Binh — more comfortable, but it means an extra transfer and takes about the same time
 
 
 **Where to buy:**
@@ -37,7 +37,7 @@ Ninh Binh's bus station is near the train station, beyond the bridge toward Phat
 
 **Departing — toward Lan Ha Bay:**
 
-From the Ninh Binh / Hai Phong area, the next stop is Lan Ha Bay (Cat Ba Island). It's reached by bus + ferry/speedboat in about 3.5–4 hours; many places to stay arrange the combined transfer or the connection via Hai Phong.
+From the Ninh Binh / Hai Phong area, your next stop is Lan Ha Bay (Cat Ba Island), a bus-plus-ferry/speedboat trip of roughly 3.5–4 hours. Many places to stay can arrange the combined transfer, or the connection via Hai Phong.
 
 
 ### Getting Around
@@ -94,7 +94,7 @@ For your budget of **€22/night for a double room**, here are the best options:
 
 #### 1. **Tam Coc Lotus Flower Homestay** 
 
-The best choice in Tam Coc: spotlessly clean rooms, a delicious free breakfast, incredibly helpful owners
+The pick of the bunch in Tam Coc: spotless rooms, a delicious free breakfast and wonderfully helpful owners
 
 - **Price**: ~€20–25/night double
 - **Link**: Search on Booking.com for "Tam Coc Lotus Flower"
@@ -113,7 +113,7 @@ In the heart of the Tam Coc–Bich Dong tourist area, convenient for getting aro
 Right on the river, surrounded by rice paddies and mountains, breakfast included, friendly staff
 
 - **Price**: ~€15–20/night double
-- **Perfect**: For those seeking tranquility and a breathtaking view
+- **Perfect**: For those after peace and quiet and a breathtaking view
 
 #### 4. **New Queen Hotel (Ninh Binh city)**
 
@@ -157,7 +157,7 @@ The Viettel eSIM with a 4GB/day plan is the superior choice for backpackers in 2
 
 
 **WiFi**: 
-WiFi in hotels is good, but WiFi in caves, mountains, pagodas or rice paddies is not reliable. A strong local SIM is necessary
+Hotel WiFi is good, but don't count on a signal out among the caves, mountains, pagodas or rice paddies — you'll want a strong local SIM
 .
 
 ### Safety

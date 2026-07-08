@@ -4,7 +4,7 @@
 
 **International flight → Bangkok** (Day 1 — start of the trip)
 
-Bangkok is the first stop of the trip: you arrive (18:10) on the international flight at Suvarnabhumi Airport (BKK), the city's main hub. For this evening you have a **private transfer already booked**: the driver waits for you in the arrivals area with the sign and takes you straight to your Silom/Sathon base, no worries after the long flight.
+Bangkok is the first stop of the trip: your international flight lands at 18:10 at Suvarnabhumi Airport (BKK), the city's main hub. For this evening you have a **private transfer already booked** — the driver waits in the arrivals area with a sign and takes you straight to your Silom/Sathon base, so there's nothing to worry about after the long flight.
 
 **From the airport to the centre (Silom/Sathon):**
 - **Booked private transfer** (your solution on arrival): meet in the arrivals area, straight to the hotel
@@ -14,11 +14,11 @@ Bangkok is the first stop of the trip: you arrive (18:10) on the international f
 
 ### Moving On — Flight Bangkok → Siem Reap (morning of October 5)
 
-After four full days in Bangkok, the trip continues towards Cambodia on the **morning of 5 October** with a flight to Siem Reap (~€50, about 1 hour).
+After four full days in Bangkok, the trip carries on to Cambodia on the **morning of 5 October** with a flight to Siem Reap (~€50, about 1 hour).
 - **Flight**: **Thai AirAsia**, departure ~**10:55** from **Don Mueang (DMK)**, arrival in Siem Reap ~**12:15**
-- **Airport**: Don Mueang (DMK), the low-cost hub, north of the city — from the Silom base it's ~40-60 min in morning traffic
-- **Booked private transfer**: for the departure too you have a **private transfer** that picks you up at The Cotton Saladaeng and takes you to DMK — agree with the driver on a time that leaves you **at least 2.5-3 hours** before the flight (AirAsia check-in queues + security). *(Plan B: Grab from the hotel to DMK.)*
-- **In the morning**: quick breakfast, check-out and off to the airport without rushing
+- **Airport**: Don Mueang (DMK), the low-cost hub north of the city — ~40-60 min from the Silom base in morning traffic
+- **Booked private transfer**: for the departure too you have a **private transfer** that collects you at The Cotton Saladaeng and runs you to DMK — settle on a pickup time with the driver that leaves you **at least 2.5-3 hours** before the flight (AirAsia check-in queues plus security). *(Plan B: Grab from the hotel to DMK.)*
+- **In the morning**: a quick breakfast, check-out and off to the airport in good time
 
 **Airlines on the route:**
 - **Thai AirAsia**: the cheapest fares (your choice), direct flights from DMK
@@ -31,14 +31,14 @@ After four full days in Bangkok, the trip continues towards Cambodia on the **mo
 - [Momondo](https://www.momondo.com/flights/bangkok/siem-reap) for the best deals
 
 **Pro tip:**
-September-October offer good fares on the Bangkok–Siem Reap route if you book 2-3 months in advance. Book early to lock in the convenient mid-morning slot.
+September and October bring good fares on the Bangkok–Siem Reap route if you book 2-3 months ahead. Book early to lock in that handy mid-morning slot.
 
 ### Getting Around
 
 **BTS Skytrain & MRT** (The most practical)
 
-BTS tickets cost 16-59 baht (about €0.45-1.65) depending on the distance, while the Airport Rail Link from Suvarnabhumi costs 45 baht.
-The BTS day pass costs 150 THB (about €4.20), worthwhile if you make more than 3-4 journeys a day.
+BTS tickets cost 16-59 baht (about €0.45-1.65) depending on how far you go, while the Airport Rail Link from Suvarnabhumi is a flat 45 baht.
+The BTS day pass is 150 THB (about €4.20), worth it if you make more than 3-4 journeys a day.
 
 **Rechargeable cards:**
 - **Rabbit Card**: costs 200 baht (100 baht refundable deposit + 100 baht credit), valid 5 years and works on all BTS lines
@@ -46,8 +46,8 @@ The BTS day pass costs 150 THB (about €4.20), worthwhile if you make more than
 
 **Grab (Taxi app — highly recommended)**
 
-A standard Grab ride in central Bangkok costs 100-250 THB (€2.8-7) in normal conditions, while short trips of 2-3 km start at 60-80 THB.
-Watch out for surge pricing: at peak hours (17-19) or in the rain prices can rise by 50-200%.
+A standard Grab ride in central Bangkok runs 100-250 THB (€2.8-7) in normal conditions, and short hops of 2-3 km start at 60-80 THB.
+Watch out for surge pricing: at peak hours (17-19) or in the rain, fares can jump by 50-200%.
 
 **Average costs:**
 - Short city-centre ride: 60-120 THB (€1.7-3.4)
@@ -56,7 +56,7 @@ Watch out for surge pricing: at peak hours (17-19) or in the rain prices can ris
 
 **Tuk-tuk** (For the experience)
 
-Prices in Bangkok range from 100-200 baht for short trips, but drivers often quote 150-300 THB for routes that would cost 60 THB by Grab. It's more of a tourist experience than practical transport.
+Fares run 100-200 baht for short trips, but drivers often quote 150-300 THB for routes that would cost 60 THB by Grab. Think of it as a tourist experience rather than practical transport.
 
 **Useful apps:**
 - **Grab** (indispensable)
@@ -69,8 +69,8 @@ Prices in Bangkok range from 100-200 baht for short trips, but drivers often quo
 
 **The Cotton Saladaeng Hotel** — 14, 1 Soi Sathon 2, Si Lom, Bang Rak
 - **Area**: Silom/Sathon, the business district, quiet and safe in the evening
-- **Connections**: a short walk from BTS Sala Daeng and MRT Silom, with Lumphini Park nearby — an ideal base to reach the temples, Chinatown and the out-of-town markets
-- **Why here**: central, well-served location, an orderly neighbourhood, convenient both for getting back in the evening and for setting off towards Don Mueang on the last morning
+- **Connections**: a short walk from BTS Sala Daeng and MRT Silom, with Lumphini Park nearby — an ideal base for reaching the temples, Chinatown and the out-of-town markets
+- **Why here**: a central, well-connected spot in a tidy, orderly neighbourhood, handy both for getting home in the evening and for heading off to Don Mueang on the final morning
 
 **Budget alternatives in the same range (~€35/night for a double room):**
 
@@ -105,9 +105,9 @@ The best budget hotels in Bangkok offer clean private rooms, air conditioning, f
 
 **Best operators:**
 
-**AIS**: recommended as the best SIM at Bangkok airport, an excellent network with no speed restrictions for tourist SIMs
+**AIS**: widely rated the best SIM at Bangkok airport — an excellent network with no speed caps on its tourist SIMs
 
-**True-DTAC**: technically two different operators but they belong to the same company after the merger
+**True-DTAC**: technically two separate operators, but part of the same company since the merger
 
 **Where to buy:**
 
@@ -125,7 +125,7 @@ Official AIS, True and DTAC shops in the arrivals hall of Suvarnabhumi (BKK) and
 
 **Registration:**
 
-All SIMs require registration with a passport under Thai law. At the airport the staff handle everything: passport copy, system registration and activation in a few minutes
+Thai law requires every SIM to be registered against a passport. At the airport the staff handle the lot — passport copy, registration and activation — in a few minutes
 
 **Public WiFi:** Available in hotels, shopping centres and BTS/MRT stations.
 Airport free WiFi available to call a Grab if the SIM queues are long.
@@ -133,13 +133,13 @@ Airport free WiFi available to call a Grab if the SIM queues are long.
 ### Safety
 
 **Common scams to avoid:**
-- **Taxis without a meter**: Taxis have earned a reputation for not using the meter, but most drivers accept metered rides that cost at least 50% less than the fixed prices
-- **Inflated tuk-tuks**: They're more expensive than Grab, always haggle and clarify the price with the driver to avoid scams
-- **Unofficial guides**: Avoid "guides" who approach you in the street
+- **Taxis without a meter**: taxis have a reputation for "forgetting" the meter, but most drivers will accept a metered ride — which usually costs at least 50% less than a fixed price
+- **Inflated tuk-tuks**: they cost more than Grab, so always agree the price with the driver up front to avoid being overcharged
+- **Unofficial guides**: steer clear of "guides" who approach you in the street
 
 **Safe areas:**
 - All the main tourist areas (Siam, Silom, Sukhumvit)
-- There's nothing inherently dangerous about hostels and budget accommodation in Southeast Asia (unlike many Western cities where cheap accommodation = a rough area)
+- There's nothing inherently dodgy about hostels and budget accommodation in Southeast Asia (unlike many Western cities, where cheap lodgings often mean a rough area)
 
 **Emergency numbers:**
 - **Tourist police**: 1155
@@ -148,10 +148,10 @@ Airport free WiFi available to call a Grab if the SIM queues are long.
 - **Fire brigade**: 199
 
 **Safety tips:**
-- Always use Grab instead of street taxis in tourist areas
-- You can't book taxis in restricted areas or places with security issues, even with an app. For safety, use taxis from busy areas or designated pickup points
-- Avoid displaying valuables in crowded areas
-- Use a VPN for security on public WiFi and to get around some internet censorship in Thailand
+- Always use Grab rather than street taxis in tourist areas
+- In restricted or sensitive areas you may not be able to book a taxi even through an app; for safety, pick one up from a busy street or a designated pickup point
+- Don't flash valuables in crowded places
+- Use a VPN to stay secure on public WiFi and to get around some of Thailand's internet censorship
 
 **Recommended neighbourhoods for accommodation:**
 - **Siam/Sukhumvit**: Central, safe, well connected

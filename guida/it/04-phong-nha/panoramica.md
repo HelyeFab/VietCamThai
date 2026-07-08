@@ -96,5 +96,3 @@ La Valle di Bong Lai è un precinto rurale a circa 8 km dalla città di Phong Nh
 . Qui trovi il famoso Duck Stop per birre al tramonto e 
 The Pub with Cold Beer — un abbeveratoio tutto il giorno che serve pollo fresco. Vai in bicicletta nella Valle di Bong Lai per il vero Vietnam rurale
 .
-
-.jpg)

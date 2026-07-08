@@ -1,7 +1,7 @@
 # FOOD & CULTURE 🍜
 
-Bangkok isn't just the capital of Thailand, it's the true paradise of street food and Asian gastronomy.
-It's no accident that Bangkok is a food lover's paradise to the point that here you can even find Michelin-starred street food restaurants at very low prices.
+Bangkok isn't just the capital of Thailand — it's the spiritual home of street food and Asian cooking.
+And it's no accident: this is such a food lover's paradise that you'll even find Michelin-starred street food here, at astonishingly low prices.
 
 ![Street food in Chinatown (Yaowarat)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/2016_Bangkok%2C_Dystrykt_Samphanthawong%2C_Ulica_Yaowarat%2C_Uliczne_jedzenie_%2801%29.jpg/1280px-2016_Bangkok%2C_Dystrykt_Samphanthawong%2C_Ulica_Yaowarat%2C_Uliczne_jedzenie_%2801%29.jpg)
 
@@ -21,7 +21,7 @@ You can't visit Bangkok without eating Pad Thai, the national dish, at least onc
 
 Som Tum is a spicy, crunchy salad made from green papaya, tomatoes, peanuts, garlic, lime, fish sauce and pounded chillies. It's fresh but pungent, and represents the perfect balance of sweet, salty and spicy typical of Thai cuisine.
 
-It's a salad based on grated green papaya, with lime, chilli, peanuts and — for those who like it — dried prawns too. Fresh, spicy, crunchy, it's perfect to start a meal or as an accompaniment to richer dishes. An explosion of acidity and fire, but with surprising balance.
+Built around grated green papaya with lime, chilli, peanuts and — if you fancy it — a scattering of dried prawns, it's fresh, fiery and crunchy, perfect to open a meal or to offset richer dishes. An explosion of acidity and heat, yet somehow perfectly balanced.
 
 **🍛 Khao Pad (ข้าวผัด) - 80-120 THB (€2-3)**
 
@@ -41,7 +41,7 @@ Grilled pork skewers, called Moo Ping, are one of the simplest but tastiest thin
 
 **🌟 Raan Jay Fai**
 - **Address:** 327 Mahachai Road, Phra Nakhon
-- **Specialty:** It became famous for its traditional Thai cooking, in particular for the crab omelette, a generous, soft and enveloping omelette. For this dish (and others) it earned a Michelin star: an extraordinary feat in the world of street food.
+- **Specialty:** Famous for its traditional Thai cooking, and above all for the crab omelette — a generous, silky, wraparound thing of beauty. It's this dish (among others) that earned the place a Michelin star, an extraordinary feat in the world of street food.
 - **Price:** 600-1,500 THB (€15-40)
 - **Tip:** Be prepared to queue for 2-3 hours!
 
@@ -50,7 +50,7 @@ Grilled pork skewers, called Moo Ping, are one of the simplest but tastiest thin
 **🍽️ Supanniga Eating Room**
 - **Address:** 160/11 Soi Sukhumvit 55, Khlong Tan Nuea, Watthana, Bangkok 10110
 - **Price:** Most dishes between 180-390 THB / 5.00-10.80 USD; cocktails from 290 THB / 8.00 USD
-- **Why we like it:** Supanniga Eating Room draws the crowds for its skilfully prepared Thai food and its lively, informal atmosphere. It draws on the cooking of the owner's grandmother and aims to bring the recipes of her hometown, the eastern province of Trad, into a contemporary setting in Bangkok.
+- **Why we like it:** Supanniga Eating Room pulls in the crowds with beautifully prepared Thai food and a lively, informal buzz. The menu draws on the cooking of the owner's grandmother, bringing the recipes of her hometown in the eastern province of Trad into a contemporary Bangkok setting.
 
 **🌶️ Khua Kling Pak Sod**
 - **Address:** 98/1 Pai Di Ma Di Klang lane, Khlong Tan Nuea, Watthana, Bangkok 10110
@@ -59,7 +59,7 @@ Grilled pork skewers, called Moo Ping, are one of the simplest but tastiest thin
 
 **🍤 Charmgang**
 - **Address:** 14, Soi Charoen Krung 35 (Nakhon Kasem 5 lane), Talat Noi, Samphanthawong, Bangkok, 10100
-- **Atmosphere:** The elegant décor, lively music and hidden location in a lane in the trendy Talad Noi neighbourhood make Charmgang one of Bangkok's best restaurants for curry connoisseurs. The neon-lit house features contemporary art and an open kitchen, where the chefs work with carefully prepared ingredients.
+- **Atmosphere:** Elegant décor, lively music and a tucked-away location down a lane in the trendy Talad Noi neighbourhood make Charmgang one of Bangkok's best restaurants for curry connoisseurs. The neon-lit house is hung with contemporary art and built around an open kitchen, where the chefs work with meticulously prepared ingredients.
 
 #### Places for the Evening
 
@@ -71,13 +71,13 @@ Grilled pork skewers, called Moo Ping, are one of the simplest but tastiest thin
 **🥘 Nalin Kitchen**
 - **Area:** Near the main attractions
 - **Budget:** Cheap and family-run
-- **Google Maps:** click here for directions on how to reach it on Google Maps
+- **Google Maps:** click here for directions on Google Maps
 
 ### Markets
 
 #### Chatuchak Weekend Market
 
-With more than 400 food stalls, you won't struggle to find something to eat at the market. You'll mostly find Thai cuisine, but there are also some stalls offering international food.
+With more than 400 food stalls, you'll be spoilt for choice here. Thai cuisine dominates, but a handful of stalls serve international food too.
 
 - **Hours:** Saturday and Sunday: open from 6:00 to 18:00
 - **How to get there:** Chatuchak market is easily reached by metro. Stop at Kamphaeng Pet or Suan Chatuchak station. You can also take the skytrain and get off at Mo Chit station.
@@ -85,7 +85,7 @@ With more than 400 food stalls, you won't struggle to find something to eat at t
 
 #### Pak Khlong Talat (Flower Market)
 
-Pak Khlong Talat is famous as Bangkok's flower market, but travelers often miss the fact that the surrounding streets can be excellent for late-night snacking. When the flowers are flowing and the city is cooler, it's a surprisingly atmospheric time to hunt for something delicious nearby.
+Pak Khlong Talat is famous as Bangkok's flower market, but travellers often miss just how good the surrounding streets are for late-night snacking. Once the flowers are in full flow and the city has cooled, it's a surprisingly atmospheric place to go hunting for something delicious.
 
 - **Hours:** 24h, but better after dinner for the street food
 - **Specialty:** Jok (โจ๊ก) — Rice porridge with ginger, pork, and a soft egg: gentle, warming, late-night perfect. Kuay teow (ก๋วยเตี๋ยว) — Noodle soup stalls often run late; choose your noodle type and protein.
@@ -101,22 +101,22 @@ Khlong Toei Market is the real deal: busy aisles, towering piles of herbs, baske
 
 #### In the Temples
 
-Visiting a temple in Thailand is a fascinating and spiritual experience, but it's important to respect some rules of behaviour to show respect for the local culture and traditions. Clothing: it's advisable to wear modest clothes. Avoid shorts, short skirts, tank tops and clothes that leave the shoulders bare. Bring a sarong or a shawl to cover up if necessary. Footwear: before entering the temple, take off your shoes.
+Visiting a temple in Thailand is a fascinating, spiritual experience, but there are a few rules of etiquette to follow out of respect for the local culture and traditions. Clothing: dress modestly, and avoid shorts, short skirts, tank tops and anything that bares the shoulders. Bring a sarong or a shawl to cover up if you need to. Footwear: take off your shoes before you step inside.
 
-The general rules for clothing that will be considered inoffensive are simple: shoulders and knees always covered, for men and women alike.
+The rule of thumb for dressing appropriately is simple: shoulders and knees always covered, for men and women alike.
 
-Interacting with monks: women generally cannot touch monks or hand objects to them directly. If a woman needs to give something to a monk, she should pass it to a man who will then pass it to the monk. Always show respect when speaking to a monk.
+Interacting with monks: women generally may not touch monks or hand objects to them directly. If a woman needs to give something to a monk, she should pass it to a man, who then passes it on. Always be respectful when speaking to a monk.
 
 #### At the Table
 
-When handing something to a person, you should use both hands or at most the right hand.
+When handing something to someone, use both hands, or at least your right hand.
 
-When you're a guest of a Thai person, it's always good to accept and taste what is offered; refusing will appear an act of rudeness.
+When a Thai host offers you food, it's good manners to accept and taste it; turning it down can come across as rude.
 
 #### Behaviours to Avoid
-- Never point at something with your foot, or touch someone's head, even as a joke: the foot is considered the lowest and most impure part of the body, the head the most sacred.
-- Avoid public displays of affection, shouting or aggressive behaviour: conduct in Thailand is marked by self-control and discretion, and losing your temper will never earn you points.
-- Feet, especially the soles, are held to be a disgusting and repugnant part of the body. One taboo is pointing your feet in someone's direction, as this is considered an extremely rude gesture. The same goes for pointing your feet towards a statue of the Buddha, an act seen as a genuine offence to the deity.
+- Never point at anything with your foot, or touch someone's head, even in jest: the foot is seen as the lowest, most impure part of the body, the head the most sacred.
+- Avoid public displays of affection, shouting or aggressive behaviour: Thai social life runs on self-control and discretion, and losing your temper will never win you any favours.
+- Feet, and the soles especially, are considered unclean. Pointing your feet at someone is deeply rude, and pointing them towards a statue of the Buddha is taken as a genuine insult to the deity.
 
 ### Useful Words
 
@@ -148,13 +148,13 @@ When you're a guest of a Thai person, it's always good to accept and taste what 
 
 #### Bonus Tips
 
-Even if your pronunciation isn't precise, context will help Thais understand your intentions. What matters is trying: your effort will always be appreciated.
+Even if your pronunciation is a little off, context will help Thais catch your meaning. What counts is having a go — the effort is always appreciated.
 
 **💰 Recommended daily budget for food:**
 - **Street food:** 200-400 THB (€5-10)
 - **Local restaurants:** 400-800 THB (€10-20)
 - **Starred restaurants:** 1,500-3,000 THB (€40-80)
 
-Watch the queue: if there's a line of locals, it's a good sign. Prefer food cooked to order. Avoid raw foods if you're not used to them. Always carry wet wipes or hand sanitiser. Only drink sealed bottled water.
+Watch the queue: a line of locals is always a good sign. Go for food cooked to order, and steer clear of raw dishes if you're not used to them. Always carry wet wipes or hand sanitiser, and only drink sealed bottled water.
 
 ---

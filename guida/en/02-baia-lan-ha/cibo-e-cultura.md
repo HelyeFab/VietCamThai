@@ -7,155 +7,103 @@
 
 ### Must-Try Typical Dishes
 
-Lan Ha Bay, located near the famous Ha Long Bay, offers extraordinary cuisine that reflects the richness of the sea and the culinary traditions of northern Vietnam. Here are the dishes you absolutely must try:
+Just along the coast from famous Ha Long Bay, Lan Ha Bay serves up extraordinary food that draws on the bounty of the sea and the cooking traditions of northern Vietnam. Here are the dishes you really shouldn't miss:
 
 **Cha Muc (Squid Cakes) - The King of the Bay**  
 
-Cha Muc is a renowned dish originating from Quang Ninh province, recognised as one of Vietnam's most important regional specialities. This delicacy consists of squid cakes, with the best versions made from squid caught specifically in Ha Long Bay
-. 
-The preparation process involves finely grinding the squid flesh by hand, followed by frying over medium heat until the cakes reach a delicious golden colour
-. 
-- **Price**: 
-150,000-300,000 VND (~6.50-13 USD) per person
+Cha Muc hails from Quang Ninh province and is one of Vietnam's best-loved regional specialities. These squid cakes are at their finest when made from squid caught right in Ha Long Bay: the flesh is finely ground by hand, then fried over medium heat until the cakes turn a gorgeous golden brown.
+- **Price**: 150,000-300,000 VND (~6.50-13 USD) per person
 
-- **Where to find them**: 
-Hong Hanh is one of the most famous seafood restaurants in Ha Long Bay. It's loved by locals and tourists alike for its Cha Muc (grilled squid cakes)
+- **Where to find them**: Hong Hanh, one of the most famous seafood restaurants in Ha Long Bay, is a favourite with locals and tourists alike for its Cha Muc (grilled squid cakes).
 
 **Sa Sung (Sea Worms) - Local Delicacy**  
 
-This refers to a type of marine worm found predominantly around Quan Lan Island. These worms thrive beneath the top layer of sand in clean waters, making them a delicacy sought after by many
-. 
-In 2025, prices typically range from 3,000,000 VND to 5,000,000 VND per kilogram (about 2.2 pounds), making it still a prized addition to any meal
-.
+These are marine worms found mostly around Quan Lan Island, where they live just beneath the surface layer of sand in clean water — which is exactly why they're so prized. In 2025 they typically fetch between 3,000,000 VND and 5,000,000 VND per kilogram (about 2.2 pounds), so they remain a luxurious addition to any meal.
 
 **Tôm Hùm và Tôm Tươi (Lobster and Fresh Prawns)**  
 
-Lobster and fresh prawns remain two of Ha Long Bay's greatest culinary delights in 2025. Caught directly from local waters and served fresh, you won't find tastier seafood anywhere else!
+Lobster and fresh prawns are still two of Ha Long Bay's greatest culinary treats in 2025. Hauled straight from local waters and served fresh, they're about as good as seafood gets.
 
 **Bún Tôm Que (Vermicelli with Prawns)**  
 
-Seafood vermicelli: A favourite breakfast featuring a light, sweet broth made from fish bones, garnished with prawns and squid
-.
-- **Price**: 
-50,000–80,000 VND (~2–3.20 USD)
+A favourite breakfast: seafood vermicelli in a light, sweet broth made from fish bones, topped with prawns and squid.
+- **Price**: 50,000–80,000 VND (~2–3.20 USD)
 
 ### Our Recommended Restaurants and Street Food
 
 **Hong Hanh Restaurant**  
-**Address**: 
-No. 50 Ha Long Street, Bai Chay Ward, Halong City
-  
-**Price range**: 
-200,000 – 400,000 VND per person
-  
-Famous for its squid cakes and authentic atmosphere.
+**Address**: No. 50 Ha Long Street, Bai Chay Ward, Halong City  
+**Price range**: 200,000 – 400,000 VND per person  
+Famous for its squid cakes and its authentic atmosphere.
 
 **Linh Dan Restaurant**  
-**Address**: 
-No. 104 Bai Chay Street, Bai Chay Ward, Halong City
-  
-**Price range**: 
-250,000 – 500,000 VND per person
-  
+**Address**: No. 104 Bai Chay Street, Bai Chay Ward, Halong City  
+**Price range**: 250,000 – 500,000 VND per person  
 
-Linh Dan is a large restaurant, perfect for families and groups. It serves many local seafood dishes, such as crab, prawns, squid and fish cooked in traditional Vietnamese styles
-.
+Linh Dan is a big place, ideal for families and groups. It does plenty of local seafood — crab, prawns, squid and fish, all cooked in traditional Vietnamese styles.
 
 **Yummy Restaurant (Cat Ba)**  
-**Address**: 
-No 180, Nui Ngoc Street, Cat Ba town, Vietnam
-  
+**Address**: No 180, Nui Ngoc Street, Cat Ba town, Vietnam  
 
-Yummy Restaurant is a great place to enjoy seafood and focuses on Asian cuisine, particularly Vietnamese dishes such as Pho, Fried Rice, Salads, Spring Rolls and other fresh fish dishes
-.
+Yummy is a great spot for seafood, leaning towards Asian cooking and Vietnamese dishes in particular — pho, fried rice, salads, spring rolls and all manner of fresh fish.
 
 **My Way Café & Restaurant (Cat Ba)**  
 **Address**: Cat Ba Town  
 
-My Way Café & Restaurant is an open-air spot with a lovely view over the Bay. The menu includes dishes from Asia to Europe, Pizza and delicious coffee — there's no traditional Vietnamese food. The restaurant has options for vegan food and serves all day from breakfast to late dinner
-.
+My Way is an open-air spot with a lovely view over the bay. The menu ranges from Asian to European, with pizza and excellent coffee — though no traditional Vietnamese food. There are vegan options too, and it serves all day, from breakfast right through to a late dinner.
 
 **Noble House Restaurant (Cat Ba)**  
-**Address**: 
-19 Khu 4, Một Tháng Tư, thị trấn Cát Bà, Hải Phòng
-  
-**Price range**: 
-200,000 – 350,000 VND per person
-  
+**Address**: 19 Khu 4, Một Tháng Tư, thị trấn Cát Bà, Hải Phòng  
+**Price range**: 200,000 – 350,000 VND per person  
 
-Noble House is a small, cosy restaurant. It serves Vietnamese seafood and Western comfort food, making it suitable for different tastes
-.
+Noble House is a small, cosy restaurant serving Vietnamese seafood alongside Western comfort food, so there's something for everyone.
 
 **VuiFest Beach Night Market (Cat Ba)**  
 
-In 2025, a new addition called the VuiFest Beach Night Market officially opened, bringing more evening activities and entertainment options to the island
-. 
-Best times to go: The market usually gets lively from 18:00 to 21:30, when most of the food stalls are open and the live performances begin
-.
+The VuiFest Beach Night Market opened in 2025, adding more evening buzz and entertainment to the island. It usually comes alive from 18:00 to 21:30, when most of the food stalls are up and running and the live performances kick off.
 
 ### Markets
 
 **Cat Ba Market (Seafood Market)**  
-**Location**: 
-Cat Ba Market (also known as Cat Ba Seafood Market) is located in the centre of Cat Ba Town on Cat Ba Island, Hai Phong
-  
-**Layout**: 
-The market is divided into 3 main areas: the seafood market, the vegetable market and the meat market
+**Location**: Cat Ba Market (also known as Cat Ba Seafood Market) sits in the centre of Cat Ba Town on Cat Ba Island, Hai Phong  
+**Layout**: The market splits into 3 main areas — seafood, vegetables and meat  
 
-**Hours and atmosphere**: 
-This market opens from early morning when the fishing boats dock at the port and transfer all the seafood they've caught to the market to serve people's needs until late at night
+**Hours and atmosphere**: It opens at first light, when the fishing boats dock and unload their catch, and keeps going until late at night  
 
-**What to buy**: 
-Coming here, you'll be able to find Cat Ba specialities such as dried squid, Cat Hai fish sauce, mantis shrimp... as well as good food or souvenirs in the food court, souvenir shops, clothing sections... The seafood here is very fresh, diverse and abundant with many kinds from small to large
+**What to buy**: This is the place for Cat Ba specialities such as dried squid, Cat Hai fish sauce and mantis shrimp, plus food, souvenirs and clothing in the food court, gift shops and stalls. The seafood is remarkably fresh, varied and plentiful, in every size from small to large  
 
-**Insider trick**: 
-If you buy the fresh ones, you can have some nearby restaurants cook them right away for your meal. It costs you only 2-4 USD extra for a truly delicious dish
+**Insider trick**: Buy your seafood fresh and a nearby restaurant will cook it up for you on the spot — a truly delicious meal for just 2-4 USD extra  
 
 **Cat Ba Night Market**  
 
-The night market operates daily from 17:00 to 23:00 (until midnight at weekends)
-. 
-For the freshest selection, arrive before 19:00
-.
+The night market runs daily from 17:00 to 23:00 (until midnight at weekends). For the freshest pick, get there before 19:00.
 
 ### Etiquette and Culture
 
 **In Temples and Sacred Places**  
 
-When visiting temples, wear modest clothing and always remove your shoes and hat
-. 
-When visiting religious or sacred sites, such as temples, pagodas or family altars, dressing conservatively is crucial. Both men and women should avoid shorts and sleeveless tops. Instead, opt for clothing that covers shoulders and knees
-.
+At temples, dress modestly and always take off your shoes and hat. At any religious or sacred site — temples, pagodas or family altars — conservative dress really matters: both men and women should skip shorts and sleeveless tops in favour of clothing that covers the shoulders and knees.
 
 **At the Table**  
 
-When eating at street stalls or restaurants, it's important to finish all the food on your plate as this shows appreciation for the cook's efforts. Also, in Vietnamese culture, chopstick etiquette is important—never leave your chopsticks standing upright in a bowl of rice, as this recalls incense offerings to the dead
-.
+At street stalls and restaurants alike, try to finish everything on your plate — it shows you appreciate the cook's efforts. Chopstick etiquette matters too: never leave your chopsticks standing upright in a bowl of rice, as it echoes the incense offerings made to the dead.
 
-Wait for the host: Allow the host or their family members to start eating before you take your first bite. Be mindful of your chopsticks: Use them appropriately, avoid pointing with them or leaving them standing in your bowl
-.
+Wait for the host, and let them or their family start eating before you take your first bite. Mind your chopsticks as well: use them properly, and don't point with them or leave them standing in your bowl.
 
 **Public Behaviour**  
 
-As a general rule, keep calm and avoid heated arguments, making scenes, scolding others for mistakes, or pointing out anything that might cause locals to lose face
-. 
-Vietnamese people don't like public displays of affection, and men and women often don't touch in front of others. Try to respect local feeling by keeping public displays of affection to a minimum
-.
+As a rule, stay calm and steer clear of heated arguments, scenes, telling people off for mistakes, or anything that might make a local lose face. Vietnamese people aren't keen on public displays of affection, and couples often avoid touching in front of others, so respect the local mood and keep such displays to a minimum.
 
 **Respect for Elders**  
 
-One of the most evident aspects of Vietnamese culture is the importance placed on respect for elders. In many Vietnamese families and social settings, age plays a key role in determining how people communicate with one another. Younger individuals often show respect through polite language, attentive listening and small gestures such as greeting older people first
-.
+One of the most striking things about Vietnamese culture is how much respect is shown to elders. In many families and social settings, age shapes the way people speak to one another. Younger people show their respect through polite language, attentive listening and small gestures — greeting older people first, for instance.
 
 **Common Mistakes to Avoid**  
-- 
-Avoid touching someone's head. Even a seemingly friendly pat could be misinterpreted unless the gesture comes from a relative or close friend
+- Don't touch anyone's head. Even a friendly pat can be taken the wrong way unless it comes from a relative or close friend
 
-- 
-When entering someone's home, remove your shoes just outside the door. Vietnamese families keep altars in their shops and homes, including some at ground level: Do not step over these ground-level altars or walk directly in front of them
+- When entering someone's home, leave your shoes just outside the door. Vietnamese families keep altars in their shops and homes, some of them at ground level: never step over these ground-level altars or walk directly in front of them
 
-- 
-Avoid touching someone's head, pointing with your finger, or standing your chopsticks upright in the rice
+- Don't touch people's heads, point with your finger, or stand your chopsticks upright in the rice
 
 ### Useful Words
 
@@ -208,12 +156,8 @@ For a woman a little older than you - Chị means "older sister"
 - **Một, hai, ba, yooo!** (mot, hai, ba, yoo) - 
 Cheers!
 
-**Tip**: 
-Don't be nervous about pronunciation! Locals love it when foreigners embrace their language
-. 
-Don't stress too much about perfect tones when you're first learning Vietnamese greetings. Vietnamese people are extremely hospitable and won't blame you for mispronunciation
-.
+**Tip**: Don't be shy about your pronunciation! Locals love it when foreigners have a go at their language. Don't fret over getting the tones perfect while you're just starting out with a few greetings — Vietnamese people are wonderfully hospitable and won't hold a mispronunciation against you.
 
-Your trip to Lan Ha Bay will be enriched by these authentic flavours and the cultural connections you'll make along the way. Enjoy your meal and have a great trip! 🇻🇳
+These authentic flavours, and the connections you'll make along the way, will make your trip to Lan Ha Bay all the richer. Enjoy your meal and have a wonderful trip! 🇻🇳
 
 ---

@@ -162,10 +162,10 @@ Bring cash: many places prefer VND even though cards work in the larger spots
 
 - For the tailors, allow at least 24-48 hours for alterations
 
-**🏨 Recommended accommodation**: Your €28/night could be spent at a guesthouse in the historic centre or near An Bang Beach for easy access to the beach.
+**🏨 Recommended accommodation**: Your €28/night stretches to a guesthouse in the historic centre, or one out near An Bang if you'd rather have the beach on your doorstep.
 
-The combination of ancient culture, relaxing beaches and extraordinary cuisine will make these three days in Hoi An unforgettable. Every bite of
-cao lau - unique in the world because it's made only here with the water from the Ba Le well
-- will bring you back to the authentic flavours of historic Vietnam!
+Between the ancient culture, the easy beach days and the extraordinary food, these three days in Hoi An will stay with you. And every bite of
+cao lau — found nowhere else in the world, because it's made only here with water from the Ba Le well
+— brings you straight back to the authentic flavours of old Vietnam!
 
 ---

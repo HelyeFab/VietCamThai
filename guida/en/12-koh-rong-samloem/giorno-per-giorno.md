@@ -5,7 +5,7 @@
 ![Beach on Koh Rong Samloem](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Koh_Rong_Samloen_beach_-_panoramio.jpg/1280px-Koh_Rong_Samloen_beach_-_panoramio.jpg)
 
 ### Morning
-After the last temples in Siem Reap, you move towards the southern coast: it's a long travel day. Van or bus from **Siem Reap to Sihanoukville**, from where the fast ferry to the island departs.
+After the last temples in Siem Reap, you head for the southern coast: it's a long travel day. Van or bus from **Siem Reap to Sihanoukville**, where the fast ferry to the island departs.
 
 **The transfer**:
 - From Siem Reap to Sihanoukville: daytime bus/minivan (long, ~8-10 hours) or a domestic flight (~1h) to save time
@@ -13,7 +13,7 @@ After the last temples in Siem Reap, you move towards the southern coast: it's a
 - The companies run 2-3 departures a day: aim to leave Siem Reap early to catch the early-afternoon ferry
 
 ### Afternoon
-Arrival at **Saracen Bay**, check in to the bungalow and first swim. No plans: after a full day on the road, this is the moment to drop your backpack and the rhythms of the previous weeks. Confirm in advance that your accommodation is open and operating: in recent years several resorts on the Saracen Bay side have closed.
+Arrival at **Saracen Bay**, check in to the bungalow and first swim. No plans: after a full day on the road, this is the moment to drop your backpack and shed the pace of the previous weeks. Confirm in advance that your accommodation is open and operating: in recent years several resorts on the Saracen Bay side have closed.
 - Stroll along the two kilometres of white sand in the bay
 - A swim in the calm, shallow water, perfect even for those who aren't strong swimmers
 - Sundowner with your feet in the sand at one of the beach bars
@@ -61,7 +61,7 @@ No alarm, no transfer: today the island is all yours one last time. It's the day
 - For those who prefer it, simply a hammock and a book in the shade of the palms — **blissful idleness** all the way
 
 ### Afternoon
-One last tour of the island's most beautiful corners before leaving it:
+One last tour of the island's loveliest spots before you leave:
 - Walk back to **Lazy Beach** or stroll towards **M'Pai Bay** if you haven't been yet
 - An afternoon on the beach, a final dip and a few photos in the golden light
 - **Pack your backpack calmly** and check that you have enough **cash** for the whole of tomorrow's travel day: there are no ATMs on the island

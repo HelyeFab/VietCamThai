@@ -55,7 +55,7 @@ Begin the climb about an hour before sunset
 .
 
 **Dinner:** **Hoang Cuisine** — 
-set in the heart of Tam Coc, an open-air setting that lets you enjoy the natural surroundings, known for its elegant atmosphere that captures the essence of Vietnamese hospitality
+right in the heart of Tam Coc, an open-air spot that lets you soak up the surrounding scenery, with an elegant atmosphere that captures the essence of Vietnamese hospitality
 . 
 Try the goat meat (a Ninh Binh specialty), fried rice and Vietnamese soups including Bún Riêu
 .
@@ -84,7 +84,7 @@ The boat tour on the Ngo Dong River costs 250,000 VND and lasts 1.5–2 hours th
 .
 
 **A unique experience:** 
-Your rower doesn't use the oars with their hands but sits at the back of the sampan, with the oars hooked under their feet, pushing the boat forward with a rhythmic leg movement — this centuries-old technique developed because rowing by hand all day causes severe back pain
+Instead of rowing by hand, your rower sits at the back of the sampan with the oars hooked under their feet and drives the boat forward with a steady, rhythmic push of the legs — a centuries-old technique that grew up because a full day of hand-rowing wrecks your back
 . 
 Most rowers are women because they are considered more patient and skilled at this technique
 .
@@ -98,7 +98,7 @@ Tam Coc is shorter and more intimate (1.5–2 hours vs Trang An's 2.5+ hours), m
 
 ### Afternoon
 **Bike ride through the rice paddies** — 
-Almost all the accommodation in the area provides bicycles, often free for guests. The terrain between the limestone mountains is completely flat, and it's incredible to pedal around the rivers, lakes, mountains and rice paddies
+Almost every place to stay lays on bicycles, often free for guests. The ground between the limestone peaks is completely flat, and it's a joy to pedal past the rivers, lakes, mountains and rice paddies
 .
 
 **Suggested route:** From the centre of Tam Coc to Bich Dong Pagoda and back (about 15 km). 
@@ -125,7 +125,7 @@ Juicy burgers, German sausages grilled to perfection and fresh salads
 .
 
 **Dinner:** **Minh Toan Restaurant** — 
-considered the best restaurant in Tam Coc for several reasons: the food was absolutely delicious and tasted homemade, the staff were wonderful and smiling the whole time
+widely rated the best restaurant in Tam Coc, and for good reason: the food is delicious and properly homemade, and the staff are warm and smiling from start to finish
 . 
 Recommended dishes: spring rolls, goat pho and mixed fried dishes
 .
@@ -147,6 +147,6 @@ Be ready for the roving vendors halfway along the route — they're polite, and 
 The departure point is listed on Google Maps as "Trang An Departure Boat Ticket"
  — handy for finding the spots tomorrow if you move around
 
-Your stay in Ninh Binh will have shown you why this region is called "the Halong Bay on land" — but with an authenticity and tranquility that make it even more special. Tomorrow the journey to your next destination awaits!
+By now Ninh Binh will have shown you exactly why it's called "the Halong Bay on land" — but with an authenticity and tranquillity that make it something even more special. Tomorrow, the road to your next destination beckons!
 
 ---

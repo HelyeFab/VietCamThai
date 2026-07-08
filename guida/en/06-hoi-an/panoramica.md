@@ -1,7 +1,7 @@
 ## Hoi An — Overview
 
 Imagine walking at sunset through cobbled lanes lit by thousands of colourful lanterns reflected in the Thu Bon River, while the air is scented with spices and incense.
-Simply strolling through its streets and less-travelled alleys, especially as the sun goes down and the magic of the lit lanterns arrives, is pure magic
+Simply wandering its streets and quieter back alleys, especially as the sun goes down and the lanterns flicker on, is an experience in itself
 .
 Hoi An is an exceptionally well-preserved example of a Southeast Asian trading port dating from the 15th to the 19th century
 .
@@ -9,7 +9,7 @@ Hoi An is an exceptionally well-preserved example of a Southeast Asian trading p
 ![Hoi An lit up by lanterns](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/H%E1%BB%99i_An%2C_Ancient_Town%2C_2020-01_CN-05.jpg/1280px-H%E1%BB%99i_An%2C_Ancient_Town%2C_2020-01_CN-05.jpg)
 
 Hoi An is an exceptional manifestation of the fusion of cultures over time in an international trading port. Its buildings and street layout reflect the influences, both indigenous and foreign, that combined to produce this unique heritage site
-. It's what happens when Japanese, Chinese, Vietnamese and Europeans decide to live together and trade for centuries: an architectural masterpiece is born that is far more than the sum of its parts.
+. It's what happens when Japanese, Chinese, Vietnamese and Europeans live and trade side by side for centuries: an architectural masterpiece that adds up to far more than the sum of its parts.
 
 ### History & Culture
 
@@ -21,8 +21,8 @@ the centre of trade with the Chinese, Japanese and other peoples, who left it a 
 ![The Japanese Bridge of Hoi An](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Japanese_covered-bridge_of_Hoi_An_in_2015_07.jpg/1280px-Japanese_covered-bridge_of_Hoi_An_in_2015_07.jpg)
 
 The most fascinating story?
-Originally Hai Pho, or Hoi An, was a city divided in two, and it was the Japanese who built the famous "covered bridge", the city's symbol, to link their quarter with the Chinese one
-. It wasn't just a bridge: it was a diplomatic gesture in wood and stone.
+Hai Pho, as Hoi An was originally known, was a town split in two, and it was the Japanese who built the famous "covered bridge" — now the city's emblem — to link their quarter with the Chinese one
+. It was never just a bridge: it was a diplomatic gesture in wood and stone.
 
 What's more, Hoi An became one of the gateways for Christianity, with Catholic missionaries who contributed to the creation of Quốc ngữ, the current Vietnamese writing system
 . It was right here in Hoi An that Alexandre de Rhodes landed, the inventor of the alphabet that made it possible to read Vietnamese in Latin characters — essentially the man who allowed us Westerners to at least vaguely pronounce the names of the dishes on the menus!
@@ -50,7 +50,7 @@ check the forecasts and weather bulletins in the days before your arrival, keep 
 ### Getting Your Bearings
 
 Hoi An is one of those cities where getting lost is a pleasure, but finding your way is still useful.
-The historic centre, located in the Minh An district, extends over about 2 square kilometres with narrow, winding streets in a grid pattern
+The historic centre, in the Minh An district, covers about 2 square kilometres of narrow, winding streets loosely laid out on a grid
 .
 
 **The heart: the Old Town**
@@ -78,5 +78,5 @@ An Bang is the most popular beach in the area and lies 5 kilometres north of the
 - My Son = Cham sanctuary 1.5 hours to the west
 
 The beauty of it is that
-the compact size of Hoi An's historic centre lets you cover it comfortably and calmly
-. In 30 minutes on foot you can cross the entire centre — which means more time to enjoy cao lau and white rose, instead of consulting Google Maps!
+the historic centre is small enough to explore at an easy, unhurried pace
+. You can walk from one side to the other in 30 minutes — which means more time for cao lau and white rose, and less time squinting at Google Maps!

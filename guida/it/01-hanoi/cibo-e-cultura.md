@@ -1,6 +1,3 @@
-Ora cerco immagini di piatti vietnamiti da Wikimedia Commons per completare la guida:
-Ora ho raccolto abbastanza informazioni per scrivere la guida completa. Creerò una sezione "CIBO E CULTURA" per Hanoi ben strutturata e dettagliata:
-
 # CIBO E CULTURA - Hanoi, Vietnam
 
 ## Dove e Cosa Mangiare a Hanoi

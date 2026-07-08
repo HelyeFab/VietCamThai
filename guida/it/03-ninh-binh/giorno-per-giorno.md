@@ -1,5 +1,3 @@
-Ora ho tutte le informazioni necessarie per creare la sezione giorno per giorno per Ninh Binh. Procedo con la scrittura della guida:
-
 ## Giorno 25 — 25 Ottobre 2026 — L'Halong Bay Sotterranea
 
 ### Mattina

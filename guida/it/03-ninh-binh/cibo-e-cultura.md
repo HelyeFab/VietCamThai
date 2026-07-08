@@ -1,5 +1,3 @@
-Ora creerò la sezione CIBO E CULTURA della guida di Ninh Binh basata su tutte le informazioni raccolte.
-
 # CIBO E CULTURA
 
 ## Dove e Cosa Mangiare a Ninh Binh

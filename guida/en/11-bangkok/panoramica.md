@@ -22,10 +22,10 @@ Bangkok is the only Southeast Asian capital never to be colonised: the Chakri ki
 
 ### When to Go
 
-Your window — early October — is practically perfect: temperatures around 29-32°C during the day and 24-26°C at night, with humidity settling around 78%.
-The rainy season is in full retreat and rainfall drops from 231mm in September to 186mm in October.
+Your window — early October — is about as good as it gets: temperatures of 29-32°C by day and 24-26°C at night, with humidity settling around 78%.
+The rainy season is in full retreat, and rainfall drops from 231mm in September to 186mm in October.
 
-Expect around 13 rainy days in the month and 186mm of total rainfall, though these are often afternoon downpours lasting 1-2 hours at most.
+Expect around 13 rainy days across the month, though these are usually afternoon downpours that last an hour or two at most.
 You'll get 6 hours of bright sunshine a day (53% of daylight hours), with the sunniest day around 22 October.
 
 **The insider trick:**
@@ -33,8 +33,8 @@ If 2026 turns out to be a particularly wet year, keep an eye out for possible fl
 
 ### Getting Your Bearings
 
-Bangkok is an urban puzzle of 50 districts spreading out around the Chao Phraya River, its vital artery. Think of it as a human body:
-the heart is **Rattanakosin Island**, the historic centre where you'll find the Grand Palace, Wat Pho and the government palaces.
+Bangkok is an urban puzzle of 50 districts fanning out around the Chao Phraya River, its vital artery. Think of it as a human body:
+the heart is **Rattanakosin Island**, the historic centre that holds the Grand Palace, Wat Pho and the government buildings.
 
 **The neighbourhoods that matter to you:**
 

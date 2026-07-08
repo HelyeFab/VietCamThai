@@ -46,7 +46,7 @@ Koh Rong Samloem is reached from the port of **Sihanoukville**. On **Day 8** you
 ### Connectivity & SIM
 
 - **Limited electricity**: often available only during certain hours, from a generator or solar panels. Charge your devices when you can.
-- **Wi-Fi and data**: the connection is slow and intermittent — consider it a plus. A Cambodian SIM (Cellcard or Smart) gets patchy reception at Saracen Bay.
+- **Wi-Fi and data**: the connection is slow and patchy — treat it as part of the escape. A Cambodian SIM (Cellcard or Smart) gets spotty reception at Saracen Bay.
 - **Cash (USD)**: there are no ATMs on the island. Withdraw in Sihanoukville before leaving and bring US dollars in small denominations.
 
 

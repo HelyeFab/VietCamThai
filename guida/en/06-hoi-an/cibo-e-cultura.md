@@ -1,12 +1,11 @@
-Now I can create a complete section on Food and Culture for Hoi An. I'll also look for images of typical dishes.
 # FOOD & CULTURE
 
 ## Where and What to Eat in Hoi An
 
 ![Cao Lau — Hoi An's signature noodles](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Cao_Lau_Noodles_-_Cao_Lau_%2B_Spring_Rolls_VND20000.jpg/1280px-Cao_Lau_Noodles_-_Cao_Lau_%2B_Spring_Rolls_VND20000.jpg)
 
-Hoi An is not only one of the most picturesque cities in Vietnam, but also its gastronomic heart.
-Here you really can't go wrong — even the most touristy restaurants serve surprisingly good food. Hoi An is a must-stop for food-loving travellers making their way through Vietnam
+Hoi An isn't just one of the most picturesque cities in Vietnam — it's the country's gastronomic heart.
+Here you really can't go wrong: even the most touristy restaurants serve surprisingly good food, which makes the town a must-stop for any food-loving traveller working their way through Vietnam
 .
 
 ### Typical Dishes Not to Miss
@@ -95,10 +94,10 @@ Another rising star on the Hoi An restaurant scene is Êm Comfort Food. Perfect 
 
 3. **Son Hoi An Restaurant**
    
-My choice would be Son Hoi An without a doubt, but after sunset there's no river view, just a nice menu and wines, a lovely restaurant atmosphere if you sit right in front of the restaurant closest to the river
+Son Hoi An would be my pick, without a doubt. After sunset you lose the river view, but the menu and the wine list are lovely, and the atmosphere is at its best if you grab a table in the part of the restaurant nearest the water
 .
    
-I recommend the grilled fish in banana leaf. Delicious
+Order the grilled fish in banana leaf. Delicious
 .
 
 #### **Street food and budget spots (20,000-50,000 VND / €0.85-2)**
@@ -213,7 +212,7 @@ Here are 15 essential phrases in Vietnamese with pronunciation:
 - **Cay** (kai) - Spicy
 - **Không cay** (khong kai) - Not spicy
 
-When a traveller makes the effort to speak even basic Vietnamese, it often reflects respect and appreciation for the local culture. This effort can lead to warmer welcomes and more meaningful interactions, as it shows a willingness to engage with the community on their terms
+Making the effort to speak even a few words of Vietnamese goes a long way: it shows respect for the local culture and a willingness to meet people on their own terms, and it tends to earn you warmer welcomes and richer encounters
 .
 
 Remember:

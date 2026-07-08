@@ -8,35 +8,26 @@
 
 **🍜 Bún Bò Huế - The Queen of Imperial Cuisine**
 
-Hue, the ancient imperial capital, is famous for its royal banquets and sophisticated dishes like "bun bo Hue", a spicy beef soup that perfectly represents the local cuisine
-. 
-This dish is the clearest and most delicious example of Hue's culinary tradition, with a unique spicy flavor you never forget
-. 
-The broth is made by slow-cooking beef bones with lemongrass, seasoned with fermented shrimp sauce. The predominant flavors are lemongrass and shrimp paste
-.
+Hue, the ancient imperial capital, is famous for its royal banquets and refined dishes — none more so than bun bo Hue, a spicy beef soup that captures the local cuisine perfectly. It's the clearest and most delicious expression of Hue's culinary tradition, with a spicy kick you won't forget. The broth is made by slow-cooking beef bones with lemongrass and seasoning them with fermented shrimp sauce, so lemongrass and shrimp paste lead the flavour.
 
 **💰 Price:** 
 30,000 VND (about €1.20)
 
 **🍘 Bánh Khoái - The Royal Crepes**
 
-Rice-flour crepes, fried and crispy, filled with shrimp or meat and vegetables, created by the hands of the chefs of the royal kitchens of the Nguyen dynasty
-. They're eaten rolled in rice paper with fresh vegetables and sauces.
+Crisp, fried rice-flour crepes filled with shrimp or meat and vegetables, first devised by the chefs of the Nguyen dynasty's royal kitchens. You eat them rolled in rice paper with fresh vegetables and sauces.
 
 **🍚 Cơm Hến - The Emperor's Breakfast**
 
-Cold rice with clams, dressed with vegetables and dried fruit; widely eaten for breakfast
-. A humble dish that became noble thanks to the imperial cooks.
+Cold rice with clams, dressed with vegetables and dried fruit, and a popular breakfast. A humble dish the imperial cooks made noble.
 
 **🌿 Bánh Ít Huế**
 
-Glutinous rice batter often wrapped in banana leaves, filled with shrimp and pork or green beans
-.
+Glutinous rice batter, usually wrapped in banana leaves and filled with shrimp and pork or green beans.
 
 **🍡 Nệm Lụi - Skewers of the Court**
 
-Lemongrass pork skewers cooked over charcoal, a specialty of the royal cuisine
-, served with rice paper and vegetables.
+Lemongrass pork skewers grilled over charcoal, a royal-cuisine speciality, served with rice paper and vegetables.
 
 ### Our Recommended Restaurants and Street Food
 
@@ -46,13 +37,13 @@ Lemongrass pork skewers cooked over charcoal, a specialty of the royal cuisine
 📍 04 Vo Thi Sau, Phu Hoi, Hue  
 💰 Range: mid (50,000-100,000 VND)  
 
-A popular restaurant in the heart of Hue, known for its authentic Vietnamese cuisine prepared with fresh local ingredients. Specialties: bánh khoái, minced grilled pork (nem lui), noodles with grilled pork
+A popular spot in the heart of Hue, known for authentic Vietnamese cooking made with fresh local ingredients. Specialities: bánh khoái, minced grilled pork (nem lui) and noodles with grilled pork
 
 **2. Bánh Khoái Hồng Mai**
 📍 Center of Hue (recommended by Lonely Planet)  
 💰 Range: budget (20,000-40,000 VND)  
 
-A simple place serving only two dishes: bánh xèo and chao tom, but both are truly worth it. The small choice on the menu is well made up for by the flavor
+A simple place serving just two dishes, bánh xèo and chao tom, but both are well worth it. What the menu lacks in choice it more than makes up for in flavour
 
 **🌟 IMPERIAL CUISINE**
 
@@ -61,14 +52,14 @@ A simple place serving only two dishes: bánh xèo and chao tom, but both are tr
 ⏰ Every day (11:00-22:00)  
 💰 Range: high (100,000-200,000 VND)  
 
-A restaurant famous for its imperial cuisine, where dishes are prepared by artisans of generations. The elegant setting offers a palace-like experience
+A restaurant renowned for its imperial cuisine, its dishes prepared by cooks with generations of craft behind them. The elegant setting makes for a palace-like experience
 
 **4. Ancient Hue Gallery Cuisine**
 📍 104/47 Kim Long, Hue  
 ⏰ Every day (10:00-22:00)  
 💰 Range: high (150,000-250,000 VND)  
 
-An ancient wooden house surrounded by a green garden and pond, offering a culinary journey into the imperial cuisine of Hue
+An old wooden house set in a green garden with a pond, offering a culinary journey through the imperial cuisine of Hue
 
 **🍜 UNMISSABLE STREET FOOD**
 
@@ -77,113 +68,75 @@ An ancient wooden house surrounded by a green garden and pond, offering a culina
 ⏰ 6:00-18:30  
 💰 Range: budget (15,000-30,000 VND)  
 
-The food tour can begin at Dong Ba market with the street-food stalls and the typical low plastic stools. This is where everyone eats the popular Bun Bò Hué noodles
+Kick off your food tour at Dong Ba market, among the street-food stalls and their trademark low plastic stools. This is where everyone comes for a bowl of the famous Bun Bò Hué noodles
 
 **6. Banh Ganh Restaurant**
 📍 51A Vo Thi Sau, Phu Hoi, Hue  
 💰 Range: budget-mid (30,000-60,000 VND)  
 
-Perfect for enjoying authentic traditional Vietnamese cuisine. Famous for bánh beo (steamed rice cakes), bánh khoái and bun bo Hue, all prepared with fresh ingredients
+A great choice for authentic, traditional Vietnamese food. Famous for bánh beo (steamed rice cakes), bánh khoái and bun bo Hue, all made with fresh ingredients
 
 ### Markets
 
 **📍 Dong Ba Market - The Culinary Heart of Hue**
 
-**Location:** 
-2 Tran Hung Dao street, Phu Xuan ward, 1.3km from the center of Hue
+**Location:** 2 Tran Hung Dao street, Phu Xuan ward, 1.3km from the centre of Hue
 
-**Hours:** 
-Open from 4:00 to 18:30, but the best times to visit are at 7:00 or 11:00 in the morning
-. 
-It's advisable to visit in the afternoon around 15:00 because it's a good time to bargain and find the food restaurants
+**Hours:** open from 4:00 to 18:30, though the best times to go are around 7:00 or 11:00 in the morning. It's also worth visiting in the afternoon, around 15:00, when it's a good moment to bargain and to find the food stalls
 
-**Layout:** 
-A central 3-story building called the "Bell Tower". 3rd floor: fabrics and clothing; 2nd floor: crafts like conical hats, ceramics, bamboo products; 1st floor: dried seafood and fish sauces that are Hue specialties
-
+**Layout:** a central 3-storey building known as the "Bell Tower". 3rd floor: fabrics and clothing; 2nd floor: crafts such as conical hats, ceramics and bamboo products; 1st floor: dried seafood and the fish sauces that are Hue specialities
 **Street Food to Try:**
-- 
-Bún Bò Hué: the main dish with rice vermicelli and sliced beef. 30,000 VND
-
-- 
-Bún Hến: with small clams, chili, ginger, white sesame, peanuts, mint
-
-- 
-Nam Pho noodle soup: 5,000-10,000 VND
-
-- 
-Chè Hué (sweet soups): 10,000-20,000 VND
-
+- Bún Bò Hué: the star dish, with rice vermicelli and sliced beef. 30,000 VND
+- Bún Hến: with baby clams, chilli, ginger, white sesame, peanuts and mint
+- Nam Pho noodle soup: 5,000-10,000 VND
+- Chè Hué (sweet soups): 10,000-20,000 VND
 **What to Buy:**
-- 
-Vietnamese conical hats (nón lá): 150,000-200,000 VND
+- Vietnamese conical hats (nón lá): 150,000-200,000 VND
+- Hue lacquerware: bowls, trays and lacquered vases
+- Distinctive fish sauces such as mắm cô Ri and mắm nêm
 
-- 
-Hue lacquerware: bowls, trays, lacquered vases
-
-- 
-Special fish sauces like mắm cô Ri and mắm nêm
-
-**💡 Insider Trick:** 
-Always bargain over prices - they normally go up by 50% or more. Sometimes pretend to walk away and they'll call you back
-
+**💡 Insider Trick:** always haggle — prices are usually marked up by 50% or more. Sometimes just making to walk away is enough to have them call you back
 ### Etiquette and Culture
 
 **🏛️ In Temples and Pagodas**
-- 
-Dress modestly: shoulders and knees covered. Remove your shoes before entering sacred spaces. Don't touch altars, statues or religious objects
-
-- 
-Dress plainly, speak softly, don't touch statues or sacred objects. Always ask before taking photos
+- Dress modestly, with shoulders and knees covered. Take off your shoes before entering sacred spaces, and don't touch altars, statues or religious objects
+- Keep your dress plain and your voice low, don't touch statues or sacred objects, and always ask before taking photos
 
 **🍽️ At the Table and in Restaurants**
-- 
-Take off your shoes before entering a home, learn to use chopsticks, offer and receive objects with both hands
-
-- 
-In Vietnam it's common to share food. You can use chopsticks to offer food to others. Don't talk with your mouth full
-
-- 
-Leaving a tip isn't obligatory as in other countries, but if you're satisfied with the service it's appreciated
-
-**👥 Social Behavior**
-- 
-They consider the head sacred but the feet impure. Never touch someone's head. Avoid using your feet to point
-
-- 
-It's essential not to make another person "lose face". Avoid criticizing or contradicting someone in public
-
-- 
-Public displays of affection like kissing or hugging are frowned upon, especially in rural and conservative areas
+- Take off your shoes before entering a home, learn to use chopsticks, and offer and receive things with both hands
+- Sharing food is the norm in Vietnam, and it's fine to use your chopsticks to offer food to others — just don't talk with your mouth full
+- A tip isn't expected the way it is elsewhere, but if you're happy with the service it's always appreciated
+**👥 Social Behaviour**
+- The head is considered sacred and the feet impure, so never touch anyone's head and don't point with your feet
+- Above all, never make someone "lose face" — avoid criticising or contradicting anyone in public
+- Public displays of affection such as kissing or hugging are frowned upon, especially in rural and conservative areas
 
 **📸 For Photos**
-- 
-Always ask before photographing locals, especially in rural areas. Some people might expect a small payment
+- Always ask before photographing locals, especially in rural areas, where some may expect a small payment
 
 **💰 Bargaining**
-- 
-In Vietnamese markets it's normal to bargain, but tone makes the difference. A smile and courtesy make everything more pleasant. Remember that a few cents to you can mean a lot to them
-
+- Haggling is normal in Vietnamese markets, but tone is everything. A smile and a little courtesy make it all more pleasant — and remember that a few cents to you can mean a lot to them
 ### Useful Words
 
 **Basic Greetings:**
 - **Xin chào** (/seen chao/) - Hello 
-This is your key to entering any conversation
+Your way into any conversation
 
 - **Chào buổi sáng** - Good morning 
-Used in the early hours of the day, until noon
+Used in the early part of the day, until noon
 
 - **Tạm biệt** - Goodbye 
-When it's time to say farewell
+For when it's time to say farewell
 
 **Courtesies:**
 - **Cảm ơn** (/cam on/) - Thank you 
 One of the most important words in any language
 
 - **Không có gì** - You're welcome/No problem 
-When someone thanks you
+For when someone thanks you
 
 - **Xin lỗi** - Sorry/Excuse me 
-To apologize or get attention
+To apologise or get someone's attention
 
 - **Xin hãy giúp tôi!** - Please, help me! 
 To ask for help
@@ -210,19 +163,15 @@ A simple but essential word
 Another essential word
 
 - **Tôi hiểu rồi** - I understand 
-To confirm comprehension
+To confirm you've followed
 
 - **Tôi không hiểu** - I don't understand 
 Important for communication
 
-**💡 Insider Trick:** 
-Vietnamese people will surely appreciate your efforts to communicate in their language and will help you enthusiastically
-. 
-Even if your pronunciation isn't perfect, Vietnamese people will understand that you're making an effort and will appreciate it greatly
-.
+**💡 Insider Trick:** the Vietnamese really do appreciate any effort to speak their language, and they'll help you along with enthusiasm. Even if your pronunciation is far from perfect, they'll see that you're trying and think all the more of you for it.
 
 ---
 
-*Enjoy your meal and have a good trip to Hue! The imperial city awaits you with its unique flavors and its incredible hospitality.*
+*Enjoy your meal, and have a wonderful trip to Hue! The imperial city awaits, with its one-of-a-kind flavours and its incredible hospitality.*
 
 ---

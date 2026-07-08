@@ -7,12 +7,12 @@
 ### Must-Try Classic Dishes
 
 The Khmer cuisine of Phnom Penh will surprise you with its delicacy and depth. 
-Traditional Cambodian cooking, while unique in its Khmer character, is often compared to Thai, but with a precise balance of flavors: salty, sweet, spicy and sour, which forms a distinctive taste.
+Traditional Cambodian cooking is often likened to Thai, but it has a character all its own, built on a careful balance of salty, sweet, spicy and sour that gives every dish its distinctive taste.
 
 **Amok Trey** ($5-7) - 
 Amok trey is Cambodia's national dish, a fragrant, spicy coconut fish curry gently steamed in banana leaves, which gives it a mousse-like consistency that melts in the mouth.
  
-The distinctive flavor comes from the use of "kroeung" — a Cambodian curry paste made with pounded spices and other ingredients such as turmeric, kaffir lime, lemongrass and shallots. This is then mixed with coconut milk, eggs, fish sauce and palm sugar to provide the base of the Amok. When prepared correctly, the fish is silky and melts in the mouth with every bite.
+The distinctive flavor comes from the use of "kroeung" — a Cambodian curry paste made with pounded spices and other ingredients such as turmeric, kaffir lime, lemongrass and shallots. This is then blended with coconut milk, eggs, fish sauce and palm sugar to form the base of the amok. Done right, the fish is silky and melts in the mouth with every bite.
 
 **Kuy Teav** ($1-2) - 
 A hot, steaming noodle soup whose broth is made from pork or beef bones, served with rice vermicelli, often on a bed of lettuce leaves and bean sprouts, topped with fried shallots, spring onions and, depending on the version, fish, pork or beef balls.
@@ -23,7 +23,7 @@ The dish is typically eaten at breakfast, and you'll find it sold at street stal
 Cubes or slices of beef marinated with paprika, Kampot pepper, tomato, fish sauce and other flavorings. Served with rice or French fries and a soft fried egg on top.
 
 **Samlor Korkor** ($2-3) - 
-Samlor korkor is the nourishing soup Cambodians have eaten for hundreds of years. While amok is sometimes called the country's signature dish, and very familiar to tourists, locals have voted samlor korkor Cambodia's true national dish. It has been eaten by Cambodians for hundreds of years and can be found in restaurants, roadside stalls and family homes.
+A hearty, nourishing soup that has been on Cambodian tables for hundreds of years. Amok may be the dish tourists know best, but locals have voted samlor korkor the country's true national dish — and you'll find it everywhere, from restaurants to roadside stalls to family homes.
 
 **Nom Pang** ($1-1.5) - 
 Num pang is the Cambodian version of the bánh mì — a crusty baguette filled with pork, pâté, pickled carrot and fresh herbs. It's the kind of street snack you'll grab more than once, especially if you're exploring the markets of Phnom Penh.
@@ -32,14 +32,14 @@ Num pang is the Cambodian version of the bánh mì — a crusty baguette filled 
 
 **Eleven One Kitchen** - **$$ ($8-15/dish)**
 
-Two locations, one at the Russian Market and another in BKK1. Eleven One Kitchen's concept revolves around the use of local, fresh produce and offering a good selection of plant-based dishes, though it's not fully vegetarian. Both locations have a similar layout and atmosphere. The restaurant has an anti-plastic policy, using bamboo straws and biodegradable packaging for home delivery.
+Two locations, one at the Russian Market and another in BKK1. Eleven One Kitchen is built around fresh local produce and a good spread of plant-based dishes, though it isn't fully vegetarian. Both branches share the same layout and feel. The restaurant has an anti-plastic policy, using bamboo straws and biodegradable packaging for home delivery.
 
 - **Address**: Street 460, Tuol Tom Poung & Street 334, BKK
 - **Specialties**: Beef lok lak, banana flower salad
 
 **Malis Restaurant** - **$$$ ($20-35/dish)**
 
-Malis, with its upscale setting that exudes elegance — a garden villa laid out around a statue of the legendary Khmer king Jayavarman VII — takes the traditions of royal cuisine and serves them with a modern touch. We highly recommend their curated tasting menus, which serve a balanced range of dishes such as spice-infused Takeo sausages, sour moringa soup and succulent river lobster fried in dried chili.
+Elegant to its core — a garden villa arranged around a statue of the legendary Khmer king Jayavarman VII — Malis takes the traditions of royal cuisine and gives them a modern touch. We highly recommend their curated tasting menus, which serve a balanced range of dishes such as spice-infused Takeo sausages, sour moringa soup and succulent river lobster fried in dried chili.
 
 - **Address**: 136 Norodom Boulevard
 
@@ -51,7 +51,7 @@ Definitely one of Phnom Penh's culinary stars, 54 Langeach Sros is a local Khmer
 
 **Cuisine Wat Damnak** - **$$$$ ($50-80 tasting menu)**
 
-In Siem Reap, Cuisine Wat Damnak is the only restaurant in Cambodia ever to have made the "50 Best Restaurants in Asia" list, so it was one of the few silver linings of the pandemic that they decided to open in Phnom Penh as well. Fortunately for Phnom Penh, it quickly became one of, if not the, best restaurant in the city. Cuisine Wat Damnak's philosophy is that terroir defines authentic Cambodian flavors — that the fish of the Tonle Sap and herbs gathered in the provinces will always produce a superior dish. They use local ingredients to create traditional Cambodian flavors, combined and prepared in creative, non-traditional ways.
+In Siem Reap, Cuisine Wat Damnak is the only restaurant in Cambodia ever to have made the "50 Best Restaurants in Asia" list, so it was one of the few silver linings of the pandemic that they decided to open in Phnom Penh as well. Fortunately for Phnom Penh, it quickly became one of, if not the, best restaurant in the city. Cuisine Wat Damnak's philosophy is that terroir defines authentic Cambodian flavors — that the fish of the Tonle Sap and herbs gathered in the provinces will always produce a superior dish. They draw on local ingredients to build traditional Cambodian flavors, then combine and prepare them in inventive, unexpected ways.
 
 **Central Market Food Stalls** - **$ ($1-3/dish)**
 
@@ -91,25 +91,25 @@ We like exploring the stalls at the back of the market on Street 67.
 
 **In Temples**
 
-When visiting temples or pagodas, visitors should dress modestly and behave respectfully, removing their shoes before entering sacred spaces and refraining from loud or disruptive behavior. When visiting temples, pagodas or other religious sites, dress modestly out of respect for the sanctity of the place. This typically means covering the shoulders, chest and knees. Loose clothing made of light fabrics such as cotton is ideal for staying cool in Cambodia's hot climate. In general, it's a good idea to dress conservatively in Cambodia, especially in rural or traditional areas.
+At temples, pagodas and other religious sites, dress modestly and behave with respect for the sanctity of the place: take your shoes off before entering sacred spaces, keep your voice down, and cover your shoulders, chest and knees. Loose clothing in light fabrics such as cotton is ideal for staying cool in Cambodia's hot climate. As a rule, it pays to dress conservatively across the country, and especially in rural or traditional areas.
 
 **At the Table**
 
-Yes — Cambodian meals are communal and shared, and it's polite to wait for elders or guests to start eating first. Passing food with the right hand or both hands shows courtesy, and taking only what you need shows respect for communal harmony.
+Cambodian meals are communal, shared affairs, and it's polite to let elders or guests start eating first. Passing food with the right hand, or with both hands, is a mark of courtesy, and taking only what you need shows respect for the harmony of the table.
 
-The eating utensils in a Cambodian meal are forks and spoons. The correct way to serve yourself is to spear the food with the fork, put it on a spoon, then bring it to your mouth to enjoy it. Chopsticks can be used when you have soups. Solid foods such as meat or vegetables will be picked up with chopsticks, then placed on the spoon and brought to the mouth. As you can see, Cambodians don't put forks or chopsticks directly in their mouths. This is because most of the food is shared. So they don't want to see you put a fork in your mouth and then take a slice of meat afterward.
+Cambodians eat with a fork and spoon. The done thing is to spear the food with the fork, slide it onto the spoon, and eat from the spoon. Chopsticks come out for soups: pick up solid pieces such as meat or vegetables with the chopsticks, rest them on the spoon, and bring the spoon to your mouth. Notice that Cambodians never put the fork or chopsticks straight into their mouths — because most of the food is shared, and no one wants to watch you take a bite off your fork and then reach for another slice of meat.
 
-Belching loudly, licking your fingers at the table or drawing attention to yourself while eating is generally frowned upon. Keeping modest, discreet table manners is appreciated in Cambodian culture.
+Belching loudly, licking your fingers at the table or otherwise drawing attention to yourself while eating is generally frowned upon; quiet, unshowy table manners go down well in Cambodian culture.
 
 **With Monks**
 
 Reverence for monks runs deep in Cambodian etiquette, shaping gestures, speech and even body language. For locals, showing respect is second nature — an expression of humility and gratitude toward spiritual teachers. A common gesture is the nop (placing the palms together at chest or forehead level). Keep your head lower than the monk's. In temples or homes, this small act symbolizes humility and respect.
 
-Have respect for monks in general. Women should never touch them.
+Show monks respect at all times, and note that women should never touch them.
 
 **Gestures to Avoid**
 
-It's offensive to stretch out your feet and legs in front of others. The head is considered the most sacred part of the body, while the feet the least. With this in mind, touching anyone on the top of the head is a no-go in Cambodia, while it's considered rude to point the soles of your feet toward people and definitely not toward monks and images or statues of Buddha.
+Stretching your feet and legs out in front of others causes offence. The head is seen as the most sacred part of the body and the feet the least, so touching anyone on the top of the head is off-limits in Cambodia, and it's rude to point the soles of your feet at people — never at monks, and never at images or statues of the Buddha.
 
 ### Useful Words
 

@@ -1,6 +1,3 @@
-Now I'll search for images of Vietnamese dishes from Wikimedia Commons to complete the guide:
-Now I have gathered enough information to write the complete guide. I'll create a well-structured and detailed "FOOD AND CULTURE" section for Hanoi:
-
 # FOOD & CULTURE - Hanoi, Vietnam
 
 ## Where and What to Eat in Hanoi
@@ -37,7 +34,7 @@ Egg coffee (Ca Phe Trung): Invented in Hanoi, this creamy coffee dessert is an a
 
 **Xôi Xéo (Sticky rice) - 20,000-35,000 VND (~€0.80-1.50)**
 
-Sticky rice (Xôi Xéo): A popular street breakfast: sticky rice with mung beans and fried shallots, often sold from baskets on the pavement. I'd say Xôi bà Thu is better than "Xôi Yến" for the best sticky rice in town (old Mrs Ba Thu's stall is on Thọ Xuân street)
+Sticky rice (Xôi Xéo): A popular street breakfast: sticky rice with mung beans and fried shallots, often sold from baskets on the pavement. For the best sticky rice in town I'd pick Xôi bà Thu over Xôi Yến (old Mrs Ba Thu's stall is on Thọ Xuân street)
 .
 
 ### Our Recommended Restaurants and Street Food
@@ -57,11 +54,11 @@ According to Pham Thu Hoai, owner of Bun Cha Ta (Nguyen Huu Huan street), a Bib 
 
 **For Restaurants:**
 - **ESSENCE Restaurant** (9th floor, Aira Boutique Hotel) -
-Located on the 9th floor of the Aira Boutique Hanoi hotel, with a stunning city view, the restaurant offers 100 seats and a VIP room. Essence restaurant is the perfect choice for fine dining in Hanoi, Vietnam, with a Vietnamese menu with a touch of European influence
+Located on the 9th floor of the Aira Boutique Hanoi hotel, with a stunning city view, the restaurant offers 100 seats and a VIP room. Essence restaurant is the perfect choice for fine dining in Hanoi, Vietnam, serving Vietnamese cuisine with a touch of European influence
 . Price: 500,000-1,500,000 VND (€20-60)
 
 - **Hong Hoai Restaurant** (56 Hang Buom, Old Quarter) -
-Hong Hoai restaurant offers a variety of traditional Vietnamese dishes such as bun cha, spring rolls, banh xeo,... with an authentic Vietnamese flavour. This restaurant serves many of Hanoi's signature dishes in a unique and special style
+Hong Hoai restaurant offers a variety of traditional Vietnamese dishes such as bun cha, spring rolls, banh xeo,... with an authentic Vietnamese flavour. This restaurant serves many of Hanoi's signature dishes in its own distinctive style
 . Price: 150,000-400,000 VND (€6-16)
 
 - **Banh Mi 25** (25 Hang Ca Street) -
@@ -109,7 +106,7 @@ To order, you can say "Tôi muốn…", which means "I would like…". Some usef
 
 **General Behaviour:**
 
-They believe in the sacredness of the head, while the feet are considered impure in Vietnamese culture. Try not to touch anyone's head. Avoid using your feet to point, as these things are considered quite disrespectful
+In Vietnamese culture the head is considered sacred and the feet impure. Try not to touch anyone's head, and never point with your feet — both are seen as quite disrespectful
 .
 
 **Photographs:**
@@ -146,7 +143,7 @@ Nghìn is the northern Vietnamese form (spoken in Hanoi and the north), ngàn is
 - **Tôi không hiểu** (/toy khong hieu/) - I don't understand
 - **Chúc sức khỏe!** (/chook shook khoe/) - Cheers! (for toasting)
 
-Don't worry about perfect pronunciation: the Vietnamese greatly appreciate foreigners' efforts to speak their language. In reality, even if it isn't perfect, the Vietnamese will understand that you're making an effort – and they'll appreciate it a lot. The Vietnamese are very patient with foreigners, and every effort of yours is seen as a sign of respect and cultural curiosity
+Don't worry about perfect pronunciation: the Vietnamese warmly appreciate any effort a foreigner makes to speak their language. Even if it comes out imperfect, they'll see that you're trying. They are wonderfully patient with visitors, and every attempt reads as a sign of respect and genuine curiosity about their culture
 .
 
 ---

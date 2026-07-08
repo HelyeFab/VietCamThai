@@ -5,7 +5,7 @@
 ![Hanoi's Old Quarter in the evening](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Hanoi_Old_Quarter%2C_9_March_2019-2.jpg/1280px-Hanoi_Old_Quarter%2C_9_March_2019-2.jpg)
 
 ### Morning
-Arrival in Hanoi from Lan Ha Bay (Cat Ba) by bus, the cruise now over, and check-in at a hotel in the heart of the Old Quarter.
+With the cruise now behind you, arrive in Hanoi from Lan Ha Bay (Cat Ba) by bus and check in at a hotel in the heart of the Old Quarter.
 The Temple of Literature is only 2 kilometres from the Old Quarter and Hoan Kiem Lake
 , a perfect base for the last days of the trip.
 
@@ -69,7 +69,7 @@ The streets overflow with street vendors and motorbikes. Start with a cyclo (ric
 
 ---
 
-## Day 29 — October 29, 2026 — Lakes, Temples and Thousand-Year Culture
+## Day 29 — October 29, 2026 — Lakes, Temples and a Thousand Years of Culture
 
 ### Morning
 **Hoan Kiem Lake and Ngoc Son Temple** (8:00-10:00)
@@ -222,7 +222,7 @@ The area around Beer Street and Hoan Kiem Lake is lively and well lit
 
 ### Tips of the Day
 -
-The mausoleum welcomes visitors from 7:30 to 10:30, Tuesday to Thursday and on weekends. This limited window creates an experience that feels both exclusive and ceremonial
+The mausoleum welcomes visitors from 7:30 to 10:30, Tuesday to Thursday and on weekends. That narrow window makes a visit feel both exclusive and ceremonial
 
 -
 Arriving at 7:00 lets you witness the changing of the guard, a precisely choreographed ceremony
@@ -264,4 +264,4 @@ The last day of the trip. After 31 days across Thailand, Cambodia and Vietnam, i
 
 ---
 
-This guide takes you into the authentic heart of Hanoi, blending a thousand years of history with modern life. Every day is calibrated to give you time to truly savour the city, not just rush through it. And remember: the Vietnamese are incredibly kind — if you get lost, always ask for help!
+This guide takes you into the authentic heart of Hanoi, blending a thousand years of history with modern life. Every day is paced to give you time to truly savour the city, not just rush through it. And remember: the Vietnamese are incredibly kind — if you get lost, always ask for help!

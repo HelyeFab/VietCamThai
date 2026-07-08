@@ -1,6 +1,3 @@
-Ora cercherò alcune immagini di piatti tipici da Wikimedia Commons o Unsplash per illustrare la sezione.
-Perfetto! Ora ho tutte le informazioni necessarie per creare una guida completa. Ho trovato anche le immagini di piatti tipici su Wikimedia Commons. Procedo a scrivere la sezione CIBO E CULTURA.
-
 # CIBO E CULTURA 🍜
 
 Bangkok non è solo la capitale della Thailandia, è il vero paradiso del cibo di strada e della gastronomia asiatica. 

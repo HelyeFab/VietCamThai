@@ -1,5 +1,3 @@
-Ora ho raccolto informazioni sufficienti per scrivere una guida completa sulla panoramica di Chau Doc. Procedo con la stesura utilizzando le informazioni trovate e inserendo le immagini di Wikimedia Commons.
-
 ## Chau Doc & Mekong — Panoramica
 
 Benvenuti nel cuore pulsante del Delta del Mekong, dove i fiumi si intrecciano come vene d'argento sotto cieli infiniti e il sole tramonta dietro palme da zucchero che danzano nel vento. 

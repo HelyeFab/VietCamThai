@@ -5,9 +5,9 @@
 **Ho Chi Minh City → Da Nang → Hoi An (Flight + transfer)**
 
 
-From Saigon you reach Hoi An by flying to Da Nang, the nearest airport. The direct flight takes 1 hour and 20 minutes, and there are around 50 flights a day
+To reach Hoi An from Saigon, fly into Da Nang, the nearest airport. The direct flight takes 1 hour and 20 minutes, and there are around 50 flights a day
 (VietJet Air, Vietnam Airlines, Vietravel Airlines).
-From Da Nang airport, Hoi An is about 30 km away: the transfer by private car or taxi takes about 45 minutes
+Hoi An lies about 30 km from Da Nang airport, roughly a 45-minute transfer by private car or taxi
 .
 
 **Options from Da Nang airport:**
@@ -32,8 +32,8 @@ many Hoi An accommodations offer airport transfers on request
 
 
 The transfer from Hoi An to Hué via the Hai Van Pass is one of the most scenic routes in Vietnam
-. A private car via the Hai Van Pass (~€25/pp) is the perfect choice —
-it offers door-to-door service with a professional driver and the option to choose the scenic route
+. A private car over the Hai Van Pass (~€25/pp) is the ideal choice —
+door-to-door service with a professional driver, and you get to pick the scenic route
 .
 
 **Transport options:**
@@ -68,8 +68,8 @@ Marble Mountains - limestone formations with natural caves, ancient pagodas and 
 
 ### Getting Around
 
-Hoi An is perfect to explore on foot or by bike —
-it's a paradise for cyclists with its compact size and flat terrain
+Hoi An is best explored on foot or by bike —
+compact and completely flat, it's a paradise for cyclists
 .
 
 **Local transport with costs (2025-2026 prices):**

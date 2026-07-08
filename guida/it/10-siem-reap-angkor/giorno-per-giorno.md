@@ -1,5 +1,3 @@
-Ora scrivo la sezione GIORNO PER GIORNO per Siem Reap & Angkor con le informazioni raccolte.
-
 # SIEM REAP & ANGKOR — GIORNO PER GIORNO
 
 ## Giorno 5 — 5 Ottobre 2026 — L'Arrivo nel Regno dei Khmer

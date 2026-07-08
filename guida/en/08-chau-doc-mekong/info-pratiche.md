@@ -5,7 +5,7 @@
 **Speedboat from Phnom Penh (Cambodia)**
 
 
-You reach Chau Doc by heading down the Mekong by speedboat from Phnom Penh: the journey takes about 5-6 hours (including the procedures at the Cambodia-Vietnam river border) and costs between $30-65 per person. It's one of the most striking crossings of the entire itinerary.
+You reach Chau Doc by speedboat down the Mekong from Phnom Penh: the trip takes about 5-6 hours (including the formalities at the Cambodia-Vietnam river border) and costs between $30-65 per person. It's one of the most striking crossings of the whole itinerary.
 
 **Reliable companies:**
 - **Hang Chau Tourist** (www.hangchautourist.vn) — the main one on this route, departing in the morning from Phnom Penh and arriving in Chau Doc in the early afternoon
@@ -19,7 +19,7 @@ You reach Chau Doc by heading down the Mekong by speedboat from Phnom Penh: the 
 ### Moving On — Bus to Ho Chi Minh City
 
 
-From Chau Doc you continue on to Ho Chi Minh City by bus: about 5-6 hours, with departures every 2 hours from 5:00 to 23:00 and tickets starting at 8 dollars (about €7.5).
+From Chau Doc you carry on to Ho Chi Minh City by bus: about 5-6 hours, with departures every 2 hours from 5:00 to 23:00 and tickets starting at 8 dollars (about €7.5).
 
 **Recommended companies:**
 - **Phuong Trang (Futa Bus)** - The absolute first choice
@@ -27,7 +27,7 @@ From Chau Doc you continue on to Ho Chi Minh City by bus: about 5-6 hours, with 
 Uses double-decker sleeper buses with fixed berths for 40-44 passengers
 
   -
-Departs from Chau Doc station, arrives at Mien Tay Bus Station HCMC, duration 6h 15min, price about €10
+Departs Chau Doc station, arrives at Mien Tay Bus Station in HCMC; 6h 15min, about €10
 
   - Online booking: [Baolau](https://booking.baolau.com/en/s/ho-chi-minh/chau-doc) or [12Go](https://12go.asia)
 
@@ -60,7 +60,7 @@ Grab is the most widely used app in Vietnam, along with Be and XanhSM
 A Grab-bike costs 1-2 dollars per ride (about €1-2)
 
 -
-A Vietnamese SIM is needed to communicate with the driver
+You'll need a Vietnamese SIM to reach the driver
 
 
 **🚕 Traditional taxis**
@@ -79,7 +79,7 @@ Cheap and fast in traffic, called "xe om"
 
 **🚲 Distinctive rides**
 -
-Xe Loi (rickshaw): specific to Chau Doc, a trailer pulled by a bicycle for 2 people
+Xe Loi (rickshaw): unique to Chau Doc, a two-seater trailer towed by a bicycle
 
 -
 Cyclo: about 100,000-150,000 VND per hour per person (€4-6)
@@ -112,7 +112,7 @@ From 21 dollars/night (about €19)
 From 15 dollars/night (about €14)
 
    -
-Surprises with its variety of rooms, restaurant and services. Friendly staff for excursions and transport
+A pleasant surprise, with a good range of rooms, a restaurant and friendly staff who can arrange excursions and transport
 
 
 4. **HaiVan HosTel**
@@ -138,7 +138,7 @@ Being flexible with dates helps you save
 Viettel offers the strongest and most reliable 4G/LTE coverage in the Mekong Delta, especially in rural areas
 
 -
-Vinaphone is strong in urban centers and in the Mekong Delta region
+Vinaphone is strong in urban centres and across the Mekong Delta
 
 -
 The signal thins out in rural areas and along the winding river roads
@@ -149,7 +149,7 @@ The signal thins out in rural areas and along the winding river roads
 100,000-200,000 VND (€4-8) with plenty of data
 
 - **eSIM**:
-Recommended for first arrivals, immediate activation at the airport
+Handy if it's your first arrival — activates instantly at the airport
 
 -
 Tourist packages of 30-60GB for around 10-15 USD from Viettel, Vinaphone, Mobifone
@@ -231,12 +231,12 @@ Learn emergency phrases: "Tôi cần bác sĩ" (I need a doctor), "Giúp tôi v�
 
 **👥 Specific safety:**
 -
-Vietnam is very safe for solo female travelers thanks to safe cities and active traveler communities
+Vietnam is very safe for solo female travellers, thanks to safe cities and active traveller communities
 
 -
 Excellent LGBTQ+ welcome, second place in Southeast Asia after Thailand
 
 
 **💡 Final tip**:
-The vast majority of Vietnamese people are welcoming and honest, especially if you share a common language. In tourist centers, maintain a basic level of vigilance
+The vast majority of Vietnamese people are welcoming and honest, especially if you share a common language. In tourist centres, just keep your basic wits about you
 .

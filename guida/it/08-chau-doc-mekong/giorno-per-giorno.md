@@ -1,5 +1,3 @@
-Ora ho le informazioni necessarie per creare una guida dettagliata per Chau Doc e il Delta del Mekong. Inizierò a scrivere la sezione GIORNO PER GIORNO seguendo le indicazioni specifiche.
-
 ## Giorno 13 — 13 Ottobre 2026 — Tra i fiori di loto della foresta incantata
 
 ### Mattina

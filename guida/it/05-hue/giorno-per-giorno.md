@@ -1,5 +1,3 @@
-Con queste informazioni raccolte, ora posso scrivere una guida dettagliata giorno per giorno per Hué. Ho ottenuto informazioni aggiornate su orari, prezzi e consigli pratici per tutte le attrazioni principali.
-
 ## Giorno 20 — 20 Ottobre 2026 — Benvenuti nella Città Imperiale
 
 ### Mattina

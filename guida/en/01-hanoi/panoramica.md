@@ -6,7 +6,7 @@ Hoan Kiem Lake at the centre of the city serves as a focal point for public life
 
 ![Hanoi's Old Quarter](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Old_Quarter_street_scene%2C_Hanoi_%281%29_%2838464672752%29.jpg/1280px-Old_Quarter_street_scene%2C_Hanoi_%281%29_%2838464672752%29.jpg)
 
-Hanoi is a captivating capital where history and modernity blend harmoniously. Its two most iconic neighbourhoods – the French Quarter and the Old Quarter – offer distinctly different experiences for travellers. Though separated by only a short walk, these quarters tell different stories of Hanoi's rich cultural heritage
+Hanoi is a captivating capital where history and modernity sit comfortably side by side. Its two most iconic neighbourhoods – the French Quarter and the Old Quarter – offer travellers strikingly different experiences. A short walk apart, each tells its own chapter of Hanoi's rich cultural heritage
 . It is a city that makes buying expensive guidebooks pointless, because every corner has a story to whisper and every local has a valuable tip to share.
 
 ## History & Culture
@@ -20,7 +20,7 @@ The Old Quarter (or "36 Streets") originated in the 11th century during the Lý 
 This ancient commercial district grew up around the 11th century when artisans and merchants organised themselves into guilds, each of which occupied a specific street dedicated to its trade
 .
 
-The genius loci of this arrangement still survives today:
+The spirit of that arrangement still lingers today:
 the street names still reflect these ancient trades, such as Hàng Bạc (Silver Street) and Hàng Gai (Silk Street), where merchants and artisans have practised their crafts for generations
 .
 The Old Quarter is characterised by its distinctive "tube houses" – narrow, deep buildings that were designed to minimise taxes on street frontage

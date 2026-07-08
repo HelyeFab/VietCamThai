@@ -4,7 +4,7 @@
 
 **From Halong / Lan Ha Bay (Cat Ba) to Hanoi by bus (~3-4 hours)**
 
-Hanoi is the last stop of the trip: you arrive from Lan Ha Bay (Cat Ba island), the cruise now over.
+Hanoi is the last stop of the trip: you arrive from Lan Ha Bay (Cat Ba island) with the cruise now behind you.
 The direct bus combines bus + ferry + bus and takes about 3-4 hours, arriving in the Old Quarter
 . Reliable companies like **Cat Ba Express** and **Good Morning Cat Ba** offer frequent morning departures and pickup from the pier; indicative price 250,000-300,000 VND (€8-12) per person. From Halong city the bus connection is even quicker (~2.5 hours).
 
@@ -121,12 +121,12 @@ Aim for the May-August low season for accommodation discounts 20-40% below the h
 **Free WiFi**
 
 Asia is far more modern than you might think, and there's WiFi EVERYWHERE in Vietnam!
-Hotel, restaurant, café and shopping-centre guests generally enjoy a free WiFi connection. You'll have free access in all shops, cafés, restaurants, hotels and guesthouses
+Hotels, restaurants, cafés and shopping centres almost all offer free WiFi, and you'll find it in shops and guesthouses too
 .
 
 **Local SIMs - Where to buy**
 
-At the international airports of Hanoi and Ho Chi Minh City there are endless opportunities to buy a prepaid Vietnam SIM card. In case you miss the chances at the airport, there are mobile-phone shops everywhere in the big cities
+The international airports in Hanoi and Ho Chi Minh City are full of stalls selling prepaid Vietnamese SIM cards. And if you miss your chance at the airport, mobile-phone shops are everywhere in the big cities
 .
 
 **Main operators**:

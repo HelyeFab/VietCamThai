@@ -1,15 +1,15 @@
 ## Siem Reap & Angkor — Overview
 
-**Sunrise over the divine temples, jungle reclaiming the thousand-year-old stones, and the sound of gongs still echoing among the ruins.** Siem Reap is not just the gateway to Angkor Wat, but a melting pot where the ancient soul of the Khmer meets the modern vibrancy of a city that has never stopped dreaming. 
-Here, between temples that defy time and a night that pulses with life along Pub Street, every traveler finds their own piece of magic.
+**Sunrise over the sacred temples, the jungle reclaiming thousand-year-old stones, and the sound of gongs still echoing among the ruins.** Siem Reap is far more than the gateway to Angkor Wat: it is where the ancient soul of the Khmer meets the buzz of a modern city that has never stopped dreaming. 
+Between temples that defy time and nights that pulse with life along Pub Street, every traveller finds a little magic of their own here.
 
 ![Sunrise at Angkor Wat](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Angkor_Wat_at_sunrise_1.jpg/1280px-Angkor_Wat_at_sunrise_1.jpg)
 
 Angkor is one of the most important archaeological sites in Southeast Asia, and Angkor Wat is the largest religious structure in the world, covering about 400 acres.
  
-The city of Angkor was the royal center from which a dynasty of Khmer kings ruled one of the largest, most prosperous and most sophisticated kingdoms in the history of Southeast Asia, flourishing approximately from the 9th to the 15th century.
- But Siem Reap today is far more than a simple gateway: 
-the city boasts a lively scene of restaurants and bars, along with numerous yoga studios and meditation centers, and it is a surprisingly diverse hub, stitched together by distinct neighborhoods that each offer a different rhythm of Cambodian life.
+Angkor was the royal seat from which a dynasty of Khmer kings ruled one of the largest, wealthiest and most sophisticated kingdoms in the history of Southeast Asia, flourishing from roughly the 9th to the 15th century.
+ But today's Siem Reap is much more than a mere gateway: 
+the city has a lively scene of restaurants and bars, plenty of yoga studios and meditation centres, and it is a surprisingly varied place, made up of distinct neighbourhoods that each move to a different rhythm of Cambodian life.
 
 ### History & Culture
 
@@ -20,14 +20,11 @@ The Angkorian period began in 802 AD, when the Hindu Khmer king Jayavarman II pr
  
 He established three capitals during his lifetime, including Hariharalaya (modern-day Roluos) 15 km southeast of modern Siem Reap, and Mahendraparvata on the sacred mountain of Phnom Kulen, about 48 km to the north.
 
-Angkor Wat was built in the 12th century by King Suryavarman II (who reigned from about 1113 to 1150) of the Khmer empire as a Hindu temple dedicated to Vishnu.
+Angkor Wat was built in the 12th century by King Suryavarman II of the Khmer empire (who reigned from about 1113 to 1150) as a Hindu temple dedicated to Vishnu.
  
-After the Cham of modern-day Vietnam sacked Angkor in 1177, King Jayavarman VII decided that the Hindu gods had abandoned him. When he built a new capital nearby, Angkor Thom, he dedicated it to Buddhism. From then on, Angkor Wat became a Buddhist sanctuary.
+After the Cham of modern-day Vietnam sacked Angkor in 1177, King Jayavarman VII concluded that the Hindu gods had abandoned him, and when he built a new capital nearby, Angkor Thom, he dedicated it to Buddhism. From then on Angkor Wat became a Buddhist sanctuary.
 
-The decline came gradually: 
-in the early 15th century Angkor was abandoned after a Khmer rebellion against Siamese authority that led to the sacking of Angkor by Ayutthaya in 1431.
- Nevertheless, 
-the Theravada Buddhist monks maintained Angkor Wat, which remained an important pilgrimage site.
+The decline came gradually. In the early 15th century Angkor was abandoned after a Khmer rebellion against Siamese rule, which culminated in the sacking of the city by Ayutthaya in 1431. Even so, Theravada Buddhist monks kept up Angkor Wat, and it remained an important pilgrimage site.
 
 **Essential cultural facts:**
 - 
@@ -43,31 +40,31 @@ The temple faces west (unusual for Khmer temples), and during the March and Sept
 
 **October: the rainy season drawing to a close**
 
-Siem Reap's weather in October is not particularly hot, with an average temperature of 27°C (81°F) and the monthly maximum reaching 30°C (86°F) on average. With humidity of 76%, it is also quite humid in October.
+October in Siem Reap is not especially hot, with an average temperature of 27°C (81°F) and a monthly high that averages 30°C (86°F). At 76% humidity, though, it feels muggy.
  
-In fact, it is one of the rainiest months of the year. Rainfall accumulates at a relatively high level too, reaching nearly 176mm over about 14 rainy days.
+It is also one of the wettest months of the year: rainfall runs high, reaching nearly 176mm over about 14 rainy days.
 
-In October, Siem Reap experiences a notable shift as the monsoon season begins to ease, bringing pleasant temperatures that are perfect for exploring its famous temples. With lows around 22°C (72°F) and highs reaching 34°C (93°F), the weather is comfortably warm.
+That said, October marks a turning point. As the monsoon starts to ease, the temperatures turn pleasant and are perfect for exploring the temples. With lows around 22°C (72°F) and highs of 34°C (93°F), the weather stays comfortably warm.
 
 **What to expect specifically for your trip (October 5–7):**
 - 
-It is advisable to visit the temples in the morning, since the rain falls more often in the afternoon.
+Visit the temples in the morning: the rain tends to fall in the afternoon.
 
 - 
-The emerald-green landscapes are the biggest attraction in October, with gorgeous sunset views over Tonlé Sap lake.
+The emerald-green landscapes are October's real draw, along with gorgeous sunsets over Tonlé Sap lake.
 
 - 
-Siem Reap's October coincides with the low tourist season due to the rainy weather. Without so many travelers, you can enjoy a more relaxed trip through the spectacular Angkor Wat complex. Airfares and accommodation rates also drop to some extent. This is the best month to enjoy travel discounts.
+The rain keeps the crowds away, so October falls in the low season. With fewer travellers about, you can explore the spectacular Angkor Wat complex at a gentler pace, and airfares and room rates dip too. It is the best month of the year to travel on a discount.
 
 **Practical tips:**
 - 
-Prepare light, airy clothing, such as cotton shirts, blouses or dresses. Naturally, shirts and dresses should cover the shoulders and go below the knees if you are visiting the temples.
+Pack light, airy clothing such as cotton shirts, blouses or dresses. For the temples, of course, tops and dresses need to cover the shoulders and fall below the knee.
 
 - 
-Quick-drying clothes are recommended because of the high humidity and frequent downpours, as well as umbrellas and raincoats.
+Quick-drying clothes make sense in the high humidity and frequent downpours, and bring an umbrella and a raincoat.
 
 - 
-Mosquito repellent is very much needed during the rainy season.
+Mosquito repellent is a must in the rainy season.
 
 ### Orientation
 
@@ -79,24 +76,24 @@ National Road 6, the main east-west highway across Cambodia, runs just north of 
 
 **Main neighborhoods:**
 
-1. **Old Market/Pub Street (nerve center):** 
-The Old Market area, which includes Pub Street and Pub Street alley, is a very touristy area in the city center. As the name suggests, the area covers the area around the Old Market.
+1. **Old Market/Pub Street (nerve centre):** 
+The Old Market district, which takes in Pub Street and Pub Street alley, is the most touristy corner of the city centre and, as the name suggests, spreads out around the Old Market itself.
  
-Officially named "Street 8," Pub Street is the center of the action when night falls in Siem Reap. The street, which begins at the Red Piano Restaurant and ends at the Banana Leaf Restaurant, is a 100m stretch dotted with clubs, bars, restaurants and neon-lit vendors.
+Officially "Street 8," Pub Street is where the action is once night falls in Siem Reap. Running from the Red Piano Restaurant to the Banana Leaf Restaurant, it is a 100m stretch dotted with clubs, bars, restaurants and neon-lit vendors.
 
 2. **Wat Bo Road (east bank):** 
-Located on the east side of the Siem Reap River, Wat Bo Road was once popular with budget travelers. Things have changed, though, as Wat Bo Road today is home to boutique hotels, upscale restaurants and trendy bars.
+On the east side of the Siem Reap River, Wat Bo Road was once a budget-traveller haunt. Times have changed: today it is lined with boutique hotels, upscale restaurants and trendy bars.
  
-Cross the Siem Reap River to the east bank and enter the Wat Bo and Wat Damnak Village, a cluster of quieter neighborhoods that have evolved from local residential areas into some of the city's most attractive districts.
+Cross the river to the east bank and you reach Wat Bo and Wat Damnak Village, a cluster of quieter neighbourhoods that have grown from local residential streets into some of the city's most appealing districts.
 
 3. **Charles de Gaulle Boulevard (road to the temples):** 
-The main road to Angkor is officially called Charles de Gaulle Boulevard. It is the main route connecting central Siem Reap with the Angkor Archaeological Park. It has several upscale restaurants, shops and accommodations.
+Officially Charles de Gaulle Boulevard, this is the main route linking central Siem Reap with the Angkor Archaeological Park, and it is home to a number of upscale restaurants, shops and hotels.
 
 4. **Svay Dangkum (administrative heart):** 
-The most common residential areas are Svay Dangkum, where the city center is located; Sala Kamreuk is a commune popular with expats; and Wat Bo, just across the river and near the city center.
+The main residential areas are Svay Dangkum, where the city centre sits; Sala Kamreuk, a commune popular with expats; and Wat Bo, just across the river close to the centre.
 
 **Mental map for getting your bearings:** 
-Think of Pub Street to the south and Road 6 to the north as your main landmarks. A short walk in any direction takes you to different moods: the bustle of the night market to the south, riverside strolls to the north, and small streets full of local restaurants in between. Once you have located the river and Road 6 on the map, it becomes much easier to figure out where you are at any moment.
+Keep Pub Street to the south and Road 6 to the north as your two anchors. A short walk in any direction shifts the mood: the bustle of the night market to the south, riverside strolls to the north, and little streets full of local restaurants in between. Once you have pinned the river and Road 6 on the map, working out where you are becomes easy.
 
 **Important note about the airport:** 
-A major recent change to the map of Siem Reap is the opening of the new Siem Reap–Angkor International Airport in October 2023. Located about 50 kilometers east of the city in the Sotr Nikum district, the new airport replaced the previous one that used to sit just a few kilometers from the center. For visitors, this means that the initial journey to Siem Reap now takes about an hour to an hour and a half by road.
+One big recent change to the map of Siem Reap is the new Siem Reap–Angkor International Airport, which opened in October 2023. Sitting about 50 kilometres east of the city in the Sotr Nikum district, it replaced the old airport that used to be just a few kilometres from the centre. For visitors, that means the first leg into Siem Reap now takes about an hour to an hour and a half by road.

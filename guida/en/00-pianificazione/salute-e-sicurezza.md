@@ -1,12 +1,12 @@
 ## Health & Safety
 
-Your trip to Southeast Asia calls for serious health preparation but without paranoia. With the right precautions and a bit of planning, you'll be able to enjoy the adventure worry-free.
+A trip to Southeast Asia calls for serious health preparation — but no need for paranoia. With the right precautions and a little planning, you can enjoy the adventure worry-free.
 
 ### Vaccinations
 
 **⚡ Book your appointment AT LEAST 6 weeks ahead**
 
-Timing is key: some vaccines require multiple doses spaced out over time, others need 2-3 weeks to become effective.
+Timing is everything: some vaccines need several doses spread out over weeks, others take 2-3 weeks to kick in.
 
 #### Recommended vaccines for Southeast Asia
 
@@ -25,26 +25,19 @@ Timing is key: some vaccines require multiple doses spaced out over time, others
 
 
 
-**Yellow Fever:** mandatory ONLY if you're arriving from at-risk countries (Africa, South America) or have had long layovers (>12 hours) in airports in endemic zones. Coming from Italy it's not needed.
+**Yellow Fever:** mandatory ONLY if you're arriving from an at-risk country (Africa, South America) or have had long layovers (>12 hours) at airports in endemic zones. Coming from Italy, you won't need it.
 
 
 #### Where to get them in Italy
 
 **Traveller's Medicine Centres:**
-- 
-**Lombardy:** Call Centre 800.638.638 - Counselling €38.71 (one time only, for up to 3 adults)
-
-- 
-**Piedmont:** Free consultation + vaccine cost + €16 administration - Free under 18
-
-- 
-**Liguria (CN1):** Free consultation + purchase price + €16 - Free for minors and volunteers
+- **Lombardy:** Call Centre 800.638.638 - Consultation €38.71 (one-off, for up to 3 adults)
+- **Piedmont:** Free consultation + vaccine cost + €16 administration - Free under 18
+- **Liguria (CN1):** Free consultation + purchase price + €16 - Free for minors and volunteers
 
 
 **Private centres:**
-- 
-**Santagostino** (Milan, Rome): wide availability, costs per single dose
-
+- **Santagostino** (Milan, Rome): good availability, priced per dose
 - **Clinica del Viaggiatore CESMET** (Rome): specialists in tropical medicine
 
 **💡 Indicative costs 2026:**
@@ -68,25 +61,20 @@ Timing is key: some vaccines require multiple doses spaced out over time, others
 
 **💊 What you can easily find locally:**
 
-Paracetamol and basic medicines in 7-Eleven convenience stores, 24-hour pharmacies in the main cities. Good quality in Bangkok and tourist areas.
+Paracetamol and basic medicines are stocked in 7-Eleven convenience stores, with 24-hour pharmacies in the main cities. Quality is good in Bangkok and the tourist areas.
 
 
 **⚠️ Warning:** 
-If you bring prescription medicines, you need a medical prescription in English. Some active ingredients are banned in Thailand - check with the embassy!
-
+If you bring prescription medicines, carry the prescription in English. Some active ingredients are banned in Thailand — check with the embassy first!
 
 ### Water and Food
 
 **🚰 Golden rules:**
-- 
-**Never tap water** - only bottled or filtered
-
+- **Never drink tap water** - only bottled or filtered
 - Ice only in reliable places
 - Fruit you peel yourself
 - Food cooked and piping hot
-- 
-**Preventive probiotics:** one a day for the whole trip
-
+- **Probiotics as a precaution:** one a day for the whole trip
 
 #### Recommended filter water bottles
 
@@ -124,26 +112,22 @@ If you bring prescription medicines, you need a medical prescription in English.
 #### Malaria situation for your itinerary
 
 
-**THAILAND:** Bangkok, Phuket, Koh Samui, Pattaya = ZERO malaria risk. 
-Rural border areas with Cambodia/Myanmar = LOW risk.
+**THAILAND:** Bangkok, Phuket, Koh Samui, Pattaya = ZERO malaria risk. Rural areas along the Cambodia/Myanmar border = LOW risk.
 
 
-
-**VIETNAM:** Hanoi, Ho Chi Minh City, Da Nang, Nha Trang = NO malaria.
-Rural areas = LOW risk.
+**VIETNAM:** Hanoi, Ho Chi Minh City, Da Nang, Nha Trang = NO malaria. Rural areas = LOW risk.
 
 
-
-**Antimalarial prophylaxis:** consult a travel doctor, but bear in mind that:
-- It's not a 100% vaccine
-- It can have significant side effects
+**Antimalarial prophylaxis:** talk to a travel doctor, but bear in mind that:
+- It's not a foolproof vaccine
+- It can carry significant side effects
 - Modern treatments are highly effective (97-98% success)
 
 
 #### Anti-mosquito precautions (ESSENTIAL!)
 
 
-**Dengue, Chikungunya, Zika:** no vaccine available, only bite prevention. Mosquitoes are active during the DAY too.
+**Dengue, Chikungunya, Zika:** no vaccine — bite prevention is your only defence. And these mosquitoes bite by DAY too.
 
 
 **🦟 Anti-mosquito arsenal:**
@@ -177,11 +161,11 @@ Rural areas = LOW risk.
 
 **BANGKOK:**
 
-**Bumrungrad International** - Considered among the 10 best hospitals IN THE WORLD. International staff, like a 5-star hotel.
+**Bumrungrad International** - Rated among the 10 best hospitals IN THE WORLD. International staff, and more like a 5-star hotel than a hospital.
 
 
 
-**Bangkok Hospital Medical Centre** - Joint Commission International accredited, present in all the main cities.
+**Bangkok Hospital Medical Centre** - Joint Commission International accredited, with branches in all the main cities.
 
 
 
@@ -194,7 +178,7 @@ Rural areas = LOW risk.
 
 
 
-**Vachira Phuket Hospital** - Well-equipped public hospital, more affordable prices.
+**Vachira Phuket Hospital** - Well-equipped public hospital, at more affordable prices.
 
 
 **HO CHI MINH CITY (SAIGON):**
@@ -219,9 +203,7 @@ Rural areas = LOW risk.
 **📞 Main operations centres (24/7 in Italian):**
 - **Allianz:** +39 06 42115346
 - **AXA:** +39 02 25419800
-- 
-**Columbus:** +39 02 3600 5814
-
+- **Columbus:** +39 02 3600 5814
 
 **💳 Recommended insurance for Southeast Asia:**
 
@@ -237,8 +219,8 @@ Rural areas = LOW risk.
 - **Phuket:** +66 76 219 774
 - **Ho Chi Minh City:** +84 28 3825 2759
 
-**💡 Friendly tip:** download your insurance's app and save all the emergency numbers in your contacts BEFORE you leave. In a stressful moment, having everything at hand makes all the difference.
+**💡 Friendly tip:** download your insurer's app and save every emergency number to your contacts BEFORE you go. In a stressful moment, having it all to hand makes the world of difference.
 
 ---
 
-*Remember: Southeast Asia has excellent hospitals in the main cities, but the costs for the uninsured are prohibitive. A good health policy isn't a luxury, it's an absolute necessity.*
+*Remember: Southeast Asia has excellent hospitals in its main cities, but for the uninsured the bills are ruinous. A good health policy isn't a luxury — it's an absolute necessity.*

@@ -20,7 +20,7 @@ The rice is steamed, pressed into thin layers, sun-dried and then fried to a per
 
 **2. Mountain Goat (Dê Núi)** ⭐⭐⭐⭐⭐
 
-Mountain goat meat is renowned throughout Vietnam and is an absolute must when visiting Ninh Binh. The goats grazing freely in the mountains make the meat extremely lean and slightly chewy, with an incredibly pure flavour
+Mountain goat is famous across Vietnam and an absolute must in Ninh Binh. Because the goats graze freely in the hills, the meat is very lean and slightly chewy, with a wonderfully clean flavour
 .
 
 **Main preparations:**
@@ -50,7 +50,7 @@ A traditional dish common in northern Vietnam, especially in Ninh Binh, often en
 
 **5. Exotic Dishes (for the more adventurous)**
 - **Xôi Trứng Kiến** (Glutinous rice with ant eggs): 
-A rare and unusual dish that gives the glutinous rice a unique nutty flavour and an interesting texture. The ant eggs provide a rich, slightly creamy taste
+A rare, unusual dish in which the ant eggs lend the glutinous rice a distinctive nutty flavour and an intriguing texture, along with a rich, slightly creamy taste
 - 
 Price: 50,000–100,000 VND/dish (€2.10–4.20)
 
@@ -60,7 +60,7 @@ Price: 50,000–100,000 VND/dish (€2.10–4.20)
 
 **1. Tam Coc Garden Restaurant** ⭐⭐⭐⭐⭐
 
-Set within the serene Tam Coc Garden resort, this restaurant offers an elegant dining experience surrounded by lush rice paddies and limestone mountains. The menu highlights both Vietnamese classics and refined takes on Ninh Binh specialties, including goat dishes, fresh fish and seasonal vegetables
+Tucked inside the serene Tam Coc Garden resort, this is elegant dining wrapped in lush rice paddies and limestone mountains. The menu runs from Vietnamese classics to refined takes on Ninh Binh specialties, including goat dishes, fresh fish and seasonal vegetables
 .
 - **Area:** Tam Coc area
 - **Price:** €€€ (€15–25/person)
@@ -74,7 +74,7 @@ Recognised as a TripAdvisor Travelers' Choice 2023, it offers a diverse menu ran
 
 **3. Hoang Giang Restaurant** ⭐⭐⭐⭐
 
-A renowned restaurant that draws customers from near and far with its excellent cuisine and its large, welcoming dining area with a charming garden. Its standout feature is not just the tasty goat meat but also the delicious crispy scorched rice dish
+A well-known spot that pulls in diners from near and far with its excellent cooking and a large, welcoming dining room opening onto a charming garden. What sets it apart is not just the tasty goat but also the superb crispy scorched rice
 .
 - **Address:** 
 52 Hoang Hoa Tham, Thanh Binh Ward
@@ -108,7 +108,7 @@ Cầu Non Nước
 
 **7. Chookie's Beer Garden** ⭐⭐⭐⭐
 
-A paradise for beer lovers with a wide selection of the country's best craft beers and an eco-friendly atmosphere. The diverse menu includes a splash pool, wood-fired pizza, genuine coffee, hammocks and homemade ice cream
+A paradise for beer lovers, with a wide range of the country's best craft beers and a laid-back, eco-friendly feel. Beyond the food there's a splash pool, wood-fired pizza, proper coffee, hammocks and homemade ice cream
 .
 - **Address:** 
 Van Lam Village, Ninh Hai Commune, Hoa Lu District
@@ -124,7 +124,7 @@ Ranked among Ninh Binh's top 7 restaurants by TripAdvisor, one of the best place
 
 **Chợ Rồng (Dragon Market)** ⭐⭐⭐⭐⭐
 
-The vibrant, beating heart of Ninh Binh's commercial life. It's a traditional Vietnamese market, full of energy, colour and bustle. It remains the main hub where locals go for their daily needs
+The vibrant, beating heart of Ninh Binh's commercial life — a traditional Vietnamese market bursting with energy, colour and bustle, and still where locals come for their daily shopping
 .
 
 - **Address:** 
@@ -134,13 +134,13 @@ Daily from 6:00 to 19:00, with peak activity in the early morning
 
 **What to buy:**
 - 
-Com Chay (crispy scorched rice): this iconic local delicacy is a must. Look for the plain versions, which are perfect as a vegetarian souvenir. A dish typically costs 30,000–50,000 VND (€1.20–2.00)
+Com Chay (crispy scorched rice): this iconic local delicacy is a must-buy. Go for the plain versions, which make a perfect vegetarian souvenir. A pack typically costs 30,000–50,000 VND (€1.20–2.00)
 - 
 Handicrafts and souvenirs: finely woven bamboo baskets and traditional conical hats. Fresh local produce: the vivid displays of tropical fruits such as dragon fruit, rambutan and jackfruit
 
 **Ninh Binh Night Market** ⭐⭐⭐⭐
 
-Conveniently located in the heart of Ninh Binh City, along Dinh Tien Hoang Street — one of the city's liveliest and most vibrant areas
+Handily set in the heart of Ninh Binh City along Dinh Tien Hoang Street, one of the liveliest, most buzzing corners of town
 .
 
 - **Hours:** 
@@ -157,7 +157,7 @@ This market is a charming blend of tradition and modernity, offering a variety o
 
 **🏛️ IN TEMPLES AND SACRED PLACES:**
 - 
-When visiting temples, wear modest clothing and always remove your shoes and hat. You can carry your shoes with you, but don't wear them on your feet
+When visiting temples, dress modestly and always take off your shoes and hat. You can carry your shoes with you, just don't keep them on
 - 
 Remove your shoes before entering temple buildings. Speak softly or stay silent in sacred areas. Walk slowly and observe what the locals do
 - 

@@ -1,4 +1,6 @@
-# ## Where and What to Eat in Chau Doc & Mekong
+# FOOD & CULTURE
+
+## Where and What to Eat in Chau Doc & Mekong
 
 ### Must-Try Typical Dishes
 
@@ -10,23 +12,23 @@ Chau Doc is famous for bún cá (not to be confused with bún chả!), a rice-no
 Bún cá made with rice noodles, turmeric and crispy diên diên flowers is a classic Chau Doc breakfast.
  **Price:** 30,000-60,000 VND (€1.20-2.50)
 
-The broth is cooked with linh fish sauce and shrimp paste, adding a bit of turmeric to create an appealing yellow color, served with snakehead fish, diên diên flowers and raw vegetables.
+The broth is simmered with linh fish sauce and shrimp paste, with a little turmeric for an appealing yellow colour, and served with snakehead fish, diên diên flowers and raw vegetables.
 
 **Bánh Tằm Bì** — A special Mekong Delta noodle dish
 
-This distinctive dish features thick rice noodles, resembling silkworms (hence the name "tằm," meaning silkworm) topped with shredded pork skin (bì), slices of Vietnamese ham (chả lụa), fresh herbs and a generous amount of creamy coconut-milk dressing. It's a wonderfully creamy, savory and slightly sweet sensation, quite different from anything else you might find.
+This distinctive dish features thick rice noodles, resembling silkworms (hence the name "tằm," meaning silkworm) topped with shredded pork skin (bì), slices of Vietnamese ham (chả lụa), fresh herbs and a generous amount of creamy coconut-milk dressing. It's wonderfully creamy, savoury and a touch sweet, quite unlike anything else you'll find.
  **Price:** 35,000-50,000 VND (€1.40-2.00)
 
 **Cá Kho Tộ** — Braised fish in a terracotta pot
 
-Chau Doc is all about seafood, and you can't go wrong with the fish in a terracotta pot. A basic, often crowded restaurant designed for Vietnamese family meals, ordering several plates of meat, seafood and vegetables to share, the house specialty is com cá kho tộ (catfish in a terracotta pot) and sweet-and-sour soup with catfish or shrimp.
+Chau Doc is all about seafood, and you can't go wrong with fish in a terracotta pot. These are simple, often crowded places built for Vietnamese family meals, where you order several plates of meat, seafood and vegetables to share; the house speciality is com cá kho tộ (catfish in a terracotta pot) and a sweet-and-sour soup with catfish or shrimp.
  **Price:** 70,000-120,000 VND (€2.80-4.80)
 
 **Mắm** — Fermented fish, a Chau Doc specialty
 
-Before you know it, you'll smell mắm, the fermented fish that is Chau Doc's specialty. Wander around the market to admire piles of fish — marinated in palm sugar, salt, chili and garlic — fermenting in the open air.
+Before you know it, you'll smell mắm, the fermented fish that is Chau Doc's speciality. Wander the market to take in the piles of fish — marinated in palm sugar, salt, chilli and garlic — fermenting in the open air.
  
-Among the types of fish sauce sold at the Chau Doc market (An Giang), the Thai fermented fish is popular with many people.
+Of all the fermented fish sold at the Chau Doc market (An Giang), the Thai-style mắm is a particular favourite.
 
 ### Our Recommended Restaurants and Street Food
 
@@ -53,7 +55,7 @@ Not far away and almost opposite the Victoria, you'll find the easy-to-remember 
 
 **🥘 Quan An 88** (78 Nguyen Van Thoai)
 
-It's a favorite spot for those looking for unique breakfast dishes like shaking pork, a dish with sweet-and-sour sauce, served with eggs, shaking beef and bread. Even though the restaurant is simple, it's always crowded thanks to the consistent quality of the food and reasonable prices. This is an ideal place to explore the breakfast cuisine of the people of Chau Doc.
+A favourite for anyone after unusual breakfast dishes like shaking pork in a sweet-and-sour sauce, served with eggs, shaking beef and bread. Simple as it is, it's always busy thanks to the consistent quality and reasonable prices — an ideal place to explore what Chau Doc eats for breakfast.
 
 **Hours:** Breakfast
 **Price:** 40,000-80,000 VND
@@ -67,7 +69,7 @@ Being right by the river, Chau Doc isn't shy about its seafood, and Phuong, a li
 
 **🦀 Bassac Restaurant** (Victoria Hotel)
 
-The Bassac Restaurant in Vietnam offers a satisfying culinary experience with its delicious cuisine and splendid atmosphere. Diners can enjoy well-prepared dishes while taking in a picturesque view of the Mekong at sunset. The staff are friendly, helpful and discreet. From appetizers like scallops to main courses like Vietnamese chicken curry and fish in a terracotta pot (ca basa kho), every dish is flavorful.
+The Bassac serves a satisfying meal in a splendid setting, with a picture-postcard view over the Mekong at sunset. The staff are friendly, helpful and discreet, and everything is full of flavour — from starters like scallops to mains such as Vietnamese chicken curry and fish in a terracotta pot (ca basa kho).
 
 **View:** Over the Mekong
 **Price:** 200,000-500,000 VND per person
@@ -76,14 +78,14 @@ The Bassac Restaurant in Vietnam offers a satisfying culinary experience with it
 
 **Chau Doc Market** (Bach Dang Street)
 
-About 1 kilometer west of the center of Chau Doc Town, the Chau Doc Market is located on Bach Dang Street, Chau Phu A Ward and is labeled as the world of fermented or salted fish in many different varieties. So, the market is also the Mekong Delta's main supplier of fermented and fried fish throughout the country. The other reason for a trip to this place is that it's a street-food paradise for food lovers. Opening hours are from 6:00 to 17:00 every day, and there's no entrance fee.
+About 1 kilometre west of the centre of Chau Doc, on Bach Dang Street in Chau Phu A Ward, the Chau Doc Market is a whole world of fermented and salted fish in every imaginable variety — indeed it supplies fermented and fried fish across the Mekong Delta and beyond. The other reason to come is that it's a street-food paradise. It opens daily from 6:00 to 17:00, with no entrance fee.
 
 **Best times:**
-The busiest hours are between 7 and 8 in the morning. Don't forget to get up early to visit the market at its most intense, between 6-7 in the morning.
+It's busiest between 7 and 8 in the morning, but get up early and catch it at its liveliest between 6 and 7.
 
 **What to buy:**
 -
-The Chau Doc Market is also called the "kingdom of fermented/salted fish," so various tasty types of it are sold there, and you can smell it from afar. Since it's the finest of Chau Doc's specialties, An Giang, it's clear you shouldn't leave it off your list of what to bring back from this trip.
+The Chau Doc Market is known as the "kingdom of fermented and salted fish" — you can smell it from afar — and it comes in every tasty variety. It's the finest of An Giang's specialities, so it belongs on your list of things to bring home.
 
 - Fresh tropical fruit
 -
@@ -100,7 +102,7 @@ The best time to visit the Long Xuyen floating market is from 5:30 to 6:30 in th
 
 **In the Temples:**
 -
-Cover your shoulders and knees in areas of religious or cultural importance, such as temples and people's homes. One of the most critical moments to make sure you respect local customs and traditions is when visiting temples and other sacred places.
+Cover your shoulders and knees in places of religious or cultural importance, such as temples and people's homes — this is where respecting local customs matters most.
 
 -
 Take off your shoes before entering the temple buildings. Speak softly or stay silent in sacred areas. Walk slowly and observe what the locals do.
@@ -113,7 +115,7 @@ Inside the temples, visitors should speak softly and avoid touching sacred objec
 Wait to be invited to sit down and start eating, especially in homes. Use the chopsticks correctly—don't stick them upright in the rice (it resembles a funeral offering). Share the dishes: most meals are family-style, and it's polite to try a little of everything.
 
 -
-If invited to a family meal, wait for the oldest person to start eating before you do. Wait for the oldest person to raise their chopsticks before eating. Don't stick chopsticks upright in a bowl of rice—it resembles incense at funerals.
+If invited to a family meal, wait for the oldest person to raise their chopsticks before you start. And don't stand your chopsticks upright in a bowl of rice — it resembles incense at a funeral.
 
 **Behavior in Public:**
 -
@@ -152,7 +154,7 @@ Vietnamese culture values modesty and harmony, so public behavior that draws too
 
 **Notes on Prices:**
 The prices listed are current as of 2025-2026.
-The average daily cost of food ranges from 200,000 to 1,400,000 VND (8-58 USD) per person, with street food representing the cheapest option and upscale restaurants representing the premium prices.
+The average daily spend on food ranges from 200,000 to 1,400,000 VND (8-58 USD) per person — street food at the cheap end, upmarket restaurants at the top.
  
 Street food in Hanoi typically costs between 15,000 and 80,000 VND (0.60-3.20 USD) per dish
 , and in Chau Doc prices are slightly lower, being a less touristy destination.
