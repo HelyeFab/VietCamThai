@@ -1,3 +1,5 @@
+# DAY BY DAY — Chau Doc & Mekong
+
 ## Day 13 — October 13, 2026 — Among the lotus flowers of the enchanted forest
 
 ### Morning

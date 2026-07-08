@@ -1,3 +1,5 @@
+# GIORNO PER GIORNO — Hué
+
 ## Giorno 20 — 20 Ottobre 2026 — Benvenuti nella Città Imperiale
 
 ### Mattina

@@ -1,3 +1,5 @@
+# DAY BY DAY — Ninh Binh
+
 ## Day 25 — October 25, 2026 — The Underground Halong Bay
 
 ### Morning

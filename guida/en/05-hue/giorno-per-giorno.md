@@ -1,3 +1,5 @@
+# DAY BY DAY — Hue
+
 ## Day 20 — October 20, 2026 — Welcome to the Imperial City
 
 ### Morning

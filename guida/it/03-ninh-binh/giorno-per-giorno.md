@@ -1,3 +1,5 @@
+# GIORNO PER GIORNO — Ninh Binh
+
 ## Giorno 25 — 25 Ottobre 2026 — L'Halong Bay Sotterranea
 
 ### Mattina
