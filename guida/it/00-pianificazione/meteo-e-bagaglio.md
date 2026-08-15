@@ -1,6 +1,6 @@
 ## Meteo e Cosa Mettere in Valigia
 
-![Monsoon clouds over Southeast Asian landscape](https://images.unsplash.com/photo-1507117915365-0cd26e725f3c)
+![Nuvole monsoniche sulle montagne del Vietnam centrale, Parco Nazionale di Bach Ma](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bach_Ma_NP2.jpg/1280px-Bach_Ma_NP2.jpg)
 
 ### Clima Atteso (1 - 31 Ottobre 2026)
 

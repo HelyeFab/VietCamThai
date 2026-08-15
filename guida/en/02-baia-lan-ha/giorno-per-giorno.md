@@ -6,7 +6,7 @@
 **Departure from Ninh Binh (morning)**
 - Take the combined transfer from Ninh Binh to Cat Ba (3.5-4 hours) via Hai Phong — bus, ferry/speedboat and local bus rolled into one — for around €15-20 per person
 
-![Cruising in Lan Ha Bay](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Rick_and_Ruddy_afloat%3B_the_cruise_of_a_boy_and_his_dog_%28IA_rickruddyafloatc00gari%29.pdf/page1-960px-Rick_and_Ruddy_afloat%3B_the_cruise_of_a_boy_and_his_dog_%28IA_rickruddyafloatc00gari%29.pdf.jpg)
+![Cruising in Lan Ha Bay](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Islas_de_la_bah%C3%ADa_de_Lan_Ha%2C_Vietnam_%2836842724446%29.jpg/1280px-Islas_de_la_bah%C3%ADa_de_Lan_Ha%2C_Vietnam_%2836842724446%29.jpg)
 
 - Set off from Ninh Binh early so you reach Cat Ba town by midday and board the cruise in the early afternoon
 

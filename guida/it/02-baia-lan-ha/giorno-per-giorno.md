@@ -7,7 +7,7 @@
 - 
 Prendete il transfer combinato da Ninh Binh a Cat Ba (3,5-4 ore), via Hai Phong, che include bus, traghetto/speedboat e bus locale, a circa 15-20€ a persona
 
-![Crociera nella Baia di Lan Ha](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Rick_and_Ruddy_afloat%3B_the_cruise_of_a_boy_and_his_dog_%28IA_rickruddyafloatc00gari%29.pdf/page1-960px-Rick_and_Ruddy_afloat%3B_the_cruise_of_a_boy_and_his_dog_%28IA_rickruddyafloatc00gari%29.pdf.jpg)
+![Crociera nella Baia di Lan Ha](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Islas_de_la_bah%C3%ADa_de_Lan_Ha%2C_Vietnam_%2836842724446%29.jpg/1280px-Islas_de_la_bah%C3%ADa_de_Lan_Ha%2C_Vietnam_%2836842724446%29.jpg)
 
 - 
 Partite presto da Ninh Binh per arrivare a Cat Ba town a metà giornata e imbarcarvi sulla crociera nel primo pomeriggio

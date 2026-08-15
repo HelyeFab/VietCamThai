@@ -1,6 +1,6 @@
 ## Weather & What to Pack
 
-![Monsoon clouds over Southeast Asian landscape](https://images.unsplash.com/photo-1507117915365-0cd26e725f3c)
+![Monsoon cloud over the mountains of central Vietnam, Bach Ma National Park](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bach_Ma_NP2.jpg/1280px-Bach_Ma_NP2.jpg)
 
 ### Expected Climate (1 - 31 October 2026)
 

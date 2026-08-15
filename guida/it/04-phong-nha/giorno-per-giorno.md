@@ -68,7 +68,7 @@ Una volta raggiunta l'imboccatura della Grotta di Phong Nha, la barca passa sott
 
 **Relax al fiume (13:00-15:00)**
 
-![La valle del fiume Son a Phong Nha](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Stories_and_legends_of_Annam_%28IA_cu31924023423142%29.pdf/page1-500px-Stories_and_legends_of_Annam_%28IA_cu31924023423142%29.pdf.jpg)
+![La valle del fiume Son a Phong Nha](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Son_River-Quang_Binh_province.jpg/1280px-Son_River-Quang_Binh_province.jpg)
 
 Dopo la grotta, godetevi un pranzo rilassante in uno dei ristoranti sul fiume. 
 Provate il Cà Carp del fiume Son grigliato (Cá Trắm) e l'anguilla grigliata

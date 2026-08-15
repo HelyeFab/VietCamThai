@@ -57,7 +57,7 @@ It begins with a peaceful 25-30 minute cruise along the Son River, past countrys
 
 **Relaxing by the river (13:00-15:00)**
 
-![The Son River valley at Phong Nha](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Stories_and_legends_of_Annam_%28IA_cu31924023423142%29.pdf/page1-500px-Stories_and_legends_of_Annam_%28IA_cu31924023423142%29.pdf.jpg)
+![The Son River valley at Phong Nha](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Son_River-Quang_Binh_province.jpg/1280px-Son_River-Quang_Binh_province.jpg)
 
 After the cave, settle in for a relaxed lunch at one of the riverside restaurants. Try the grilled Son River carp (Cá Trắm) and grilled eel at the **Son River Floating Restaurant**.
 
