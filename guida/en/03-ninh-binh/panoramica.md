@@ -40,10 +40,10 @@ The festivities take in a re-enactment of "Co lau tap tran", calligraphy contest
 
 ### When to Go
 
-**The perfect time for your trip (October 25–26).** 
+**The perfect time for your trip (October 23–25).** 
 Late October catches Ninh Binh in the height of the dry, pleasant autumn: clearer skies, falling humidity and comfortable temperatures for exploring by boat and by bike without the stifling heat of summer.
  
-An honest note on the rice paddies: the second harvest, with its famous golden fields, peaks between late September and early October. Arriving on October 25–26, many fields are likely to have already been harvested — expect more of the soft green and brown stubble than the golden expanses. The karst landscape, caves and rivers remain spectacular in any season, however.
+An honest note on the rice paddies: the second harvest, with its famous golden fields, peaks between late September and early October. Arriving on October 23–25, many fields are likely to have already been harvested — expect more of the soft green and brown stubble than the golden expanses. The karst landscape, caves and rivers remain spectacular in any season, however.
 
 **What to expect in late October:** 
 Expect daytime highs of around 26–28°C, with overnight lows dropping toward 20°C. Unlike September, October marks the exit from the rainy season: rainfall drops sharply and the days are mostly dry and sunny.

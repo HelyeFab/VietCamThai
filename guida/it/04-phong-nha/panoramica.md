@@ -49,7 +49,7 @@ Durante la Guerra Vietnamita, il parco nazionale era un'area di sosta per il nor
 La temperatura rimane piacevole per la maggior parte dell'anno, con il periodo più caldo che cade da giugno ad agosto e il periodo più freddo da dicembre a febbraio. Nello specifico, la temperatura media è di circa 23°C - 25°C. In termini di precipitazioni, è più intensa proprio a ottobre e novembre, il che nutre la vegetazione vibrante del parco
 .
 
-**Il tuo periodo (23-24 ottobre) — cosa aspettarsi davvero:**
+**Il vostro periodo (19-22 ottobre) — cosa aspettarsi davvero:**
 
 Siete in piena stagione delle piogge: la fine di ottobre è uno dei momenti più bagnati dell'anno, con precipitazioni frequenti e forti. Le temperature si raffreddano intorno ai 22°C-28°C, e l'umidità rimane alta. Il cielo è spesso nuvoloso e sono comuni acquazzoni improvvisi
 . 

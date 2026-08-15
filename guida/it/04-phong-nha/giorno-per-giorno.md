@@ -4,7 +4,7 @@
 
 ### Mattina
 
-![Il Passo di Hải Vân sulla costa del Vietnam centrale](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/ThienDuongCave1.jpg/1280px-ThienDuongCave1.jpg)
+![Il Passo di Hải Vân sulla costa del Vietnam centrale](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Hai_Van_Pass_Vietnam.jpg/1280px-Hai_Van_Pass_Vietnam.jpg)
 
 Oggi è una giornata di strada, ma è una delle più belle del viaggio. Si parte da Hoi An in **auto privata verso le 8:00** e si sale verso nord lungo la costa: circa **6-7 ore** fino a Phong Nha, soste comprese.
 

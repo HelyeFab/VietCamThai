@@ -4,7 +4,7 @@
 
 ### Morning
 
-![The Hai Van Pass on the central Vietnamese coast](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/ThienDuongCave1.jpg/1280px-ThienDuongCave1.jpg)
+![The Hai Van Pass on the central Vietnamese coast](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Hai_Van_Pass_Vietnam.jpg/1280px-Hai_Van_Pass_Vietnam.jpg)
 
 Today is a driving day, but one of the finest of the trip. You leave Hoi An by **private car around 8:00** and head north along the coast: roughly **6-7 hours** to Phong Nha, stops included.
 

@@ -20,4 +20,4 @@ L'anima dell'isola resta legata al mare: la comunità locale di M'Pai Bay vive a
 
 ![Lazy Beach al tramonto](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lazy_Beach%2C_Koh_Rong_Sanloem.jpg/1280px-Lazy_Beach%2C_Koh_Rong_Sanloem.jpg)
 
-**Perché vale la pena fermarsi**: dopo tre settimane di città, templi e spostamenti, Koh Rong Samloem è il momento per rallentare davvero. Due notti bastano per ricaricarsi, fare snorkeling, vedere il plancton luminoso e ripartire verso Phnom Penh con un altro ritmo addosso.
+**Perché vale la pena fermarsi**: dopo tre settimane di città, templi e spostamenti, Koh Rong Samloem è il momento per rallentare davvero. Tre notti bastano per ricaricarsi, fare snorkeling, vedere il plancton luminoso e ripartire verso Phnom Penh con un altro ritmo addosso.

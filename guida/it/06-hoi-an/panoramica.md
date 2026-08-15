@@ -35,7 +35,7 @@ Hoi An non fu coinvolta dalla cruenta Guerra del Vietnam e quindi ha potuto cons
 
 ### Quando Andare
 
-Diciamolo con onestà: il vostro periodo (17-19 ottobre) cade proprio all'inizio della stagione delle piogge nel Vietnam centrale, che a Hoi An è il momento più piovoso dell'anno. 
+Diciamolo con onestà: il vostro periodo (17-18 ottobre) cade proprio all'inizio della stagione delle piogge nel Vietnam centrale, che a Hoi An è il momento più piovoso dell'anno. 
 Da ottobre a novembre le precipitazioni raggiungono il loro picco — ottobre è in media il mese più piovoso, con circa 400-500 mm di pioggia distribuiti su una ventina di giorni — e le piogge possono essere torrenziali
 . Le temperature restano comunque miti e gradevoli, tra i 24°C e i 30°C, con un'umidità molto alta.
 

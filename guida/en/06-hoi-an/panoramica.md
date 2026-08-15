@@ -35,7 +35,7 @@ Hoi An was not caught up in the bloody Vietnam War and so, unlike so many other 
 
 ### When to Go
 
-Let's be honest: your dates (17-19 October) fall right at the start of the rainy season in central Vietnam, which in Hoi An is the wettest time of the year.
+Let's be honest: your dates (17-18 October) fall right at the start of the rainy season in central Vietnam, which in Hoi An is the wettest time of the year.
 From October to November rainfall reaches its peak — October is on average the rainiest month, with around 400-500 mm of rain spread over about twenty days — and the rains can be torrential
 . Temperatures nonetheless stay mild and pleasant, between 24°C and 30°C, with very high humidity.
 

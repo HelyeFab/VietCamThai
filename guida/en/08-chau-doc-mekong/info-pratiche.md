@@ -19,10 +19,18 @@ It is the option that works best with four people and four large suitcases: no c
 - ⚠️ Careful reading timetables online: the 07:30 departure you'll find everywhere runs in the **opposite direction**, Chau Doc → Phnom Penh
 
 
-### Moving On — Bus to Ho Chi Minh City
+### Moving On — Tra Su Forest and private car to Ho Chi Minh City
 
+**14 October.** The day combines both things in a single package arranged by the hotel:
 
-From Chau Doc you carry on to Ho Chi Minh City by bus: about 5-6 hours, with departures every 2 hours from 5:00 to 23:00 and tickets starting at 8 dollars (about €7.5).
+1. **Morning — the Tra Su cajuput forest by boat.** Entry, rowing boat and motor boat all included. It is the right time of year: in October the water is high and the carpet of green duckweed is at its best
+2. **Then — a private door-to-door transfer to Ho Chi Minh City**, leaving between 07:00 and 08:00 and **arriving in the city around 17:00-18:00**, still in daylight
+
+**Indicative cost**: around **4,800,000 VND** for the complete package (forest + car), settled at the hotel — in **cash VND, or by card with a 3% surcharge**.
+
+The advantage over the coach is not the price, it is the timing: the evening coach reaches Saigon around 23:00, and after a single night in Chau Doc that difference is felt.
+
+**Alternative — scheduled bus**: about 5-6 hours, departures every 2 hours from 5:00 to 23:00, tickets starting at 8 dollars (about €7.5).
 
 **Recommended companies:**
 - **Phuong Trang (Futa Bus)** - The absolute first choice

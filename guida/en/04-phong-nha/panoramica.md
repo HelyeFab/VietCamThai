@@ -35,7 +35,7 @@ During the war, the national park served as a staging area for the North, and th
 
 Temperatures stay pleasant for most of the year, hottest from June to August and coolest from December to February, with an annual average of around 23°C - 25°C. The rain is heaviest in October and November — and it's that rain that keeps the park's vegetation so lush.
 
-**Your dates (23-24 October) — what to really expect:**
+**Your dates (19-22 October) — what to really expect:**
 
 You'll be there at the height of the rainy season: late October is one of the wettest stretches of the year, with frequent, heavy rain. Temperatures ease to around 22°C-28°C, humidity stays high, the sky is often overcast, and sudden downpours are common. The key practical point: with the heavy rains from September to November, the Son River can rise fast, and water caves like the Phong Nha Cave (the one you visit by boat) may have restricted access or close altogether when it floods.
 

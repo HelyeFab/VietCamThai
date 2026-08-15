@@ -20,4 +20,4 @@ The island's soul remains tied to the sea: the local community of M'Pai Bay stil
 
 ![Lazy Beach at sunset](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lazy_Beach%2C_Koh_Rong_Sanloem.jpg/1280px-Lazy_Beach%2C_Koh_Rong_Sanloem.jpg)
 
-**Why it's worth stopping here**: after three weeks of cities, temples and travelling, Koh Rong Samloem is the moment to truly slow down. Two nights are enough to recharge, snorkel, see the glowing plankton and set off again towards Phnom Penh at a gentler pace.
+**Why it's worth stopping here**: after three weeks of cities, temples and travelling, Koh Rong Samloem is the moment to truly slow down. Three nights are enough to recharge, snorkel, see the glowing plankton and set off again towards Phnom Penh at a gentler pace.

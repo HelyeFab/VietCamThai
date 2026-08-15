@@ -40,10 +40,10 @@ Le attività di intrattenimento includono l'esecuzione di "Co lau tap tran", com
 
 ### Quando Andare
 
-**Il momento perfetto per il vostro viaggio (25-26 ottobre).** 
+**Il momento perfetto per il vostro viaggio (23-25 ottobre).** 
 Fine ottobre coglie Ninh Binh nel pieno dell'autunno asciutto e piacevole: cieli più limpidi, umidità in calo e temperature gradevoli per esplorare in barca e in bicicletta senza il caldo soffocante dell'estate.
  
-Una nota onesta sulle risaie: il secondo raccolto, con le sue celebri risaie dorate, ha il suo picco tra fine settembre e inizio ottobre. Arrivando il 25-26 ottobre è probabile che molti campi siano già stati mietuti — aspettatevi più il verde tenue e le stoppie brune che le distese dorate. Il paesaggio carsico, le grotte e i fiumi restano comunque spettacolari in qualsiasi stagione.
+Una nota onesta sulle risaie: il secondo raccolto, con le sue celebri risaie dorate, ha il suo picco tra fine settembre e inizio ottobre. Arrivando il 23-25 ottobre è probabile che molti campi siano già stati mietuti — aspettatevi più il verde tenue e le stoppie brune che le distese dorate. Il paesaggio carsico, le grotte e i fiumi restano comunque spettacolari in qualsiasi stagione.
 
 **Cosa aspettarsi a fine ottobre:** 
 Aspettati massime diurne attorno ai 26-28°C, con minime notturne che scendono verso i 20°C. A differenza di settembre, ottobre segna l'uscita dalla stagione piovosa: le precipitazioni calano nettamente e le giornate sono in prevalenza asciutte e soleggiate.

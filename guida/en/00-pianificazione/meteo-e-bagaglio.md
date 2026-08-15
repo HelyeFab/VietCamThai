@@ -36,7 +36,7 @@ Still the wet season, but the south is the gentlest part of Vietnam at this time
 - **Temperatures**: 23-30°C, very high humidity
 - **To do**: check the forecast day by day, keep your plans flexible, and pack a raincoat and dry bags
 
-#### **Northern Vietnam — Ninh Binh, Lan Ha Bay, Hanoi (25-31 Oct)**
+#### **Northern Vietnam — Ninh Binh, Lan Ha Bay, Hanoi (23-31 Oct)**
 
 
 The grand finale, and the best window of all: the north settles into the **heart of the dry autumn**. Clear skies, low humidity, cool and pleasant temperatures, and calm seas for the cruise in Lan Ha Bay. Late October is one of the finest times of year for Hanoi and Halong.

@@ -36,7 +36,7 @@ Ancora stagione umida, ma il sud è la parte più mite del Vietnam in questo per
 - **Temperature**: 23-30°C, umidità molto alta
 - **Da fare**: controllate le previsioni giorno per giorno, tenete piani flessibili, portate impermeabile e sacche stagne
 
-#### **Vietnam del Nord — Ninh Binh, Baia di Lan Ha, Hanoi (25-31 Ott)**
+#### **Vietnam del Nord — Ninh Binh, Baia di Lan Ha, Hanoi (23-31 Ott)**
 
 
 Il gran finale, e il periodo migliore: il nord entra nel **cuore dell'autunno secco**. Cieli limpidi, umidità bassa, temperature fresche e gradevoli, mare calmo per la crociera nella Baia di Lan Ha. Fine ottobre è una delle finestre migliori dell'anno per Hanoi e Halong.
