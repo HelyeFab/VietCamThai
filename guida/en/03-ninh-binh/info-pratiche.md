@@ -2,13 +2,21 @@
 
 ### Getting There
 
-**From Phong Nha to Ninh Binh by night bus (8–10 hours)**
+**From Phong Nha to Ninh Binh by private car (our leg, 8-9 hours)**
 
+From Phong Nha, your previous stop, Ninh Binh is reached by **private 7-seat car**: about **450 km and 8-9 hours including stops** to eat and rest, with **departure at 8:00** and arrival in Tam Cốc **between 16:00 and 17:00**, still in daylight and well within check-in hours.
 
-From Phong Nha, your previous stop, you reach Ninh Binh on overnight sleeper buses that cost around €12–15 per person and take 8–10 hours
+It is the longest leg of the trip. With four people and four large suitcases, the private car has two advantages that matter more than the price: **you leave when you want to** and **you stop when you need to**, instead of being tied to a coach timetable.
+
+- **Indicative price**: around **5 million VND (€165-180) for the vehicle**, not per person
+- **Ask the Phong Nha accommodation**: they arrange it routinely and it is generally settled on departure, along with the room bill
+- ⚠️ **Watch the card surcharge**: some places add **3-4% to the whole final bill**, not just the transfer. To avoid it, withdraw cash **in Hoi An or Da Nang**, where ATM limits are higher than in small towns
+
+**Alternative: overnight sleeper bus.**
+Ninh Binh is also reachable on overnight sleeper buses that cost around €12–15 per person and take 8–10 hours
 . 
-Departure is typically in the evening (19:30–21:00) with arrival at dawn, so you gain a night and arrive rested
-.
+Departure is typically in the evening (19:30–21:00) with arrival at dawn
+. Far cheaper, but you sleep on a coach and are dropped at dawn, hours before any check-in.
 
 **Recommended companies:**
 - **Queen Cafe / Full Moon**: 
@@ -35,9 +43,18 @@ Bring an extra layer: the night buses keep the air conditioning cranked high
 Ninh Binh's bus station is near the train station, beyond the bridge toward Phat Diem
 
 
-**Departing — toward Lan Ha Bay:**
+**Departing — toward Lan Ha Bay (26 October): ⚠️ this one has a hard deadline**
 
-From the Ninh Binh / Hai Phong area, your next stop is Lan Ha Bay (Cat Ba Island), a bus-plus-ferry/speedboat trip of roughly 3.5–4 hours. Many places to stay can arrange the combined transfer, or the connection via Hai Phong.
+From Tam Cốc you go **straight to the cruise embarkation pier**, not to Cat Ba: **Tuan Chau Marina**, about **180 km and 3.5-4 hours** by road.
+
+**Cruise check-in closes at midday and the boat leaves.** Boarding is between **11:30 and 11:45**, and arriving late at the pier counts as a no-show, with no refund. So:
+
+- **Leave Tam Cốc around 07:00-07:15**, to have margin and to be able to stop once along the way
+- ⚠️ That is **well before normal check-out**: it has to be agreed with the accommodation in advance, not just booked as a car
+- **The transfer is not included in the cruise**: the operators' shuttles run from Hanoi's Old Quarter, not from Ninh Binh. This leg is on you
+- **Ask the Tam Cốc accommodation**, which is the right place to arrange it (the same principle used for the other legs: ask the hotel you are leaving from)
+
+This is not a leg to improvise on the morning: it is the one appointment on the trip with a real penalty attached.
 
 
 ### Getting Around

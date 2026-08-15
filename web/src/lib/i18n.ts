@@ -21,7 +21,7 @@ const UI = {
   it: {
     brand: "VCT Guida",
     tagline:
-      "31 giorni, 12 destinazioni, 3 paesi — la guida definitiva per un'avventura nel Sud-Est Asiatico.",
+      "31 giorni, 11 destinazioni, 3 paesi — la guida definitiva per un'avventura nel Sud-Est Asiatico.",
     heroTitle: "Vietnam · Cambogia · Thailandia",
     heroDates: "1 — 31 Ott 2026",
     travelers: "4 viaggiatori",
@@ -50,14 +50,14 @@ const UI = {
     metaTitleDefault: "VCT Guida — Vietnam Cambogia Thailandia",
     metaTitleTemplate: "%s | VCT Guida",
     metaDescription:
-      "Guida di viaggio per Vietnam, Cambogia e Thailandia — 31 giorni, 12 destinazioni, 3 paesi.",
+      "Guida di viaggio per Vietnam, Cambogia e Thailandia — 31 giorni, 11 destinazioni, 3 paesi.",
     destinationFallback: "Destinazione",
     switchTo: "English",
   },
   en: {
     brand: "VCT Guide",
     tagline:
-      "31 days, 12 destinations, 3 countries — the definitive guide to a Southeast Asia adventure.",
+      "31 days, 11 destinations, 3 countries — the definitive guide to a Southeast Asia adventure.",
     heroTitle: "Vietnam · Cambodia · Thailand",
     heroDates: "Oct 1 — 31, 2026",
     travelers: "4 travellers",
@@ -86,7 +86,7 @@ const UI = {
     metaTitleDefault: "VCT Guide — Vietnam Cambodia Thailand",
     metaTitleTemplate: "%s | VCT Guide",
     metaDescription:
-      "Travel guide to Vietnam, Cambodia and Thailand — 31 days, 12 destinations, 3 countries.",
+      "Travel guide to Vietnam, Cambodia and Thailand — 31 days, 11 destinations, 3 countries.",
     destinationFallback: "Destination",
     switchTo: "Italiano",
   },

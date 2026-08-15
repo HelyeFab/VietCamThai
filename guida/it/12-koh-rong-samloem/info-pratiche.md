@@ -5,10 +5,10 @@
 **Da Siem Reap alla costa, poi traghetto per l'isola**
 
 
-Koh Rong Samloem si raggiunge dal porto di **Sihanoukville**. Il **Giorno 8** si arriva da Siem Reap in due tappe — è una lunga giornata di viaggio:
+Koh Rong Samloem si raggiunge dal porto di **Sihanoukville**. L'**8 ottobre** si arriva da Siem Reap in due tappe, entrambe già fissate:
 
-- **Siem Reap → Sihanoukville**: van/bus diretto (lungo, ~8-10 ore, anche notturno, ~10-15€ con Giant Ibis o Virak Buntham) oppure volo interno (~1h, Cambodia Angkor Air / Sky Angkor) per guadagnare tempo
-- **Sihanoukville → Saracen Bay (Koh Rong Samloem)**: traghetto veloce, circa 45 minuti
+- **Siem Reap → Sihanoukville in aereo**: partenza **11:55**, arrivo **13:05** — poco più di un'ora. La stessa tratta via terra richiede 8-10 ore di van, quindi il volo compra praticamente una giornata intera
+- **Sihanoukville → Saracen Bay (Koh Rong Samloem)**: traghetto veloce delle **16:15**, arrivo **16:55**. Fra atterraggio e imbarco restano circa tre ore, comode per il transfer al molo e il pranzo
 
 **Compagnie dei traghetti:**
 - **Speed Ferry Cambodia** e **Buva Sea** — 2-3 corse al giorno, biglietto ~12-15€ andata/ritorno
@@ -22,7 +22,14 @@ Koh Rong Samloem si raggiunge dal porto di **Sihanoukville**. Il **Giorno 8** si
 ### Come Proseguire — verso Phnom Penh
 
 
-**Non esiste un traghetto diretto per Phnom Penh**: il collegamento è in due tappe. Il **Giorno 10** si rientra prima in traghetto veloce a **Sihanoukville** (Speed Ferry Cambodia / Buva Sea, ~45 minuti) e da lì si prosegue via terra in **bus/van (o transfer privato)** fino a **Phnom Penh** (~5 ore, ~8-15€ con Giant Ibis o Virak Buntham). Prenota il traghetto del mattino o del primo pomeriggio per non arrivare in capitale di notte.
+**Non esiste un traghetto diretto per Phnom Penh**: il collegamento è in due tappe, l'**11 ottobre**.
+
+1. **Traghetto veloce Koh Rong Samloem → Sihanoukville**: partenza **08:47**, arrivo **09:48** — la corsa del mattino presto, per avere tutto il resto della giornata
+2. **Sihanoukville → Phnom Penh in minivan privato**: circa **3-3,5 ore**, con arrivo in capitale nel primo pomeriggio
+
+⚠️ **Il punto d'incontro con l'autista è il cancello di USCITA del porto**, non l'interno: le auto non possono entrare nell'area portuale. Chi vi prende in carico aspetta fuori con un cartello.
+
+**Alternativa**: bus/van di linea fino a Phnom Penh (~5 ore, ~8-15€ con Giant Ibis o Virak Buntham).
 
 
 ### Come Muoversi

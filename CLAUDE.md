@@ -1,6 +1,10 @@
 # VietCamThai Travel Guide
 
-AI-generated travel guide for Vietnam, Cambodia, and Thailand — 31 days, 1–31 October 2026, 4 travelers. Route runs Bangkok → Siem Reap → Koh Rong Samloem → Phnom Penh → Chau Doc → HCMC → Hoi An → Hué → Phong Nha → Ninh Binh → Lan Ha → Hanoi (reversed from the original Hanoi-first plan).
+AI-generated travel guide for Vietnam, Cambodia, and Thailand — 31 days, 1–31 October 2026, 4 travelers. Route runs Bangkok → Siem Reap → Koh Rong Samloem → Phnom Penh → Chau Doc → HCMC → Hoi An → Phong Nha → Ninh Binh → Lan Ha → Hanoi (reversed from the original Hanoi-first plan).
+
+**11 stops.** Hué was REMOVED from the itinerary on 17 Jul 2026 (confirmed 28 Jul): Hoi An now runs direct to Phong Nha over the Hai Van Pass, and Hué's 3 nights went to Phong Nha (4) and Ninh Binh (3). Do not re-add it.
+
+**Source of truth for transport/dates:** `parse_data.py` now reads the roadmap from `~/Documents/SyncFolder/VietThaiCam/00-Trip-Wide/Master_Itinerary_Budget_Notes.xlsx`, sheet `Proposta di Nuova📍 Roadmap Gio` (READ-ONLY — it is also the user's live Google Sheet). That sheet's *Trasporto* column lags reality; the authoritative record for times, transfers and hotels is the trip concierge's `ITINERARY.md` in the same folder. Activities come from the sheet, transport facts from `ITINERARY.md`. **This is a public site: never publish booking references, PINs, prices paid, confirmation numbers or passport data.**
 
 **Bilingual (IT + EN).** The site serves both languages under locale-prefixed routes (`/it/…`, `/en/…`) with a language switcher; Italian is primary. Content lives in `guida/it/` and `guida/en/` (mirrored trees). UI/data strings and locale routing live in `web/src/lib/i18n.ts` and `web/src/app/[lang]/`. `/` emits a static redirect (`web/scripts/emit-root-redirect.ts`, run as `postbuild`) to the visitor's language. **When you edit content, update BOTH `guida/it/<stop>/…` and `guida/en/<stop>/…`** (or translate the IT change into EN).
 
@@ -11,7 +15,7 @@ VietCamThai/
 ├── guida/                    # Source markdown content — BILINGUAL (it + en)
 │   ├── it/                   # Italian content (primary, authored)
 │   │   ├── 00-pianificazione/    # 6 planning files (budget, visas, health, etc.)
-│   │   ├── 01-hanoi/ ... 12-koh-rong-samloem/  # 12 destinations, 4 files each
+│   │   ├── 01-hanoi/ ... 12-koh-rong-samloem/  # 11 destinations, 4 files each
 │   │   │   ├── panoramica.md
 │   │   │   ├── giorno-per-giorno.md
 │   │   │   ├── cibo-e-cultura.md
@@ -116,7 +120,7 @@ Images were curated using `web/scripts/replace-images.ts` which searches Wikimed
 
 ```bash
 # Re-run the agent for a specific destination
-python3 generate_guide.py --stage 05-hue --skip-planning
+python3 generate_guide.py --stage 04-phong-nha --skip-planning
 
 # Then fix images for that destination
 cd web && npx tsx scripts/replace-images.ts

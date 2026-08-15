@@ -48,7 +48,11 @@ Verificare sempre che i dettagli dell'e-visa corrispondano esattamente al passap
 
 ### Cambogia — Visa on Arrival
 
-Per la Cambogia avrete bisogno di un visto, dato che arriverete in barca da Chau Doc.
+Per la Cambogia avrete bisogno di un visto. ⚠️ **Attenzione alla direzione del viaggio**: in Cambogia si **arriva in aereo** da Bangkok il **5 ottobre** (volo su Siem Reap), e si **esce via terra** verso il Vietnam il 13 ottobre. Il visto quindi si fa all'aeroporto di Siem Reap, non a una frontiera fluviale.
+
+> 🛂 **E-Arrival card — obbligatoria, e va compilata prima del 5 ottobre.**
+> Per gli arrivi **in aereo** la Cambogia richiede la **carta d'arrivo elettronica (e-Arrival)**, da compilare online nei giorni precedenti al volo: sostituisce il vecchio modulo cartaceo e va presentata all'atterraggio.
+> Per l'**uscita via terra** verso il Vietnam non c'è invece nulla da preparare in anticipo.
 
 #### Visa on Arrival (consigliato per voi)
 - **Costo**: 

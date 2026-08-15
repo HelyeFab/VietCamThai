@@ -2,46 +2,32 @@
 
 ### Come Arrivare
 
-Da Ninh Binh, vostra tappa precedente, si raggiunge Cat Ba (la porta d'accesso alla Baia di Lan Ha) con i 
-bus + traghetto/speedboat in circa 3,5-4 ore. Spesso il collegamento passa per Hai Phong, da cui partono i traghetti per l'isola
-. Una volta a bordo della crociera, la notte si dorme in cabina sulla baia.
+⚠️ **Questa è l'unica tratta del viaggio con un orario rigido.** Il check-in della crociera si chiude a mezzogiorno e la barca parte: arrivare tardi al molo conta come mancata presentazione, senza rimborso.
 
-**Compagnie Raccomandate:**
-- **Cat Ba Express** - 
-Considerata la migliore opzione, con collegamenti da Ninh Binh/Hai Phong
- ([sito ufficiale](https://catbaexpress.com))
-- **Good Morning Cat Ba** - 
-Servizio giornaliero combinato bus + barca
- ([sito](https://goodmorningcatba.com))
+**Da Ninh Binh al molo di imbarco (26 ottobre, ~3,5-4 ore)**
 
-**Dettagli del Trasporto:**
-- **Durata**: 
-3,5-4 ore totali da Ninh Binh
+Si va **direttamente da Tam Cốc a Tuan Chau Marina**, in auto privata: circa **180 km**. Non si passa da Cat Ba e non si prende alcun traghetto di linea — il molo di imbarco è sulla terraferma, sul lato di Ha Long.
 
-- **Prezzi**: 
-circa 15-20€ a persona per il tratto combinato bus + traghetto
+| | |
+|---|---|
+| **Partenza da Tam Cốc** | **07:00-07:15** |
+| **Imbarco** | **11:30-11:45** |
+| **Dove** | Tuan Chau Marina, Ha Long |
+| **Durata** | ~3,5-4 ore, con una sosta |
 
-- **Tratto via mare**: 
-speedboat/traghetto fino a Cat Ba, poi bus locale a Cat Ba Town (30-45 minuti)
+**Dettagli pratici:**
+- ⚠️ **Il transfer NON è incluso nella crociera.** Le navette delle compagnie partono dal quartiere vecchio di Hanoi, non da Ninh Binh: questa tratta è a carico vostro
+- **Organizzatela con l'alloggio di Tam Cốc**, che è il posto giusto per farlo
+- ⚠️ La partenza alle 07:00 è **molto prima del check-out normale**: va concordata in anticipo con l'hotel, non basta prenotare l'auto
+- Partire alle 07:00 per un imbarco alle 11:30 lascia circa un'ora di margine — che su questa strada, con quattro persone e una sosta, è il minimo ragionevole
 
+**In partenza — verso Hanoi (27 ottobre):**
 
-**Come funziona:**
-1. Bus da Ninh Binh in direzione Hai Phong / imbarco
-2. 
-Traghetto o speedboat fino all'isola di Cat Ba
+Si **sbarca verso le 11:30** e la **navetta della compagnia riporta ad Hanoi per le 14:30 circa**. Si prenota insieme alla crociera (indicativamente 20$ a persona) ed è la soluzione più semplice, perché parte quando sbarca la barca.
 
-3. 
-Bus locale a Cat Ba Town, poi transfer al molo per la crociera
+💡 Comunicate in anticipo **l'indirizzo dell'hotel di Hanoi**: alcune compagnie lasciano i passeggeri genericamente nel quartiere vecchio, altre arrivano fino alla porta.
 
-
-💡 **Insider tip**: 
-Prenotate il transfer combinato tramite il vostro alloggio di Ninh Binh o la compagnia della crociera: evitate cambi scomodi con i bagagli
-
-
-**In partenza — verso Hanoi:**
-
-Da Cat Ba, terminata la crociera, si rientra verso Hanoi con il bus diretto (bus + traghetto + bus) in circa 3-4 ore. Partenze frequenti al mattino con arrivo nel Quartiere Vecchio; molte compagnie (Cat Ba Express, Good Morning Cat Ba) offrono il pickup dal molo.
-
+Se la navetta non fosse disponibile, restano i bus di linea Cat Ba/Halong → Hanoi (3-4 ore, con **Cat Ba Express** o **Good Morning Cat Ba**).
 
 ### Come Muoversi
 

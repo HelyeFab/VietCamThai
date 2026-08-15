@@ -28,31 +28,22 @@ many Hoi An accommodations offer airport transfers on request
 
 ### Moving On
 
-**Hoi An → Hué via Hai Van Pass**
+**Hoi An → Phong Nha via the Hai Van Pass (19 October, ~6-7 hours)**
 
+From Hoi An you continue **straight to Phong Nha, without stopping in Hué**: about 300 km by **private car**, 6-7 hours including stops, leaving in the morning around 8:00.
 
-The transfer from Hoi An to Hué via the Hai Van Pass is one of the most scenic routes in Vietnam
-. A private car over the Hai Van Pass (~€25/pp) is the ideal choice —
-door-to-door service with a professional driver, and you get to pick the scenic route
-.
+It is one of the most scenic routes in Vietnam, and the reason is the **Hải Vân Pass**. Ask the driver explicitly to **take the coastal road rather than the tunnel**, with a stop at the top for photographs: the tunnel saves around forty minutes and removes the only genuinely scenic stretch of the journey.
 
 **Transport options:**
-- **Private car (recommended)**:
-About 3 hours of travel through the scenic Hai Van Pass, one of the most beautiful routes in Vietnam
-
-- **Tourist bus**:
-3.5-4.5 hours, cost $6-15/pp
-
-- **Train + bus via Da Nang**:
-5 hours total, cost $10-13/pp
-
+- **Private car (our choice)**: door to door, 6-7 hours with stops for lunch and rest. Indicatively **3.5-4.5 million VND (€115-150) for the car**, not per person. Four people with four large suitcases need a **7-seater or bigger**
+- **Ask your accommodation**: Hoi An hotels arrange this leg routinely, often with payment at reception
+- **12Go / Bookaway**: both sell the route online, a useful fallback if the hotel doesn't reply
+- **Tourist bus or limousine**: cheaper but appreciably longer over this distance
 
 **Reliable companies:**
 - **Hoi An Transport Service**: [hoi](https://hoiantransportservice.com/) -
 Specialising in private transport since 2014, modern and clean cars, punctual and professional drivers
 
-- **GetYourGuide**: [Link](https://www.getyourguide.com/da-nang-l939/hoi-an-to-hue-by-private-car-via-hai-van-pass-golden-bridge-t475297/) -
-Door-to-door service with a professional driver, the option to choose the route
 
 
 **Stops along the way:**

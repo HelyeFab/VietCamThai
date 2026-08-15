@@ -2,13 +2,15 @@
 
 ### Come Arrivare
 
-**Da Halong / Baia di Lan Ha (Cat Ba) ad Hanoi in bus (~3-4 ore)**
+**Dalla Baia di Lan Ha ad Hanoi con la navetta della crociera (27 ottobre, ~3 ore)**
 
-Hanoi è l'ultima tappa del viaggio: ci arrivate dalla Baia di Lan Ha (isola di Cat Ba), terminata la crociera. 
-Il bus diretto combina bus + traghetto + bus e impiega circa 3-4 ore, con arrivo nel Quartiere Vecchio
-. Compagnie affidabili come **Cat Ba Express** e **Good Morning Cat Ba** offrono partenze frequenti al mattino e pickup dal molo; prezzo indicativo 250.000-300.000 VND (8-12€) a persona. Da Halong città il collegamento via bus è ancora più rapido (~2,5 ore).
+Hanoi è l'ultima tappa del viaggio: ci arrivate al termine della crociera nella Baia di Lan Ha. **Si sbarca verso le 11:30** e la **navetta della compagnia riporta in città per le 14:30 circa**, con rientro dal molo di Tuan Chau.
 
-💡 Chiedete al vostro alloggio di Cat Ba di prenotare il bus al check-out per evitare i tour costosi e avere il pickup incluso.
+La navetta si prenota **insieme alla crociera** e costa indicativamente 20$ a persona: è il modo più semplice, perché parte quando sbarca la barca e non richiede coincidenze. Vale la pena **comunicare in anticipo l'indirizzo dell'hotel**, perché molte compagnie lasciano i passeggeri nel quartiere vecchio ma alcune arrivano fino alla porta.
+
+💡 Se la navetta non fosse disponibile, la tratta si copre con i bus di linea Halong/Cat Ba → Hanoi: 250.000-300.000 VND (8-12€) a persona, circa 3-4 ore, compagnie come **Cat Ba Express** e **Good Morning Cat Ba**.
+
+⏰ Attenzione al check-in: molti hotel di Hanoi aprono le camere **dalle 15:00**, quindi con l'arrivo alle 14:30 può esserci una mezz'ora di attesa. I bagagli si lasciano comunque in deposito.
 
 **Per il rientro a casa — dal centro all'aeroporto Noi Bai**
 

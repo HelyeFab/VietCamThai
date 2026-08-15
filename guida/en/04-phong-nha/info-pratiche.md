@@ -2,37 +2,32 @@
 
 ### Getting There
 
-**From Hué to Phong Nha (main option, ~4 hours)**
+**From Hoi An to Phong Nha by private car (our leg, ~6-7 hours)**
 
-Phong Nha is an easy hop from Hué, your previous stop. There are two options, and they take much the same time overall (about 4 hours).
+Phong Nha is reached from Hoi An, your previous stop, by **direct private transfer**: about 300 km, **6-7 hours including stops**, leaving in the morning around 8:00.
 
-**By train + transfer (more scenic):**
-- 
-Take the train from Hué to Dong Hoi (about 2.5-3 hours) — the most scenic stretch of the North-South railway, hugging the coast
-- 
-From Dong Hoi (45 km from Phong Nha), take a transfer to the village: a private car (7 seats) costs about 650,000 VND (about €25), or a shared shuttle for less
-- 
-Buy train tickets online at [dsvn.vn](https://dsvn.vn) or through apps like Vexere/12go.asia
+The point is not simply to arrive. The road crosses the **Hải Vân Pass**, and it is worth asking the driver explicitly to **take the coastal road rather than the tunnel**, with a stop at the top: the tunnel saves around forty minutes and removes the only genuinely scenic stretch of the journey. After the pass the road drops to Lang Co and then runs flat into Quang Binh.
 
-**By direct bus/limousine (simpler):**
-- 
-Plenty of limousines and tourist buses run direct from Hué to Phong Nha in about 4 hours, with hotel pickup
-- 
-Roughly 200,000-300,000 VND (€8-12) per person
-- 
-Ask your accommodation to book it for you — they often land better last-minute prices than the third-party sites
+- **Indicative price**: 3.5-4.5 million VND (about €115-150) **for the car**, not per person, for a 7-seater
+- **Ask your Hoi An accommodation**: hotels arrange this leg routinely and it is often settled at reception at the end of your stay
+- The route is also sold online through **12Go** and **Bookaway**
+- Four people with four large suitcases need a **7-seater or bigger**: say so when booking
 
 **Practical tips:**
-- 
-Pack snacks and water for the journey
-- 
-Get to the departure point at least 30 minutes early
-- 
-Book ahead in high season — seats on the direct limousines sell out
+- Bring snacks and water for the journey
+- Ask for a journey **with stops** for lunch and rest: broken up, it is far easier than driven straight through
+- The pass is winding: anyone prone to car sickness should sit in front
 
-**Departing — towards Ninh Binh:**
+**Alternatives (if the private transfer falls through):**
+- **Limousines and tourist buses** connect the coast to Phong Nha with hotel pickup; indicative price 200,000-300,000 VND (€8-12) per person, but over this distance they take considerably longer
+- **Train to Dong Hoi** (the reference station, 45 km from Phong Nha) and then a transfer: about 650,000 VND (€25) for a 7-seat car. Tickets at [dsvn.vn](https://dsvn.vn) or apps like Vexere/12go.asia
 
-From Phong Nha, the next stop is Ninh Binh, reached by overnight sleeper bus (about €12-15 per person, 8-10 hours). Reliable operators like Queen Cafe and Full Moon leave in the evening (typically 19:30-21:00) and arrive at dawn; book through the Vexere app or ask your accommodation.
+**Moving on — to Ninh Binh (23 October):**
+
+From Phong Nha the next stop is Ninh Binh, and that leg is also by **private 7-seat car**: departure at **8:00**, about 450 km and **8-9 hours including stops** to eat and rest, arriving in the late afternoon while it is still light. The Phong Nha accommodation arranges the transfer and it is settled on departure.
+
+There is also the **overnight sleeper bus** option (around €12-15 per person, 8-10 hours, departures 19:30-21:00 arriving at dawn, bookable through Vexere): cheaper, but it costs you a night in a hotel and arrives before any check-in time.
+
 
 ### Getting Around
 

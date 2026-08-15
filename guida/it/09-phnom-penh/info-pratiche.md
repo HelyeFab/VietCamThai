@@ -2,18 +2,20 @@
 
 ### Come Arrivare
 
-**Bus dalla costa (Sihanoukville / Koh Rong Samloem)**
+**Traghetto + minivan privato dalla costa (la nostra tratta, ~4 ore in tutto)**
 
+Dopo la parentesi balneare a Koh Rong Samloem si rientra in **traghetto a Sihanoukville la mattina presto** (partenza intorno alle 08:45, poco più di un'ora di navigazione) e da lì si prosegue per Phnom Penh in **minivan privato**: circa **3-3,5 ore**.
 
-Dopo la parentesi balneare a Koh Rong Samloem, si rientra in traghetto a Sihanoukville e da lì si raggiunge Phnom Penh in autobus. Il viaggio dura circa 4-5 ore e costa €8-15 per persona.
+- **Prezzo indicativo**: circa **200$ per il veicolo**, non a persona
+- **Organizzatelo tramite l'hotel di Phnom Penh**: è la via più semplice e l'autista aspetta anche se il traghetto ritarda
+- ⚠️ **Punto d'incontro: il cancello di USCITA del porto di Sihanoukville**, non l'interno — le auto non possono entrare nell'area portuale. L'autista aspetta con un cartello
 
-**Compagnie affidabili:**
+**Alternativa — autobus di linea**: circa 4-5 ore, €8-15 a persona.
 - **Giant Ibis** (giantibis.com) - la più affidabile e comoda, bus moderni con wifi, partenze regolari da Sihanoukville
 - **Virak Buntham** / **BookMeBus** (bookmebus.com) - buona alternativa, anche minivan più rapidi
 
 **Dettagli pratici:**
-- 
-Il traghetto Koh Rong Samloem → Sihanoukville impiega circa 45 minuti: prenota la corsa del mattino per avere tutto il pomeriggio a Phnom Penh
+- Prendete il **traghetto del mattino**: con la corsa presta si arriva a Phnom Penh nel primo pomeriggio, con quella di metà giornata si perde il resto della giornata in strada
 
 - 
 Arrivo alle stazioni dei bus vicino al lungofiume (Sisowath Quay) o al Central Market — taxi/tuk-tuk fino all'hotel ~$2-3

@@ -4,17 +4,20 @@
 
 #### Flight Bangkok → Siem Reap
 
-You get to Siem Reap from Thailand on a **Thai AirAsia flight** out of Bangkok. It leaves **Don Mueang (DMK)** around **10:55** and lands at the new **Siem Reap–Angkor International Airport (SAI)** around **12:15** — just over an hour in the air for about **€50 per person**. 
+You get to Siem Reap from Thailand on **Bangkok Airways flight PG905**. It leaves **Suvarnabhumi (BKK)** at **10:55** and lands at the new **Siem Reap–Angkor International Airport (SAI)** at **12:15** — about an hour and twenty in the air. 
 The new airport sits about 50 km east of the city
-.
+, so allow **45-60 minutes for the transfer** to your hotel.
+
+🛂 **On arrival**: Cambodian visa at the airport ($30 in cash, crisp dollars, 2 passport photos) and the **e-Arrival card already completed online** before you fly — it is compulsory for arrivals by air.
 
 **Recommended airlines:**
+- **Bangkok Airways** (our choice) — 
+it flies from Suvarnabhumi rather than the low-cost hub, and has a free lounge for all passengers, economy included
+
+  - Bookings: [Bangkok Airways](https://www.bangkokair.com/)
 - **Thai AirAsia** — 
 the cheapest fares on the Bangkok–Siem Reap route
- (flights from Don Mueang DMK)
-  - Bookings: [Thai AirAsia](https://www.airasia.com/)
-- **Bangkok Airways** — 
-more comfortable, but pricier
+ (flights from Don Mueang DMK — a different airport, an hour away)
 
 - **Cambodia Angkor Air** — 
 Cambodia's flag carrier
@@ -33,11 +36,14 @@ Many hotels lay on transfers on request
 
 ### Moving On — to Koh Rong Samloem (October 8)
 
-On October 8 you leave Siem Reap for the island of **Koh Rong Samloem**, on the southern coast. It's a two-leg journey: 
-first a van/bus from Siem Reap to Sihanoukville, then the fast ferry across to the island
-. 
-The road leg is long (set aside most of the day), so book your seats and the ferry at least a day ahead — in the rainy season ferry times can shift
-. Choose a departure that gets you into Sihanoukville in time for the last afternoon fast ferry.
+On October 8 you leave Siem Reap for the island of **Koh Rong Samloem**, on the southern coast. It's a two-leg journey, **both legs already fixed**:
+
+1. **Flight Siem Reap (SAI) → Sihanoukville (KOS)**, departing **11:55**, arriving **13:05** — just over an hour, instead of the 8-10 hours the same journey takes by road
+2. **Fast ferry Sihanoukville → Koh Rong Samloem**, departing **16:15**, arriving **16:55**
+
+Between landing and boarding there are roughly **three hours**: enough for the transfer from airport to pier and an unhurried lunch, but not enough to go far.
+
+⚠️ In the rainy season ferry times can shift: it's worth reconfirming the crossing the day before.
 
 ### Getting Around
 

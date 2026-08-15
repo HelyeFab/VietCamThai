@@ -2,10 +2,14 @@
 
 ### Getting There
 
-**Chau Doc → Ho Chi Minh City (Bus)**
+**Chau Doc → Ho Chi Minh City (private car, our leg)**
 
+From your last stop in the Mekong Delta you arrive in Saigon by **private car, door to door**, on the afternoon of **14 October**, after a morning at the Tra Su forest. Departure between 07:00 and 08:00, **arriving in the city around 17:00-18:00** — in daylight, which makes a real difference compared with the evening coach that drops you at the western bus station around 23:00.
 
-From your last stop in the Mekong Delta, the bus from Chau Doc to Ho Chi Minh City takes about 6 hours. It's the easiest and cheapest way to reach Saigon after the delta.
+The package (forest + transfer) is arranged with the Chau Doc hotel and settled there: see Chau Doc's *Practical Info* page.
+
+**Alternative — scheduled bus.**
+The bus from Chau Doc to Ho Chi Minh City takes about 6 hours.
 
 **2026 costs and companies:**
 - 

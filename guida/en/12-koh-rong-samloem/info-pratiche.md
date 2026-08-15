@@ -5,10 +5,10 @@
 **From Siem Reap to the coast, then ferry to the island**
 
 
-Koh Rong Samloem is reached from the port of **Sihanoukville**. On **Day 8** you arrive from Siem Reap in two legs — it's a long travel day:
+Koh Rong Samloem is reached from the port of **Sihanoukville**. On **8 October** you arrive from Siem Reap in two legs, both already fixed:
 
-- **Siem Reap → Sihanoukville**: direct van/bus (long, ~8-10 hours, including overnight, ~10-15€ with Giant Ibis or Virak Buntham) or a domestic flight (~1h, Cambodia Angkor Air / Sky Angkor) to save time
-- **Sihanoukville → Saracen Bay (Koh Rong Samloem)**: fast ferry, about 45 minutes
+- **Siem Reap → Sihanoukville by air**: departing **11:55**, arriving **13:05** — just over an hour. The same journey by road takes 8-10 hours in a van, so the flight effectively buys you a whole day
+- **Sihanoukville → Saracen Bay (Koh Rong Samloem)**: the **16:15** fast ferry, arriving **16:55**. Between landing and boarding there are about three hours, comfortable for the transfer to the pier and lunch
 
 **Ferry companies:**
 - **Speed Ferry Cambodia** and **Buva Sea** — 2-3 departures a day, ticket ~12-15€ round trip
@@ -22,7 +22,14 @@ Koh Rong Samloem is reached from the port of **Sihanoukville**. On **Day 8** you
 ### Moving On — towards Phnom Penh
 
 
-**There is no direct ferry to Phnom Penh**: the connection is in two legs. On **Day 10** you first return by fast ferry to **Sihanoukville** (Speed Ferry Cambodia / Buva Sea, ~45 minutes) and from there continue overland by **bus/van (or private transfer)** to **Phnom Penh** (~5 hours, ~8-15€ with Giant Ibis or Virak Buntham). Book the morning or early-afternoon ferry so you don't arrive in the capital at night.
+**There is no direct ferry to Phnom Penh**: the connection is in two legs, on **11 October**.
+
+1. **Fast ferry Koh Rong Samloem → Sihanoukville**: departing **08:47**, arriving **09:48** — the early morning run, so you keep the rest of the day
+2. **Sihanoukville → Phnom Penh by private minivan**: about **3-3.5 hours**, arriving in the capital in the early afternoon
+
+⚠️ **The meeting point with the driver is the EXIT gate of the port**, not inside: cars cannot enter the port area. Whoever collects you waits outside with a name board.
+
+**Alternative**: scheduled bus/van to Phnom Penh (~5 hours, ~8-15€ with Giant Ibis or Virak Buntham).
 
 
 ### Getting Around

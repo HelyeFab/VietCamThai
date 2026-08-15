@@ -14,10 +14,11 @@ Bangkok è la prima tappa del viaggio: si arriva (ore 18:10) con il volo interna
 
 ### Come Proseguire — Volo Bangkok → Siem Reap (mattina del 5 Ottobre)
 
-Dopo quattro giorni pieni a Bangkok, il viaggio prosegue verso la Cambogia la **mattina del 5 ottobre** con un volo per Siem Reap (~50€, circa 1 ora).
-- **Volo**: **Thai AirAsia**, partenza ~**10:55** da **Don Mueang (DMK)**, arrivo a Siem Reap ~**12:15**
-- **Aeroporto**: Don Mueang (DMK), lo scalo delle low-cost, a nord della città — dalla base di Silom sono ~40-60 min col traffico del mattino
-- **Transfer privato prenotato**: anche per la partenza avete un **transfer privato** che vi preleva al The Cotton Saladaeng e vi porta a DMK — concordate con l'autista un orario che vi lasci **almeno 2,5-3 ore** prima del volo (code check-in AirAsia + controlli). *(Piano B: Grab dall'hotel verso DMK.)*
+Dopo quattro giorni pieni a Bangkok, il viaggio prosegue verso la Cambogia la **mattina del 5 ottobre** con un volo per Siem Reap (circa 1h20).
+- **Volo**: **Bangkok Airways PG905**, partenza **10:55**, arrivo a Siem Reap **12:15**
+- ⚠️ **Aeroporto: Suvarnabhumi (BKK)**, lo stesso dell'arrivo — **non** Don Mueang. Bangkok ha due aeroporti a un'ora l'uno dall'altro e sbagliarlo significa perdere il volo. Dalla base di Silom/Sathon sono ~30-45 min col traffico del mattino
+- **In aeroporto per le 08:30**: due ore abbondanti prima del volo, considerando check-in e controlli
+- Bangkok Airways ha una **lounge gratuita per tutti i passeggeri** a Suvarnabhumi, anche in economy — vale la pena arrivare con calma e usarla
 - **Al mattino**: colazione veloce, check-out e via all'aeroporto senza fretta
 
 **Compagnie sulla tratta:**

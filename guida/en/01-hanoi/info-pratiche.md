@@ -2,13 +2,15 @@
 
 ### Getting There
 
-**From Halong / Lan Ha Bay (Cat Ba) to Hanoi by bus (~3-4 hours)**
+**From Lan Ha Bay to Hanoi on the cruise shuttle (27 October, ~3 hours)**
 
-Hanoi is the last stop of the trip: you arrive from Lan Ha Bay (Cat Ba island) with the cruise now behind you.
-The direct bus combines bus + ferry + bus and takes about 3-4 hours, arriving in the Old Quarter
-. Reliable companies like **Cat Ba Express** and **Good Morning Cat Ba** offer frequent morning departures and pickup from the pier; indicative price 250,000-300,000 VND (€8-12) per person. From Halong city the bus connection is even quicker (~2.5 hours).
+Hanoi is the last stop of the trip: you arrive at the end of the Lan Ha Bay cruise. **You disembark around 11:30** and the **operator's shuttle takes you into the city for about 14:30**, leaving from Tuan Chau pier.
 
-💡 Ask your Cat Ba accommodation to book the bus at check-out to avoid the expensive tours and have the pickup included.
+The shuttle is booked **together with the cruise** and costs indicatively $20 per person: it is the simplest option, because it leaves when the boat docks and needs no connections. It is worth **sending the hotel address in advance**, because many operators drop passengers in the Old Quarter but some go all the way to the door.
+
+💡 If the shuttle isn't available, the leg is covered by the scheduled Halong/Cat Ba → Hanoi buses: 250,000-300,000 VND (€8-12) per person, about 3-4 hours, with companies like **Cat Ba Express** and **Good Morning Cat Ba**.
+
+⏰ Note on check-in: many Hanoi hotels open rooms **from 15:00**, so arriving at 14:30 may mean half an hour's wait. Luggage can be left in storage regardless.
 
 **For the journey home — from the centre to Noi Bai airport**
 

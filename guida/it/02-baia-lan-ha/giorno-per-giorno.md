@@ -1,6 +1,6 @@
 # GIORNO PER GIORNO — Baia di Lan Ha
 
-## Giorno 27 — 27 Ottobre 2026 — Perle Nascoste nella Baia di Smeraldo
+## Giorno 26 — 26 Ottobre 2026 — Perle Nascoste nella Baia di Smeraldo
 
 ### Mattina
 **Partenza da Ninh Binh (mattino)**

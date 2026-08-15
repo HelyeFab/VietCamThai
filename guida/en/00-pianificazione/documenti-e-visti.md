@@ -37,7 +37,11 @@ $25–$50 USD
 
 ### Cambodia — Visa on Arrival
 
-You'll need a visa for Cambodia, as you're arriving by boat from Chau Doc.
+You'll need a visa for Cambodia. ⚠️ **Mind the direction of travel**: you **arrive in Cambodia by air** from Bangkok on **5 October** (the flight to Siem Reap), and **leave overland** into Vietnam on 13 October. So the visa is issued at Siem Reap airport, not at a river border.
+
+> 🛂 **E-Arrival card — compulsory, and to be filed before 5 October.**
+> For arrivals **by air** Cambodia requires the **electronic arrival card (e-Arrival)**, completed online in the days before the flight: it replaces the old paper form and must be shown on landing.
+> For the **overland exit** into Vietnam there is nothing to prepare in advance.
 
 #### Visa on Arrival (recommended for you)
 - **Cost**: 

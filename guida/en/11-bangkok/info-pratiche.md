@@ -15,13 +15,14 @@ Bangkok is the first stop of the trip: your international flight lands at 18:10 
 ### Moving On — Flight Bangkok → Siem Reap (morning of October 5)
 
 After four full days in Bangkok, the trip carries on to Cambodia on the **morning of 5 October** with a flight to Siem Reap (~€50, about 1 hour).
-- **Flight**: **Thai AirAsia**, departure ~**10:55** from **Don Mueang (DMK)**, arrival in Siem Reap ~**12:15**
-- **Airport**: Don Mueang (DMK), the low-cost hub north of the city — ~40-60 min from the Silom base in morning traffic
-- **Booked private transfer**: for the departure too you have a **private transfer** that collects you at The Cotton Saladaeng and runs you to DMK — settle on a pickup time with the driver that leaves you **at least 2.5-3 hours** before the flight (AirAsia check-in queues plus security). *(Plan B: Grab from the hotel to DMK.)*
+- **Flight**: **Bangkok Airways PG905**, departing **10:55**, arriving in Siem Reap **12:15**
+- ⚠️ **Airport: Suvarnabhumi (BKK)**, the same one you arrived at — **not** Don Mueang. Bangkok has two airports an hour apart and getting it wrong means missing the flight. From the Silom/Sathon base it is ~30-45 min in morning traffic
+- **At the airport by 08:30**: a good two hours before the flight, allowing for check-in and security
+- Bangkok Airways has a **free lounge for all passengers** at Suvarnabhumi, economy included — worth arriving unhurried and using it
 - **In the morning**: a quick breakfast, check-out and off to the airport in good time
 
 **Airlines on the route:**
-- **Thai AirAsia**: the cheapest fares (your choice), direct flights from DMK
+- **Bangkok Airways** (your choice): direct flights from Suvarnabhumi, free lounge
 - **Bangkok Airways**: more comfortable but expensive, operates from Suvarnabhumi
 - **Thai Airways**: premium service but higher prices
 
@@ -70,7 +71,7 @@ Fares run 100-200 baht for short trips, but drivers often quote 150-300 THB for 
 **The Cotton Saladaeng Hotel** — 14, 1 Soi Sathon 2, Si Lom, Bang Rak
 - **Area**: Silom/Sathon, the business district, quiet and safe in the evening
 - **Connections**: a short walk from BTS Sala Daeng and MRT Silom, with Lumphini Park nearby — an ideal base for reaching the temples, Chinatown and the out-of-town markets
-- **Why here**: a central, well-connected spot in a tidy, orderly neighbourhood, handy both for getting home in the evening and for heading off to Don Mueang on the final morning
+- **Why here**: a central, well-connected spot in a tidy, orderly neighbourhood, handy both for getting home in the evening and for heading off to Suvarnabhumi on the final morning
 
 **Budget alternatives in the same range (~€35/night for a double room):**
 

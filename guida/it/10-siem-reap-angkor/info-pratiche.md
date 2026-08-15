@@ -4,9 +4,11 @@
 
 #### Volo Bangkok → Siem Reap
 
-Si arriva a Siem Reap dalla Thailandia con un **volo Thai AirAsia** da Bangkok. Il volo parte da **Don Mueang (DMK)** verso le **10:55** e atterra al nuovo **Aeroporto Internazionale Siem Reap–Angkor (SAI)** verso le **12:15**: poco più di un'ora di volo per circa **50€ a persona**. 
+Si arriva a Siem Reap dalla Thailandia con il volo **Bangkok Airways PG905**. Parte da **Suvarnabhumi (BKK)** alle **10:55** e atterra al nuovo **Aeroporto Internazionale Siem Reap–Angkor (SAI)** alle **12:15**: circa un'ora e venti di volo. 
 Il nuovo aeroporto si trova a circa 50 km a est della città
-.
+, quindi mettete in conto **45-60 minuti di transfer** fino all'hotel.
+
+🛂 **All'arrivo**: visto cambogiano all'aeroporto ($30 in contanti, dollari nuovi, 2 foto tessera) e **carta d'arrivo elettronica e-Arrival già compilata online** prima di partire — è obbligatoria per gli arrivi in aereo.
 
 **Compagnie consigliate:**
 - **Thai AirAsia** — 
@@ -33,11 +35,14 @@ Molti hotel offrono il transfer su prenotazione
 
 ### Come Proseguire — verso Koh Rong Samloem (8 Ottobre)
 
-L'8 ottobre si lascia Siem Reap per raggiungere l'isola di **Koh Rong Samloem**, sulla costa meridionale. Il percorso è in due tappe: 
-prima un van/bus da Siem Reap a Sihanoukville, poi il traghetto veloce (fast ferry) da Sihanoukville all'isola
-. 
-Il tragitto in van/bus è lungo (mettete in conto gran parte della giornata), quindi prenotate posti e traghetto con almeno un giorno d'anticipo — in stagione delle piogge gli orari dei traghetti possono variare
-. Prenotate una corsa che vi lasci a Sihanoukville in tempo per l'ultimo fast ferry del pomeriggio.
+L'8 ottobre si lascia Siem Reap per raggiungere l'isola di **Koh Rong Samloem**, sulla costa meridionale. Il percorso è in due tappe, **entrambe già fissate**:
+
+1. **Volo Siem Reap (SAI) → Sihanoukville (KOS)**, partenza **11:55**, arrivo **13:05** — poco più di un'ora, invece delle 8-10 ore che richiederebbe la stessa tratta via terra
+2. **Traghetto veloce Sihanoukville → Koh Rong Samloem**, partenza **16:15**, arrivo **16:55**
+
+Fra l'atterraggio e l'imbarco ci sono circa **tre ore**: tempo sufficiente per il trasferimento dall'aeroporto al molo e per un pranzo senza fretta, ma non per allontanarsi troppo.
+
+⚠️ In stagione delle piogge gli orari dei traghetti possono variare: vale la pena riconfermare la corsa il giorno prima.
 
 ### Come Muoversi
 

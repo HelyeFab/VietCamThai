@@ -2,18 +2,20 @@
 
 ### Getting There
 
-**Bus from the coast (Sihanoukville / Koh Rong Samloem)**
+**Ferry + private minivan from the coast (our leg, ~4 hours in total)**
 
+After the beach interlude on Koh Rong Samloem you catch the **early morning ferry back to Sihanoukville** (departing around 08:45, a little over an hour at sea) and carry on to Phnom Penh by **private minivan**: about **3-3.5 hours**.
 
-After the beach interlude on Koh Rong Samloem, you catch the ferry back to Sihanoukville and carry on to Phnom Penh by bus. The trip takes about 4–5 hours and costs €8–15 per person.
+- **Indicative price**: around **$200 for the vehicle**, not per person
+- **Arrange it through the Phnom Penh hotel**: it is the simplest route, and the driver waits even if the ferry runs late
+- ⚠️ **Meeting point: the EXIT gate of Sihanoukville port**, not inside — cars cannot enter the port area. The driver waits outside with a name board
 
-**Reliable companies:**
+**Alternative — scheduled bus**: about 4-5 hours, €8-15 per person.
 - **Giant Ibis** (giantibis.com) - the most reliable and comfortable, modern buses with wifi, regular departures from Sihanoukville
 - **Virak Buntham** / **BookMeBus** (bookmebus.com) - a good alternative, also faster minivans
 
 **Practical details:**
-- 
-The Koh Rong Samloem → Sihanoukville ferry takes about 45 minutes: book the morning run to have the whole afternoon in Phnom Penh
+- Take the **morning ferry**: the early run gets you into Phnom Penh in the early afternoon, while the midday one costs you the rest of the day on the road
 
 - 
 Buses arrive at the stations near the riverfront (Sisowath Quay) or the Central Market — a taxi or tuk-tuk to your hotel runs about $2-3

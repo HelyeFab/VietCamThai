@@ -1,6 +1,6 @@
 # DAY BY DAY — Lan Ha Bay
 
-## Day 27 — October 27, 2026 — Hidden Pearls in the Emerald Bay
+## Day 26 — October 26, 2026 — Hidden Pearls in the Emerald Bay
 
 ### Morning
 **Departure from Ninh Binh (morning)**

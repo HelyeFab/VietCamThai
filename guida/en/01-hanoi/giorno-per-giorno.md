@@ -1,13 +1,18 @@
 # DAY BY DAY — HANOI
 
-## Day 28 — October 28, 2026 — First Taste of Hanoi's Magic
+## Day 27 — October 27, 2026 — First Taste of Hanoi's Magic
 
 ![Hanoi's Old Quarter in the evening](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Hanoi_Old_Quarter%2C_9_March_2019-2.jpg/1280px-Hanoi_Old_Quarter%2C_9_March_2019-2.jpg)
 
 ### Morning
-With the cruise now behind you, arrive in Hanoi from Lan Ha Bay (Cat Ba) by bus and check in at a hotel in the heart of the Old Quarter.
+A last morning on the water: **you disembark around 11:30**, after breakfast and a final outing into the bay. From there the cruise shuttle takes you back to Hanoi.
+
+### Afternoon
+**Arrival in the city around 14:30** and check-in at the hotel, close to the Old Quarter.
 The Temple of Literature is only 2 kilometres from the Old Quarter and Hoan Kiem Lake
 , a perfect base for the last days of the trip.
+
+The afternoon is longer than you'd expect — disembarking mid-morning leaves half a day free in the city, which is exactly the moment for a first unplanned wander through the Old Quarter.
 
 ![Ho Chi Minh Mausoleum](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Hanoi_Vietnam_Mausoleum-of-Ho-Chi-Minh-01.jpg/1280px-Hanoi_Vietnam_Mausoleum-of-Ho-Chi-Minh-01.jpg)
 
@@ -69,7 +74,7 @@ The streets overflow with street vendors and motorbikes. Start with a cyclo (ric
 
 ---
 
-## Day 29 — October 29, 2026 — Lakes, Temples and a Thousand Years of Culture
+## Day 28 — October 28, 2026 — Lakes, Temples and a Thousand Years of Culture
 
 ### Morning
 **Hoan Kiem Lake and Ngoc Son Temple** (8:00-10:00)
@@ -150,7 +155,7 @@ Bring cash: the ticket office does not accept credit-card payments
 
 ---
 
-## Day 30 — October 30, 2026 — Politics, History and Perfect Street Food
+## Day 29 — October 29, 2026 — Politics, History and Perfect Street Food
 
 ### Morning
 **Ho Chi Minh Mausoleum** (7:30-10:30)
@@ -240,6 +245,49 @@ Drinks — iced coffee, sugarcane juice, trà đá (iced tea, often free at stal
 - [Temple of Literature - Official Site](https://templeofliterature.com/)
 - [Vietnam Museum of Ethnology](https://www.vme.org.vn/en)
 - [Google Maps - Old Quarter Walking Route](https://maps.google.com)
+
+---
+
+## Day 30 — October 30, 2026 — Markets, Women and Egg Coffee
+
+![Hanoi's Old Quarter in the evening](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Hanoi_Old_Quarter%2C_9_March_2019-2.jpg/1280px-Hanoi_Old_Quarter%2C_9_March_2019-2.jpg)
+
+The last full day of the trip. After the grand monuments of the previous days, today returns to everyday Hanoi: a market, a museum that delivers far more than it promises, and the strangest and best coffee in Vietnam.
+
+### Morning
+
+**Đồng Xuân Market (from 6:00)** — Hanoi's largest covered market, at the northern end of the Old Quarter. Three floors: fresh food and flowers at ground level, fabric, clothing and wholesale odds and ends above.
+
+It is not a market for tourists, and that is precisely the reason to go. The **street food stalls along the eastern side** are among the most authentic in the city — the right place for *bún riêu* (crab and tomato soup) or *bánh tôm* (prawn fritters).
+
+**Practical note**: haggling is expected, but with a smile and without grinding. The opening price for a foreigner is typically double; half is a fair landing point.
+
+### Afternoon
+
+**Vietnamese Women's Museum** — 
+entry 40,000 VND, open 8:00-17:00, 36 Lý Thường Kiệt
+.
+
+It is the most underrated museum in Hanoi and probably the best one for understanding the country. Three floors covering marriage and family, history (including the women who fought in the war), and the finest section of all, on the **costumes and cultures of the northern ethnic minorities**.
+
+Unlike many Vietnamese museums, the captions are in excellent English and the route is designed to be read, not just looked at. Allow **1.5-2 hours**.
+
+**If the weather is bad**: the **Museum of Ethnology** (further out, but with reconstructed traditional houses in the garden) or a long stop in a café overlooking the lake.
+
+### Evening
+
+**Egg coffee (cà phê trứng)** — the institution you shouldn't skip. Egg yolk whipped with condensed milk over strong coffee: it looks like a dessert, has the texture of warm zabaglione, and arrives in a small cup sitting in a bowl of hot water to stop it cooling.
+
+- **Giảng Café** (39 Nguyễn Hữu Huân): the inventor, since 1946. You go in through a narrow corridor that feels like a mistake, and come out into a courtyard
+- **Café Đinh** (13 Đinh Tiên Hoàng): on the first floor, with the best view over Hoan Kiem Lake — if you can get a window seat
+
+**Last dinner of the trip.** Worth closing it with something specifically Hanoian: *chả cá* (turmeric and dill fish, cooked at the table) at **Chả Cá Thăng Long**, or a final round of *bún chả*.
+
+### Tips of the Day
+
+- **Pack tonight, not tomorrow.** The flight home leaves in the evening but check-out is at midday: it is far easier to have the cases closed and left in storage.
+- Đồng Xuân is **very crowded**: bags in front and phone in a zipped pocket, as in any large market.
+- If you still have dong to spend, the market and the cafés are the place to finish them — changing currency back at the airport is poor value.
 
 ---
 

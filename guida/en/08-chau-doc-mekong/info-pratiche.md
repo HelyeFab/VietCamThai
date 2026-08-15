@@ -2,18 +2,21 @@
 
 ### Getting There
 
-**Speedboat from Phnom Penh (Cambodia)**
+**Private car from Phnom Penh (our leg, ~4-5 hours door to door)**
 
+You reach Chau Doc from Phnom Penh by **private car, hotel to hotel**, leaving in the morning and arriving in the early afternoon. The border is crossed overland at **Vĩnh Xương**.
 
-You reach Chau Doc by speedboat down the Mekong from Phnom Penh: the trip takes about 5-6 hours (including the formalities at the Cambodia-Vietnam river border) and costs between $30-65 per person. It's one of the most striking crossings of the whole itinerary.
+It is the option that works best with four people and four large suitcases: no changes of vehicle, no waiting at a jetty, and the border formalities are done with the driver waiting.
 
-**Reliable companies:**
-- **Hang Chau Tourist** (www.hangchautourist.vn) — the main one on this route, departing in the morning from Phnom Penh and arriving in Chau Doc in the early afternoon
-- **Blue Cruiser** — a reliable alternative
+- **Indicative price**: around **$150 for the car**, not per person
+- **Arrange it through the Chau Doc hotel**: properties in the area handle this leg routinely, with a Cambodian driver as far as the border
+- 💵 Keep **cash in US dollars** for the portion settled at the frontier — not all of it is necessarily paid on arrival
 
-**Practical details:**
-- Vietnamese visa: prepare the e-visa before departure; the procedures take place at the river border (1-2 hours)
-- Boarding: International Floating Port, Phnom Penh | Arrival: Sunrise Palace, 03A Le Loi Street, Chau Doc
+> 🛂 **No Vietnamese e-visa needed.** Italian citizens enter **visa-free for up to 45 days**: the exemption applies at land crossings too and is granted on the spot, with no paperwork to prepare. Don't buy e-visas online — it is money wasted. (See the *Documents and Visas* page.)
+
+**Alternatives:**
+- **Mekong speedboat**: 5-6 hours, $30-65 per person, with **Hang Chau Tourist** (www.hangchautourist.vn) or **Blue Cruiser**. Very scenic, but it arrives at the end of the day and with only one night in Chau Doc it costs you the afternoon
+- ⚠️ Careful reading timetables online: the 07:30 departure you'll find everywhere runs in the **opposite direction**, Chau Doc → Phnom Penh
 
 
 ### Moving On — Bus to Ho Chi Minh City

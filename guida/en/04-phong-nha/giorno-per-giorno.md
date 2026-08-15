@@ -1,12 +1,49 @@
 # DAY BY DAY — Phong Nha
 
-## Day 23 — October 23, 2026 — Arriving in the kingdom of caves
+## Day 19 — October 19, 2026 — The Hải Vân Pass and arrival in Phong Nha
+
+### Morning
+
+![The Hai Van Pass on the central Vietnamese coast](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/ThienDuongCave1.jpg/1280px-ThienDuongCave1.jpg)
+
+Today is a driving day, but one of the finest of the trip. You leave Hoi An by **private car around 8:00** and head north along the coast: roughly **6-7 hours** to Phong Nha, stops included.
+
+The best part comes early. Instead of ducking into the tunnel, the car takes the **coastal road over the Hải Vân Pass** — the "pass of the clouds", the divide between the central and northern climates. You climb in switchbacks above the sea, with the Lang Co lagoon opening below, and at the top there is a **stop to stretch your legs and take photographs** among the abandoned bunkers. On clear days you can see Da Nang bay behind you and the coast running north ahead.
+
+After the pass the road drops down to Lang Co, then it is flat country and rice paddies all the way into Quang Binh. The journey includes **stops for lunch and rest**: better to break it up than to push straight through.
+
+### Afternoon
+
+**Arrival and check-in (from mid-afternoon)**
+
+You reach Phong Nha in the afternoon and settle in without hurrying. The village is small: one main street, the Son river running below the mountains, and karst peaks closing the horizon on every side.
+
+After six hours in a car there is no need to plan anything else. The right way to begin here is a **walk along the Son river** at sunset, when the light catches the rock faces and the boats come back in.
+
+### Evening
+
+**First dinner in Phong Nha**
+
+- **Thang Nhung**: the best pork and noodles in the village, no frills
+- **Phong Nha Underground Restaurant**: a cut above the local average, if you want to start well
+- **Capture Cafe**: the only place in town with an international café feel — pizza, pasta, sandwiches and coffee
+
+### Tips of the Day
+
+- **Ask explicitly for the pass road, not the tunnel.** The tunnel saves forty minutes and removes the only thing that makes this leg beautiful.
+- The pass is **scenic but winding**: anyone prone to car sickness should sit in front and avoid reading.
+- From mid-September to November the weather on the pass changes fast — you can go from sunshine to thick fog in ten minutes. It is part of the show.
+- Arriving in the afternoon, **the caves start tomorrow**: they open in the morning and close mid-afternoon.
+
+---
+
+## Day 20 — October 20, 2026 — The kingdom of caves
 
 ### Morning
 
 ![Paradise Cave](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/ThienDuongCave1.jpg/1280px-ThienDuongCave1.jpg)
 
-Arriving in Phong Nha from Hué (train to Dong Hoi plus a transfer, or a direct bus, about 4 hours), you'll have a good 2-3 hours to settle in before the adventure begins. The boat service to the Phong Nha Cave opens at 8:00 and runs until mid-afternoon, with the last boats leaving around 15:30-16:00.
+First full day in the park. The boat service to the Phong Nha Cave opens at 8:00 and runs until mid-afternoon, with the last boats leaving around 15:30-16:00.
 
 **Phong Nha Cave by boat (9:30-12:30)**
 
@@ -62,7 +99,7 @@ Motorbike rental runs about 150k VND a day, petrol excluded, and you can usually
 
 ---
 
-## Day 24 — October 24, 2026 — The largest underground palace in the world
+## Day 21 — October 21, 2026 — The largest underground palace in the world
 
 ### Morning
 
@@ -81,21 +118,17 @@ To beat the big tour groups that roll in around 10:30, aim to be at the Paradise
 
 ### Afternoon
 
-**Adventurous alternative: Dark Cave (13:30-16:30)**
+**Phong Nha-Kẻ Bàng National Park (13:30-17:00)**
 
-If you'd rather have adrenaline than quiet contemplation, the Dark Cave is a completely different beast. There are two packages: 450,000 VND (about $19) for adults and 150,000 VND (about $6) for children (1m-1.3m tall), or 250,000 VND (about $11).
+The afternoon belongs to the park outside the caves. **Phong Nha-Kẻ Bàng is a UNESCO World Heritage site** protecting one of the oldest karst systems in Asia — around 400 million years old — with more than 120 km of surveyed caves, most of them closed to the public.
 
-Throw in the longest zipline in Vietnam (400 metres across the stunning Chay River), plus kayaking and swimming, and you've got one of the most thrilling spots in central Vietnam.
+The options, in order of effort:
 
-**The experience includes**:
-- 
-Launch off a platform and zip 50 metres straight over the jade-green Chay River at up to 45 km/h — Vietnam's longest double-cable zipline — before plunging in to swim the final stretch to the cave entrance
+- **Botanic Garden**: a loop of roughly 3 km through primary forest, with a waterfall at the end. Shaded, well kept, the easiest way to see the jungle without a real trek.
+- **Bong Lai Valley by motorbike or bicycle**: 11 km of scenic road past buffalo, rice paddies and family farms — the **Duck Stop** (around 150,000 VND) is the classic halt, with ducks and a buffalo ride (50,000 VND extra).
+- **Viewpoints along the Son river**: if the day has already been long, just follow the river road towards sunset.
 
-- 
-Explore the cave's fascinating stalactites and stalagmites and wallow in a natural mud bath inside
-
-- 
-The full Dark Cave experience takes about 2.5-3 hours from start to finish — zipline, kayaking, cave exploration, mud bath, swimming and the trip back
+**Official site**: [Phong Nha-Ke Bang National Park](https://phongnhakebang.vn/)
 
 ### Evening
 
@@ -112,18 +145,71 @@ A lovely place for good home-style Vietnamese food on a rainy day. The beef pho 
 - **For Paradise Cave**: 
 Wear comfortable walking shoes or trainers. It's 18°C inside, but you'll work up a sweat on the climb up the mountain. Pack a light jacket if you feel the cold
 
+- The electric buggy from the ticket office to the foot of the cave is **money well spent**: it saves a 1.6 km climb in the sun before you even reach the staircase.
+
+- 
+During the rainy season (October-February), the caves sometimes close early if the water rises too high — always call ahead in that period to confirm they're open for all activities
+
+**Estimated daily budget for 4 people**: 
+- Paradise Cave: ~€40 (tickets + transport)
+- Meals: ~€30
+- Accommodation: ~€20
+
+---
+
+## Day 22 — October 22, 2026 — Flexible day (and the weather buffer)
+
+### Morning
+
+This day is deliberately **unbooked**. It does two jobs: it lets you take at your own pace whatever didn't fit into the previous two days, and it acts as a **buffer against bad weather** — in central Vietnam in late October that is a serious precaution, not a theoretical one, and the river caves close when the water rises.
+
+The three main options, all decided on the morning itself by looking at the sky:
+
+**Dark Cave (half day)** — if you'd rather have adrenaline than quiet contemplation. There are two packages: 450,000 VND (about $19) for adults and 150,000 VND (about $6) for children (1m-1.3m tall), or 250,000 VND (about $11).
+
+Throw in the longest zipline in Vietnam (400 metres across the stunning Chay River), plus kayaking and swimming, and you've got one of the most thrilling spots in central Vietnam.
+
+**The experience includes**:
+- 
+Launch off a platform and zip 50 metres straight over the jade-green Chay River at up to 45 km/h — Vietnam's longest double-cable zipline — before plunging in to swim the final stretch to the cave entrance
+
+- 
+Explore the cave's fascinating stalactites and stalagmites and wallow in a natural mud bath inside
+
+- 
+The full Dark Cave experience takes about 2.5-3 hours from start to finish — zipline, kayaking, cave exploration, mud bath, swimming and the trip back
+
+### Afternoon
+
+**Mooc Spring Eco Trail** — the quiet choice. Turquoise springs in the middle of the forest, wooden walkways, swimming platforms and kayaks. It is the opposite of the Dark Cave: no adrenaline, plenty of shade, ideal on a hot day.
+
+**Botanic Garden** — if you didn't go the day before, or if it rains and you still want to move: the trail is under tree cover for almost its whole length.
+
+**Or: nothing at all.** Phong Nha is the right place on this trip to do nothing — a long coffee by the river, a load of laundry, and rested legs before the long transfer tomorrow.
+
+### Evening
+
+**Last evening in Phong Nha**
+
+Tomorrow you leave early for Ninh Binh and it is a long day on the road. Dinner without a late night, bags packed the evening before.
+
+- **East Hill Phong Nha**: hilltop dining with sweeping views over rice paddies and limestone mountains — the right place for a last sunset here
+- **Phong Nha Family Restaurant**: home-style Vietnamese cooking, excellent beef pho
+
+### Tips of the Day
+
 - **For Dark Cave**: 
 Bring swimwear or quick-drying clothes and shoes that stay on in the water (no flip-flops). Turn up without proper swimwear and they'll send you back from the entrance — or you'll end up paying over the odds for it at the shop inside!
 
 - 
 Children under 1.4 metres can't do the zipline, and women more than three months pregnant can't take part in this tour, for their own safety
 
-- 
-During the rainy season (October-February), the cave sometimes closes early if the water rises too high — always call ahead in that period to confirm it's open for all activities
+- **Keep it genuinely free.** If days 20 and 21 went to plan, this day is a gift; if it rained, it is the safety net that rescues Paradise Cave or the boat cave.
+
+- **Pack tonight**: the transfer to Ninh Binh leaves at 8:00 and takes 8-9 hours.
 
 **Estimated daily budget for 4 people**: 
-- Paradise Cave: ~€40 (tickets + transport)
-- Dark Cave: ~€80 (tickets + transport)
+- Dark Cave: ~€80 (tickets + transport) — or ~€15 for Mooc Spring
 - Meals: ~€30
 - Accommodation: ~€20
 

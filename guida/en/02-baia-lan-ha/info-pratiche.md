@@ -2,34 +2,32 @@
 
 ### Getting There
 
-From Ninh Binh, your previous stop, you reach Cat Ba (the gateway to Lan Ha Bay) by bus plus ferry/speedboat in about 3.5-4 hours. The route often runs through Hai Phong, where the ferries to the island depart. Once aboard the cruise, you spend the night in a cabin out on the bay.
+⚠️ **This is the only leg of the trip with a hard deadline.** Cruise check-in closes at midday and the boat leaves: arriving late at the pier counts as a no-show, with no refund.
 
-**Recommended Companies:**
-- **Cat Ba Express** — widely rated the best option, with connections from Ninh Binh/Hai Phong ([official site](https://catbaexpress.com))
-- **Good Morning Cat Ba** — daily combined bus + boat service ([site](https://goodmorningcatba.com))
+**From Ninh Binh to the embarkation pier (26 October, ~3.5-4 hours)**
 
-**Transport Details:**
-- **Duration**: 3.5-4 hours total from Ninh Binh
+You go **straight from Tam Cốc to Tuan Chau Marina** by private car: about **180 km**. You do not go via Cat Ba and you take no scheduled ferry — the embarkation pier is on the mainland, on the Ha Long side.
 
-- **Prices**: around €15-20 per person for the combined bus + ferry leg
+| | |
+|---|---|
+| **Leave Tam Cốc** | **07:00-07:15** |
+| **Boarding** | **11:30-11:45** |
+| **Where** | Tuan Chau Marina, Ha Long |
+| **Duration** | ~3.5-4 hours, with one stop |
 
-- **Sea leg**: speedboat/ferry to Cat Ba, then a local bus to Cat Ba Town (30-45 minutes)
+**Practical details:**
+- ⚠️ **The transfer is NOT included in the cruise.** The operators' shuttles run from Hanoi's Old Quarter, not from Ninh Binh: this leg is on you
+- **Arrange it with the Tam Cốc accommodation**, which is the right place to do it
+- ⚠️ A 07:00 departure is **well before normal check-out**: it must be agreed with the hotel in advance, not just booked as a car
+- Leaving at 07:00 for an 11:30 boarding gives you about an hour of margin — which on this road, with four people and one stop, is the sensible minimum
 
+**Moving on — to Hanoi (27 October):**
 
-**How it works:**
-1. Bus from Ninh Binh towards Hai Phong / the boarding point
-2. Ferry or speedboat across to Cat Ba Island
+You **disembark around 11:30** and the **operator's shuttle takes you back to Hanoi for about 14:30**. It is booked together with the cruise (indicatively $20 per person) and is the simplest option, because it leaves when the boat docks.
 
-3. Local bus to Cat Ba Town, then a transfer to the pier for the cruise
+💡 Send them **the address of your Hanoi hotel** in advance: some operators drop passengers generically in the Old Quarter, others take you to the door.
 
-
-💡 **Insider tip**: Book the combined transfer through your Ninh Binh accommodation or the cruise company — it saves you wrestling your luggage through awkward changes
-
-
-**Departing — towards Hanoi:**
-
-Once the cruise is over, you head back from Cat Ba to Hanoi on the direct service (bus + ferry + bus) in about 3-4 hours. There are frequent morning departures arriving in the Old Quarter, and many companies (Cat Ba Express, Good Morning Cat Ba) will pick you up from the pier.
-
+If the shuttle isn't available, there are the scheduled Cat Ba/Halong → Hanoi buses (3-4 hours, with **Cat Ba Express** or **Good Morning Cat Ba**).
 
 ### Getting Around
 

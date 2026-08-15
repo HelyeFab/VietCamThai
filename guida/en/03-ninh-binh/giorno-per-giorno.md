@@ -1,11 +1,38 @@
 # DAY BY DAY — Ninh Binh
 
-## Day 25 — October 25, 2026 — The Underground Halong Bay
+## Day 23 — October 23, 2026 — The long road north
 
 ### Morning
-You arrive in Ninh Binh on the night bus from Phong Nha (evening departure, 
-arriving at dawn after an 8–10 hour journey in a sleeper berth
-). Once you've dropped your bags at the homestay and had breakfast, head to **Trang An** to start with the UNESCO boat tour.
+
+**Departure from Phong Nha at 8:00.** Today is the longest leg of the trip: about **450 km and 8-9 hours by private car**, stops included. It is not a day to plan — it is a day to get through, and the way to do it well is to break it up.
+
+The driver collects you at the hotel. You leave Quang Binh and work your way up the spine of the country: limestone hills first, then the flat of the Red River delta, with the rice paddies widening as you go north.
+
+### Afternoon
+
+The journey includes **stops for lunch and to stretch your legs**: with four people and eight or nine hours in a car, those are the difference between a transfer and an endurance test.
+
+**Arrival in Tam Cốc between 16:00 and 17:00**, still in daylight. Check in, bags in the room, and a first look at the reason you came: limestone pinnacles rising straight out of the rice fields, the same as Ha Long but planted in earth instead of sea.
+
+### Evening
+
+After a day like this, the right evening is a short one. Dinner locally and an early night: tomorrow starts with Trang An, and it is worth being on the water before the coaches.
+
+- The **Tam Cốc** area has a handful of family-run restaurants a few minutes' walk away
+- The local speciality is **mountain goat (dê núi)**, served a hundred ways — and **cơm cháy**, crispy fried rice
+
+### Tips of the Day
+
+- **Cash**: if you are paying for the transfer in cash, withdraw it **before leaving Phong Nha**, or back in Hoi An — ATMs in small towns have low per-withdrawal limits.
+- Keep water, snacks and a light change of clothes to hand: eight hours is long and the stops don't always fall where you'd want them.
+- **Don't plan anything for this afternoon.** Arriving around 16:00-17:00 leaves just enough time to settle in.
+
+---
+
+## Day 24 — October 24, 2026 — The Underground Halong Bay
+
+### Morning
+First full day in Ninh Binh. After breakfast, head to **Trang An** to start with the UNESCO boat tour — it is the best thing here and deserves the morning, when the water is still and the coaches haven't arrived.
 
 ![Trang An landscape](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Trang_An_Landscape_Complex%2C_Ninh_Binh_Province%2C_Vietnam%2C_20240202_1456_5313.jpg/1280px-Trang_An_Landscape_Complex%2C_Ninh_Binh_Province%2C_Vietnam%2C_20240202_1456_5313.jpg)
 
@@ -74,7 +101,7 @@ consider Van Long Nature Reserve as a less touristy alternative — the same spe
 
 ---
 
-## Day 26 — October 26, 2026 — The Awakening of the Rice Paddies
+## Day 25 — October 25, 2026 — The Awakening of the Rice Paddies
 
 ### Morning
 **Dawn at Tam Coc** — 

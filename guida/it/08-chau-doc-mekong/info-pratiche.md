@@ -2,24 +2,35 @@
 
 ### Come Arrivare
 
-**Barca veloce da Phnom Penh (Cambogia)**
+**Auto privata da Phnom Penh (la nostra tratta, ~4-5 ore porta a porta)**
+
+Si arriva a Chau Doc da Phnom Penh in **auto privata, direttamente dall'hotel all'hotel**, con partenza in mattinata e arrivo nel primo pomeriggio. Il confine si passa via terra al valico di **Vĩnh Xương**.
+
+È la soluzione che funziona meglio con quattro persone e quattro valigie grandi: niente cambi di mezzo, niente attese al molo, e la formalità di frontiera si fa con l'autista che aspetta.
+
+- **Prezzo indicativo**: circa **150$ per l'auto**, non a persona
+- **Organizzatelo tramite l'hotel di Chau Doc**: gli alberghi della zona gestiscono questa tratta abitualmente, autista cambogiano fino alla frontiera
+- 💵 Tenete **contanti in dollari** per la parte da saldare al confine — non è detto che si paghi tutto all'arrivo
+
+> 🛂 **Niente e-visa per il Vietnam.** I cittadini italiani entrano **senza visto fino a 45 giorni**: l'esenzione vale anche ai valichi di terra e si ottiene al momento, senza documenti da preparare. Non comprate e-visa online — è una spesa inutile. (Vedi la pagina *Documenti e Visti*.)
+
+**Alternative:**
+- **Barca veloce sul Mekong**: 5-6 ore, $30-65 a persona, con **Hang Chau Tourist** (www.hangchautourist.vn) o **Blue Cruiser**. Molto suggestiva, ma arriva a fine giornata e con una sola notte a Chau Doc fa perdere il pomeriggio
+- ⚠️ Attenzione leggendo gli orari online: la partenza delle 07:30 che si trova ovunque è quella nella **direzione opposta**, Chau Doc → Phnom Penh
 
 
-Si arriva a Chau Doc scendendo lungo il Mekong in barca veloce da Phnom Penh: il viaggio dura circa 5-6 ore (incluse le procedure alla frontiera fluviale Cambogia-Vietnam) e costa tra i $30-65 per persona. È una delle traversate più suggestive dell'intero itinerario.
+### Come Proseguire — Foresta di Trà Sư e auto privata per Ho Chi Minh City
 
-**Compagnie affidabili:**
-- **Hang Chau Tourist** (www.hangchautourist.vn) — la principale su questa rotta, partenza al mattino da Phnom Penh e arrivo a Chau Doc nel primo pomeriggio
-- **Blue Cruiser** — alternativa affidabile
+**14 ottobre.** La giornata combina le due cose in un unico pacchetto organizzato dall'hotel:
 
-**Dettagli pratici:**
-- Visto vietnamita: prepara l'e-visa prima della partenza; le procedure si svolgono alla frontiera fluviale (1-2 ore)
-- Imbarco: International Floating Port, Phnom Penh | Arrivo: Sunrise Palace, 03A Le Loi Street, Chau Doc
+1. **Mattina — Foresta di cajuput di Trà Sư in barca.** Ingresso, barca a remi e barca a motore inclusi. È il momento giusto dell'anno: a ottobre l'acqua è alta e il tappeto di lenticchia d'acqua verde è al massimo
+2. **Poi — trasferimento privato porta a porta fino a Ho Chi Minh City**, con partenza fra le 07:00 e le 08:00 e **arrivo in città verso le 17:00-18:00**, ancora con la luce
 
+**Costo indicativo**: circa **4.800.000 VND** per il pacchetto completo (foresta + auto), da saldare in hotel — in **contanti VND, oppure con carta ma con un 3% di commissione**.
 
-### Come Proseguire — Bus per Ho Chi Minh City
+Il vantaggio rispetto al pullman non è il prezzo, è l'orario: la corriera serale arriva a Saigon verso le 23:00, e con una sola notte a Chau Doc alle spalle è una differenza che si sente.
 
-
-Da Chau Doc si prosegue verso Ho Chi Minh City in autobus: circa 5-6 ore, con partenze ogni 2 ore dalle 5:00 alle 23:00 e biglietti a partire da 8 dollari (circa 7,5€).
+**Alternativa — autobus di linea**: circa 5-6 ore, partenze ogni 2 ore dalle 5:00 alle 23:00, biglietti da 8 dollari (circa 7,5€).
 
 **Compagnie consigliate:**
 - **Phuong Trang (Futa Bus)** - Prima scelta assoluta

@@ -28,7 +28,7 @@ Ancora stagione umida, ma il sud è la parte più mite del Vietnam in questo per
 
 - **Temperature**: 24-32°C
 
-#### **⚠️ Vietnam Centrale — Hoi An, Hué, Phong Nha (17-24 Ott)**
+#### **⚠️ Vietnam Centrale — Hoi An e Phong Nha (17-22 Ott)**
 
 
 **La tappa climaticamente più delicata.** Per il Vietnam centrale ottobre-novembre è il **culmine della stagione delle piogge**: precipitazioni abbondanti, **concreto rischio di alluvioni** (il centro storico di Hoi An si allaga quasi ogni anno tra ottobre e inizio novembre) e stagione attiva di tempeste/tifoni. A Phong Nha l'acqua alta può limitare l'accesso alle grotte raggiungibili in barca.

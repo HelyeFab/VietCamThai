@@ -28,31 +28,21 @@ molti alloggi di Hoi An offrono il transfer dall'aeroporto su richiesta
 
 ### Come Proseguire
 
-**Hoi An → Hué via Hai Van Pass**
+**Hoi An → Phong Nha via Hai Van Pass (19 ottobre, ~6-7 ore)**
 
+Da Hoi An si prosegue **direttamente verso Phong Nha**, senza fermarsi a Hué: circa 300 km in **auto privata**, 6-7 ore comprese le soste, con partenza la mattina verso le 8:00.
 
-Il trasferimento da Hoi An a Hué via Hai Van Pass è una delle tratte più scenografiche del Vietnam
-. L'auto privata via Hai Van Pass (~25€/pp) è la scelta perfetta — 
-offre servizio porta a porta con autista professionale e la possibilità di scegliere il percorso scenico
-.
+È una delle tratte più scenografiche del Vietnam, e il motivo è il **Passo di Hải Vân**. Chiedete espressamente all'autista di **prendere la strada costiera invece del tunnel**, con una sosta in cima per le foto: il tunnel fa risparmiare una quarantina di minuti e toglie l'unico tratto davvero panoramico del viaggio.
 
 **Opzioni trasporto:**
-- **Auto privata (consigliata)**: 
-Circa 3 ore di viaggio attraverso lo scenografico Hai Van Pass, uno dei percorsi più belli del Vietnam
-
-- **Bus turistico**: 
-3,5-4,5 ore, costo 6-15$/pp
-
-- **Treno + bus via Da Nang**: 
-5 ore totali, costo 10-13$/pp
-
+- **Auto privata (la nostra scelta)**: porta a porta, 6-7 ore con soste per pranzo e riposo. Indicativamente **3,5-4,5 milioni di VND (115-150€) per l'auto**, non a persona. Per quattro persone con quattro valigie grandi serve un **7 posti o più grande**
+- **Chiedetela al vostro alloggio**: gli hotel di Hoi An organizzano questa tratta abitualmente, spesso con pagamento alla reception
+- **12Go / Bookaway**: entrambi vendono la tratta online, utile come alternativa se l'hotel non risponde
+- **Bus turistico o limousine**: più economico ma sensibilmente più lungo su questa distanza
 
 **Compagnie affidabili:**
-- **Hoi An Transport Service**: [hoi](https://hoiantransportservice.com/) - 
+- **Hoi An Transport Service**: [hoiantransportservice.com](https://hoiantransportservice.com/) - 
 Specializzata in trasporti privati dal 2014, auto moderne e pulite, autisti puntuali e professionali
-
-- **GetYourGuide**: [Link](https://www.getyourguide.com/da-nang-l939/hoi-an-to-hue-by-private-car-via-hai-van-pass-golden-bridge-t475297/) - 
-Servizio porta a porta con autista professionale, possibilità di scegliere il percorso
 
 
 **Tappe lungo il percorso:**

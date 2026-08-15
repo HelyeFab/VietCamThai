@@ -28,7 +28,7 @@ Still the wet season, but the south is the gentlest part of Vietnam at this time
 
 - **Temperatures**: 24-32°C
 
-#### **⚠️ Central Vietnam — Hoi An, Hué, Phong Nha (17-24 Oct)**
+#### **⚠️ Central Vietnam — Hoi An and Phong Nha (17-22 Oct)**
 
 
 **The trickiest stretch weather-wise.** In central Vietnam, October-November is the **peak of the rainy season**: heavy rainfall, a **real risk of flooding** (Hoi An's old town floods almost every year between October and early November), and an active storm/typhoon season. In Phong Nha, high water can cut off access to the boat-reached caves.

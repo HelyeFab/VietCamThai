@@ -1,13 +1,18 @@
 # GIORNO PER GIORNO — HANOI
 
-## Giorno 28 — 28 Ottobre 2026 — Primo Assaggio della Magia di Hanoi
+## Giorno 27 — 27 Ottobre 2026 — Primo Assaggio della Magia di Hanoi
 
 ![Il Quartiere Vecchio di Hanoi di sera](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Hanoi_Old_Quarter%2C_9_March_2019-2.jpg/1280px-Hanoi_Old_Quarter%2C_9_March_2019-2.jpg)
 
 ### Mattina
-Arrivo ad Hanoi dalla Baia di Lan Ha (Cat Ba) in bus, terminata la crociera, e sistemazione in hotel nel cuore del Quartiere Vecchio. 
+Ultima mattina in barca: **si sbarca verso le 11:30**, dopo colazione e l'ultima uscita in baia. Da lì la navetta della crociera riporta ad Hanoi.
+
+### Pomeriggio
+**Arrivo in città verso le 14:30** e sistemazione in hotel, vicino al Quartiere Vecchio. 
 Il Tempio della Letteratura dista solo 2 chilometri dal Quartiere Vecchio e dal Lago Hoan Kiem
 , posizione perfetta per gli ultimi giorni del viaggio.
+
+Il pomeriggio è più lungo di quanto ci si aspetti — lo sbarco a metà mattina lascia mezza giornata libera in città, che è il momento giusto per una prima passeggiata senza programma nel Quartiere Vecchio.
 
 ![Mausoleo di Ho Chi Minh](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Hanoi_Vietnam_Mausoleum-of-Ho-Chi-Minh-01.jpg/1280px-Hanoi_Vietnam_Mausoleum-of-Ho-Chi-Minh-01.jpg)
 
@@ -69,7 +74,7 @@ Le strade traboccano di venditori ambulanti e motociclette. Inizia con un ciclo 
 
 ---
 
-## Giorno 29 — 29 Ottobre 2026 — Laghi, Templi e Cultura Millenaria
+## Giorno 28 — 28 Ottobre 2026 — Laghi, Templi e Cultura Millenaria
 
 ### Mattina
 **Lago Hoan Kiem e Tempio Ngoc Son** (8:00-10:00)
@@ -150,7 +155,7 @@ Porta contanti: la biglietteria non accetta pagamenti con carta di credito
 
 ---
 
-## Giorno 30 — 30 Ottobre 2026 — Politica, Storia e Street Food Perfetto
+## Giorno 29 — 29 Ottobre 2026 — Politica, Storia e Street Food Perfetto
 
 ### Mattina
 **Mausoleo di Ho Chi Minh** (7:30-10:30)
@@ -240,6 +245,49 @@ Drink — caffè ghiacciato, succo di canna da zucchero, trà đá (tè ghiaccia
 - [Tempio della Letteratura - Sito Ufficiale](https://templeofliterature.com/)
 - [Vietnam Museum of Ethnology](https://www.vme.org.vn/en)
 - [Mappa Google Maps - Old Quarter Walking Route](https://maps.google.com)
+
+---
+
+## Giorno 30 — 30 Ottobre 2026 — Mercati, Donne e Caffè all'Uovo
+
+![Il Quartiere Vecchio di Hanoi di sera](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Hanoi_Old_Quarter%2C_9_March_2019-2.jpg/1280px-Hanoi_Old_Quarter%2C_9_March_2019-2.jpg)
+
+Ultimo giorno pieno del viaggio. Dopo i grandi monumenti dei giorni scorsi, oggi si torna alla Hanoi quotidiana: un mercato, un museo che vale più di quanto prometta, e il caffè più strano e più buono del Vietnam.
+
+### Mattina
+
+**Mercato Đồng Xuân (dalle 6:00)** — il più grande mercato coperto di Hanoi, all'estremità nord del Quartiere Vecchio. Tre piani: al pianterreno cibo fresco e fiori, sopra tessuti, abbigliamento e chincaglieria all'ingrosso.
+
+Non è un mercato per turisti, ed è esattamente questo il motivo per andarci. Le bancarelle di **street food sul lato est** sono fra le più autentiche della città — è il posto giusto per il *bún riêu* (zuppa di granchio e pomodoro) o il *bánh tôm* (frittelle di gamberi).
+
+**Consiglio pratico**: si contratta, ma con il sorriso e senza accanimento. Il prezzo di partenza per uno straniero è tipicamente il doppio; metà è un buon punto d'arrivo.
+
+### Pomeriggio
+
+**Museo delle Donne Vietnamite (Vietnamese Women's Museum)** — 
+ingresso 40.000 VND, aperto 8:00-17:00, 36 Lý Thường Kiệt
+.
+
+È il museo più sottovalutato di Hanoi e probabilmente il migliore per capire il paese. Tre piani su matrimonio e famiglia, storia (comprese le donne combattenti della guerra), e la sezione più bella, sui **costumi e le culture delle minoranze etniche** del nord.
+
+A differenza di molti musei vietnamiti, le didascalie sono in ottimo inglese e il percorso è pensato per essere letto, non solo guardato. Contate **1,5-2 ore**.
+
+**In alternativa, se il tempo è brutto**: il **Museo di Etnologia** (più lontano, ma con le case tradizionali ricostruite nel giardino) o una sosta lunga in un caffè con vista sul lago.
+
+### Sera
+
+**Caffè all'uovo (cà phê trứng)** — l'istituzione da non saltare. Tuorlo montato con latte condensato sopra un caffè forte: sembra un dessert, ha la consistenza di uno zabaione caldo, e viene servito in una tazzina appoggiata in una ciotola d'acqua bollente per non farlo raffreddare.
+
+- **Giảng Café** (39 Nguyễn Hữu Huân): l'inventore, dal 1946. Si entra da un corridoio stretto che sembra un errore, e si sbuca in un cortile
+- **Café Đinh** (13 Đinh Tiên Hoàng): al primo piano, con la vista migliore sul Lago Hoan Kiem — se trovate posto alla finestra
+
+**Ultima cena del viaggio.** Vale la pena chiuderla con qualcosa di specificamente hanoiano: il *chả cá* (pesce alla curcuma e aneto, cucinato al tavolo) da **Chả Cá Thăng Long**, oppure un ultimo giro di *bún chả*.
+
+### Tips del Giorno
+
+- **Fate i bagagli stasera, non domani.** Il volo di rientro parte in serata ma il check-out è a mezzogiorno: è molto più comodo avere le valigie chiuse e lasciarle in deposito.
+- Đồng Xuân è **molto affollato**: borse davanti e telefono in tasca chiusa, come in qualunque mercato grande.
+- Se avete ancora dong da spendere, il mercato e i caffè sono il posto giusto per finirli — cambiare valuta indietro all'aeroporto conviene poco.
 
 ---
 

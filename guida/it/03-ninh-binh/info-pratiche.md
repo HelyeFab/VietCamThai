@@ -2,13 +2,21 @@
 
 ### Come Arrivare
 
-**Da Phong Nha a Ninh Binh in bus notturno (8-10 ore)**
+**Da Phong Nha a Ninh Binh in auto privata (la nostra tratta, 8-9 ore)**
 
+Da Phong Nha, vostra tappa precedente, Ninh Binh si raggiunge in **auto privata a 7 posti**: circa **450 km e 8-9 ore comprese le soste** per mangiare e riposare, con **partenza alle 8:00** e arrivo a Tam Cốc **fra le 16:00 e le 17:00**, ancora con la luce e ben dentro l'orario di check-in.
 
-Da Phong Nha, vostra tappa precedente, Ninh Binh si raggiunge con i bus sleeper notturni che costano circa 12-15€ a persona e impiegano 8-10 ore
+È la tratta più lunga del viaggio. Con quattro persone e quattro valigie grandi, l'auto privata ha due vantaggi che contano più del prezzo: **si parte quando volete voi** e **si sosta quando serve**, invece di subire l'orario di un pullman.
+
+- **Prezzo indicativo**: circa **5 milioni di VND (165-180€) per il veicolo**, non a persona
+- **Chiedetela all'alloggio di Phong Nha**: la organizzano abitualmente e in genere si salda alla partenza, insieme al conto della camera
+- ⚠️ **Attenzione alla commissione sulla carta**: alcuni alloggi applicano un **3-4% su tutto il conto finale**, non solo sul trasferimento. Se preferite evitarla, prelevate i contanti **a Hoi An o Da Nang**, dove i bancomat hanno limiti più alti che nei paesi piccoli.
+
+**Alternativa: bus sleeper notturno.**
+Ninh Binh si raggiunge anche con i bus sleeper notturni che costano circa 12-15€ a persona e impiegano 8-10 ore
 . 
-La partenza è tipicamente in serata (19:30-21:00) con arrivo all'alba, così guadagnate una notte e arrivate riposati
-.
+La partenza è tipicamente in serata (19:30-21:00) con arrivo all'alba
+. Costa molto meno, ma fa dormire in pullman e scarica all'alba, ore prima di qualunque check-in.
 
 **Compagnie raccomandate:**
 - **Queen Cafe / Full Moon**: 
@@ -39,9 +47,18 @@ Portate uno strato in più: i bus notturni tengono l'aria condizionata alta
 La stazione degli autobus di Ninh Binh si trova vicino alla stazione ferroviaria, oltre il ponte verso Phat Diem
 
 
-**In partenza — verso la Baia di Lan Ha:**
+**In partenza — verso la Baia di Lan Ha (26 ottobre): ⚠️ questa ha un orario rigido**
 
-Dalla zona di Ninh Binh / Hai Phong la tappa successiva è la Baia di Lan Ha (isola di Cat Ba). Si raggiunge con bus + traghetto/speedboat in circa 3,5-4 ore; molti alloggi organizzano il transfer combinato o il collegamento via Hai Phong.
+Dalla zona di Tam Cốc si va **direttamente al molo di imbarco della crociera**, non a Cat Ba: **Tuan Chau Marina**, circa **180 km e 3,5-4 ore** di strada.
+
+**Il check-in della crociera chiude a mezzogiorno e la barca parte.** L'imbarco è fra le **11:30 e le 11:45**, e arrivare tardi al molo conta come mancata presentazione, senza rimborso. Quindi:
+
+- **Partenza da Tam Cốc verso le 07:00-07:15**, per avere margine e potersi fermare una volta lungo la strada
+- ⚠️ È **molto prima del check-out normale**: va concordata con l'alloggio in anticipo, non solo prenotata l'auto
+- **Il transfer non è incluso nella crociera**: le navette delle compagnie partono dal quartiere vecchio di Hanoi, non da Ninh Binh. Questa tratta è a carico vostro
+- **Chiedetelo all'alloggio di Tam Cốc**, che è il posto giusto per organizzarla (stesso criterio usato per le altre tratte: si chiede all'hotel da cui si parte)
+
+Non è una tratta su cui improvvisare la mattina stessa: è l'unico appuntamento del viaggio con una penale vera.
 
 
 ### Come Muoversi
