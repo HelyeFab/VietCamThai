@@ -16,9 +16,8 @@ Il pomeriggio è più lungo di quanto ci si aspetti — lo sbarco a metà mattin
 
 ![Mausoleo di Ho Chi Minh](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Hanoi_Vietnam_Mausoleum-of-Ho-Chi-Minh-01.jpg/1280px-Hanoi_Vietnam_Mausoleum-of-Ho-Chi-Minh-01.jpg)
 
-**Il viaggio da Cat Ba**: 
-- 
-Il bus diretto da Cat Ba (bus + traghetto + bus) impiega circa 3-4 ore con arrivo nel Quartiere Vecchio
+**Il viaggio dalla baia**: 
+- Dal molo di Tuan Chau Marina la **navetta della compagnia di crociera** porta direttamente in centro ad Hanoi: circa 2,5-3 ore di autostrada, arrivo in hotel verso le 14:30. Non c'è nulla da prenotare né traghetti da prendere — è incluso nella crociera.
 
 - Una volta lasciati i bagagli, una passeggiata nei dintorni del Lago Hoan Kiem è il modo perfetto per cominciare
 

@@ -80,10 +80,10 @@ Tuttavia, la spiaggia è disponibile per nuotare solo 2-3 ore al giorno a causa 
 
 **Mappa mentale per orientarsi:**
 - **Nord:** Baia di Ha Long (più famosa e affollata)
-- **Centro:** Isola di Cat Ba (il vostro punto di partenza)
+- **Centro:** Isola di Cat Ba (il cuore dell'arcipelago)
 - **Sud:** Baia di Lan Ha vera e propria (più tranquilla)
 - **Est:** Verso il mare aperto
-- **Accesso principale:** Porto di Beo sull'Isola di Cat Ba
+- **Il vostro imbarco:** Tuan Chau Marina, sulla terraferma a Ha Long (non Cat Ba)
 
 Lan Ha Bay si trova direttamente a sud-est della Baia di Ha Long, separata solo da un vago confine amministrativo — geologicamente e visivamente, sono identiche. Stesse torri calcaree imponenti che si innalzano dalle acque smeraldine. Stesse grotte e grotte nascoste. Stessi paesaggi drammatici che sembrano un dipinto cinese classico.
 

@@ -3,22 +3,18 @@
 ## Day 26 — October 26, 2026 — Hidden Pearls in the Emerald Bay
 
 ### Morning
-**Departure from Ninh Binh (morning)**
-- Take the combined transfer from Ninh Binh to Cat Ba (3.5-4 hours) via Hai Phong — bus, ferry/speedboat and local bus rolled into one — for around €15-20 per person
+**Leave Tam Cốc at 7:00 — private car, straight to the pier**
+- You go **directly from Tam Cốc to Tuan Chau Marina (Ha Long)** by private car: about **180 km, 3.5-4 hours** on the road. **You do not go via Cat Ba** and you take no scheduled ferry — the cruise embarks from the mainland.
+- ⏰ **The time is binding**: cruise check-in is **11:30-11:45 at the Orchid Lounge, Tuan Chau Marina**. Arrive later and the boat has gone, and the operator treats it as a no-show with no refund. That is why you leave at 7:00 and not an hour later.
 
 ![Cruising in Lan Ha Bay](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Islas_de_la_bah%C3%ADa_de_Lan_Ha%2C_Vietnam_%2836842724446%29.jpg/1280px-Islas_de_la_bah%C3%ADa_de_Lan_Ha%2C_Vietnam_%2836842724446%29.jpg)
 
-- Set off from Ninh Binh early so you reach Cat Ba town by midday and board the cruise in the early afternoon
+- **Breakfast**: ask the resort to serve it early or pack it to go — with a 7:00 departure there is no time for the buffet. Bring water and a few snacks: there is only one stop on the way.
+- **Luggage**: everything comes on board with you; the cabins are roomy but not huge, so keep just a day bag to hand with swimsuit, sunscreen and camera.
 
-- **Practical tip**: Ask the driver to drop you at Ben Beo Pier so you're already close to where the cruises depart
-- **Breakfast**: Bring snacks for the journey — stops are limited
-
-**Arrival and cruise check-in (12:00-13:00)**
-- Board around 13:00, settle into your cabin and tuck into a fresh fish lunch
-
-- **Recommended booking**: [Halong Bay Tours](https://www.halongbaytours.com) — 120-195 USD per person for 1-night cruises, 100-145 USD for budget ones
-
-- **Direct link**: [Heritage Line Lan Ha Bay](https://heritage-line.com/cruise/lan-ha-bay/) — packages from 321 USD for 1 night, 837 USD for 2 nights (January-April, October-December 2026)
+**Arrival and boarding (11:30-12:30)**
+- The cruise **is already booked and the deposit paid**: at check-in you only need the voucher (on your phone) and passports. Tender from the pier to the boat, settle into your cabin and **lunch on board** as the boat heads out into the bay.
+- The afternoon programme is set by the operator — what follows is what a one-night Lan Ha Bay cruise usually does.
 
 ### Afternoon
 **Exploring Cai Beo — Vietnam's Oldest Floating Village (14:00-17:30)**
@@ -43,14 +39,9 @@
 
 - **Typical cruise menu**: Budget cruises serve simple but decent fish, while mid-range ones offer more variety and better cooking
 
-**Restaurants for dinner in Cat Ba town** (if you don't do the overnight cruise):
-- **Quiri Pub Cocktail & Restaurant** — 135 Tung Dinh Street, in the centre of Cat Ba Town, now one of the island's best-loved spots
-
-- **Green Mango** — a great choice for dinner, blending Vietnamese, Asian, international and fusion cooking
-
-- **Quan Cat Ba** — 180 Một Tháng Tư Street, a must-visit seafood restaurant for fresh catch and authentic flavours
-
-- **Average cost**: 250-400k VND (10-16 USD) for a main course
+**Night on board**
+- You sleep on the boat, anchored in a sheltered cove of the bay. After dinner cruises usually offer squid fishing from the deck, a film, or simply the silence of the bay — no moving about, no restaurant to hunt for.
+- Tomorrow morning you disembark around 11:30 and the operator's shuttle takes you straight to Hanoi: **there is nothing to arrange for the 27th**.
 
 ### Tips of the Day
 

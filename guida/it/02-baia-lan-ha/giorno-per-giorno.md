@@ -3,27 +3,18 @@
 ## Giorno 26 — 26 Ottobre 2026 — Perle Nascoste nella Baia di Smeraldo
 
 ### Mattina
-**Partenza da Ninh Binh (mattino)**
-- 
-Prendete il transfer combinato da Ninh Binh a Cat Ba (3,5-4 ore), via Hai Phong, che include bus, traghetto/speedboat e bus locale, a circa 15-20€ a persona
+**Partenza da Tam Cốc alle 7:00 — in auto privata, dritti al molo**
+- Si va **direttamente da Tam Cốc a Tuan Chau Marina (Ha Long)** in auto privata: circa **180 km, 3,5-4 ore** di strada. **Non si passa da Cat Ba** e non si prende nessun traghetto di linea — l'imbarco della crociera è sulla terraferma.
+- ⏰ **L'orario è vincolante**: il check-in della crociera è **alle 11:30-11:45 all'Orchid Lounge di Tuan Chau Marina**. Chi arriva dopo trova la barca già partita, e la compagnia lo tratta come mancata presentazione senza rimborso. Ecco perché si parte alle 7:00 e non un'ora dopo.
 
 ![Crociera nella Baia di Lan Ha](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Islas_de_la_bah%C3%ADa_de_Lan_Ha%2C_Vietnam_%2836842724446%29.jpg/1280px-Islas_de_la_bah%C3%ADa_de_Lan_Ha%2C_Vietnam_%2836842724446%29.jpg)
 
-- 
-Partite presto da Ninh Binh per arrivare a Cat Ba town a metà giornata e imbarcarvi sulla crociera nel primo pomeriggio
+- **Colazione**: chiedete al resort di anticiparla o di prepararla da asporto — con la partenza alle 7:00 non c'è tempo per il buffet. Portate acqua e qualche snack: la sosta lungo la strada è una sola.
+- **Bagagli**: tutto viene a bordo con voi; sulla barca le cabine sono spaziose ma non enormi, quindi tenete a portata di mano solo lo zaino con costume, crema solare e macchina fotografica.
 
-- **Consiglio pratico**: Chiedete all'autista di lasciarvi al Ben Beo Pier per essere già vicini alla partenza delle crociere
-- **Colazione**: Portate snack per il viaggio — le fermate sono limitate
-
-**Arrivo e check-in crociera (12:00-13:00)**
-- 
-Salite a bordo verso le 13:00, sistematevi in cabina e gustate un pranzo di pesce fresco
-
-- **Prenotazione consigliata**: [Halong Bay Tours](https://www.halongbaytours.com) - 
-Prezzi 120-195 USD per persona per crociere 1 notte, 100-145 USD per quelle budget
-
-- **Link diretto**: [Heritage Line Lan Ha Bay](https://heritage-line.com/cruise/lan-ha-bay/) - 
-Pacchetti da 321 USD per 1 notte, 837 USD per 2 notti (gennaio-aprile, ottobre-dicembre 2026)
+**Arrivo e imbarco (11:30-12:30)**
+- La crociera **è già prenotata e pagata l'acconto**: al check-in bastano il voucher (sul telefono) e i passaporti. Tender dal molo alla nave, sistemazione in cabina e **pranzo a bordo** mentre la barca esce dalla baia.
+- Il programma del pomeriggio lo detta la compagnia — quello che segue è ciò che una crociera di una notte nella Baia di Lan Ha fa di solito.
 
 ### Pomeriggio
 **Esplorazione di Cai Beo — Il Villaggio Galleggiante Più Antico del Vietnam (14:00-17:30)**
@@ -56,18 +47,9 @@ Cena al tramonto sul ponte con cieli arancio-rosa che si riflettono sull'acqua, 
 - **Menu tipico della crociera**: 
 Le crociere budget includono pesce base ma adeguato, quelle di fascia media offrono varietà e preparazione migliore
 
-**Ristoranti per la cena a Cat Ba town** (se non fate la crociera overnight):
-- **Quiri Pub Cocktail & Restaurant** - 
-135 Tung Dinh Street, al centro di Cat Ba Town, diventato uno dei locali più amati dell'isola
-
-- **Green Mango** - 
-Ottima scelta per cene che unisce cucina vietnamita, asiatica, internazionale e fusion
-
-- **Quan Cat Ba** - 
-180 Một Tháng Tư Street, ristorante di pesce imperdibile che offre pescato fresco e sapori autentici
-
-- **Costo medio**: 
-250-400k VND (10-16 USD) per un piatto principale
+**Notte a bordo**
+- Si dorme in nave, ancorati in una cala riparata della baia. Dopo cena le crociere propongono di solito pesca dei calamari dal ponte, un film o semplicemente il silenzio della baia — nessuno spostamento, nessun ristorante da cercare.
+- Domattina si sbarca verso le 11:30 e la navetta della compagnia porta direttamente ad Hanoi: **il 27 non c'è nulla da organizzare**.
 
 ### Tips del Giorno
 

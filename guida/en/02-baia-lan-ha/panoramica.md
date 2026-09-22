@@ -67,10 +67,10 @@ Bear in mind that the tide rises and swallows the beach, so it's only open for s
 
 **Mental map to get your bearings:**
 - **North:** Ha Long Bay (more famous and crowded)
-- **Centre:** Cat Ba Island (your starting point)
+- **Centre:** Cat Ba Island (the heart of the archipelago)
 - **South:** Lan Ha Bay proper (quieter)
 - **East:** Towards the open sea
-- **Main access:** Beo Pier on Cat Ba Island
+- **Your embarkation:** Tuan Chau Marina, on the mainland at Ha Long (not Cat Ba)
 
 Lan Ha Bay lies directly southeast of Ha Long Bay, divided from it only by a fuzzy administrative line — geologically and visually, the two are identical. The same imposing limestone towers rising from emerald waters. The same hidden caves and grottoes. The same dramatic landscapes straight out of a classical Chinese painting.
 

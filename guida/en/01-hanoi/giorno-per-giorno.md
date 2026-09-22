@@ -16,9 +16,8 @@ The afternoon is longer than you'd expect — disembarking mid-morning leaves ha
 
 ![Ho Chi Minh Mausoleum](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Hanoi_Vietnam_Mausoleum-of-Ho-Chi-Minh-01.jpg/1280px-Hanoi_Vietnam_Mausoleum-of-Ho-Chi-Minh-01.jpg)
 
-**The journey from Cat Ba**:
--
-The direct bus from Cat Ba (bus + ferry + bus) takes about 3-4 hours, arriving in the Old Quarter
+**The journey from the bay**:
+- From the pier at Tuan Chau Marina the **cruise operator's shuttle** takes you straight into central Hanoi: about 2.5-3 hours on the expressway, arriving at the hotel around 14:30. Nothing to book and no ferries to catch — it is included in the cruise.
 
 - Once you've dropped off your luggage, a stroll around Hoan Kiem Lake is the perfect way to begin
 
