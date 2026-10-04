@@ -23,7 +23,7 @@ After four full days in Bangkok, the trip carries on to Cambodia on the **mornin
 
 **Airlines on the route:**
 - **Bangkok Airways** (your choice): direct flights from Suvarnabhumi, free lounge
-- **Bangkok Airways**: more comfortable but expensive, operates from Suvarnabhumi
+- **Thai AirAsia**: the cheapest fares, but flies from Don Mueang (DMK) — a different airport
 - **Thai Airways**: premium service but higher prices
 
 **Where to book:**

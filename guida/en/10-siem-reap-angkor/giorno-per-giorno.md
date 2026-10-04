@@ -5,7 +5,7 @@
 ![Angkor Wat](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/2014-Cambodge_Angkor_Wat_%2821%29.jpg/1280px-2014-Cambodge_Angkor_Wat_%2821%29.jpg)
 
 ### Morning
-An easy start in Bangkok: today you fly. After breakfast and check-out, your **private transfer** collects you from The Cotton Saladaeng and runs you to **Don Mueang (DMK)** (~40-60 min in the morning traffic). The **Thai AirAsia flight** leaves around **10:55** and has you in Cambodia in just over an hour (~€50 per person). Aim to be there for check-in **2.5-3 hours** ahead, so you can set off without a rush.
+An easy start in Bangkok: today you fly. After breakfast and check-out, your **private transfer** collects you from The Cotton Saladaeng and runs you to **Suvarnabhumi Airport (BKK)** — the same one you arrived at, **not** Don Mueang (~40-60 min in the morning traffic). **Bangkok Airways flight PG905** leaves at **10:55** and has you in Cambodia in just over an hour. The check-in desk closes at **10:05**, so aim to be there **2.5-3 hours** ahead and set off without a rush.
 
 ![Ta Prohm — the Tomb Raider temple](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Tree_roots_and_temple%2C_Ta_Prohm%2C_Angkor%2C_Cambodia.jpg/1280px-Tree_roots_and_temple%2C_Ta_Prohm%2C_Angkor%2C_Cambodia.jpg)
 

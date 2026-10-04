@@ -22,8 +22,8 @@ Dopo quattro giorni pieni a Bangkok, il viaggio prosegue verso la Cambogia la **
 - **Al mattino**: colazione veloce, check-out e via all'aeroporto senza fretta
 
 **Compagnie sulla tratta:**
-- **Thai AirAsia**: le tariffe più economiche (la vostra scelta), voli diretti da DMK
-- **Bangkok Airways**: più confortevole ma costosa, opera da Suvarnabhumi
+- **Bangkok Airways** (la vostra scelta): voli diretti da Suvarnabhumi, lounge gratuita
+- **Thai AirAsia**: le tariffe più economiche, ma vola da Don Mueang (DMK) — un altro aeroporto
 - **Thai Airways**: servizio premium ma prezzi più elevati
 
 **Dove prenotare:**
@@ -84,7 +84,7 @@ spesso i conducenti quotano 150-300 THB per percorsi che costerebbero 60 THB con
 **The Cotton Saladaeng Hotel** — 14, 1 Soi Sathon 2, Si Lom, Bang Rak
 - **Zona**: Silom/Sathon, il distretto degli affari, tranquillo e sicuro di sera
 - **Collegamenti**: a pochi passi dalla BTS Sala Daeng e dalla MRT Silom, con il Lumphini Park vicino — base ideale per raggiungere templi, Chinatown e i mercati fuori città
-- **Perché qui**: posizione centrale e ben servita, quartiere ordinato, comodo sia per rientrare la sera sia per partire verso Don Mueang l'ultima mattina
+- **Perché qui**: posizione centrale e ben servita, quartiere ordinato, comodo sia per rientrare la sera sia per partire verso Suvarnabhumi l'ultima mattina
 
 **Alternative budget nella stessa fascia (~35€/notte per camera doppia):**
 

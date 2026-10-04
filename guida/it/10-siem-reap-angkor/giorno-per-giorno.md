@@ -5,7 +5,7 @@
 ![Angkor Wat](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/2014-Cambodge_Angkor_Wat_%2821%29.jpg/1280px-2014-Cambodge_Angkor_Wat_%2821%29.jpg)
 
 ### Mattina
-Sveglia con calma a Bangkok: oggi si vola. Dopo colazione e check-out, il vostro **transfer privato** vi preleva al The Cotton Saladaeng e vi porta a **Don Mueang (DMK)** (~40-60 min col traffico del mattino). Il **volo Thai AirAsia** parte verso le **10:55** e in poco più di un'ora vi porta in Cambogia (~50€ a persona): presentatevi al check-in con **2,5-3 ore** di anticipo, così partite senza fretta.
+Sveglia con calma a Bangkok: oggi si vola. Dopo colazione e check-out, il vostro **transfer privato** vi preleva al The Cotton Saladaeng e vi porta all'aeroporto **Suvarnabhumi (BKK)** — lo stesso dell'arrivo, **non** Don Mueang (~40-60 min col traffico del mattino). Il **volo Bangkok Airways PG905** parte alle **10:55** e in poco più di un'ora vi porta in Cambogia: il banco check-in chiude alle **10:05**, quindi presentatevi con **2,5-3 ore** di anticipo, così partite senza fretta.
 
 ![Ta Prohm — il tempio di Tomb Raider](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Tree_roots_and_temple%2C_Ta_Prohm%2C_Angkor%2C_Cambodia.jpg/1280px-Tree_roots_and_temple%2C_Ta_Prohm%2C_Angkor%2C_Cambodia.jpg)
 

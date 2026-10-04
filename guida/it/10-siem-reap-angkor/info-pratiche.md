@@ -13,7 +13,7 @@ Il nuovo aeroporto si trova a circa 50 km a est della città
 **Compagnie consigliate:**
 - **Thai AirAsia** — 
 le tariffe più economiche sulla tratta Bangkok–Siem Reap
- (voli da Don Mueang DMK)
+ (voli da Don Mueang DMK — un altro aeroporto, a un'ora di distanza)
   - Prenotazioni: [Thai AirAsia](https://www.airasia.com/)
 - **Bangkok Airways** — 
 più confortevole ma costosa
