@@ -29,7 +29,7 @@ DOWNLOADS = Path.home() / "Downloads"
 # The authoritative roadmap moved (Aug 2026). It is now a sheet inside the trip
 # concierge's synced workbook, which is also the Google Sheet the user edits.
 # READ-ONLY — never write to this file.
-TRIP_XLSX = (Path.home() / "Documents" / "Sync" / "Travel" / "VietThaiCam" / "Docs" /
+TRIP_XLSX = (Path.home() / "Documents" / "Unsync" / "Travel" / "VietThaiCam" / "Docs" /
              "00-Trip-Wide" / "Master_Itinerary_Budget_Notes.xlsx")
 SHEET_NAME = "Proposta di Nuova📍 Roadmap Gio"
 LEGACY_SHEET = "📍 Roadmap Giornaliera"   # superseded; kept only as a fallback
